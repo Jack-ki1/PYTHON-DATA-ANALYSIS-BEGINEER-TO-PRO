@@ -6,20 +6,43 @@ Welcome to the Python Data Analysis Beginner to Pro course! This repository cont
 
 ## Table of Contents
 
-1. [Level 1A: In-depth Pandas & Numpy](#level-1a-indepth-pandas--numpy)
-2. [Level 1B: Python Visualization Tools](#level-1b-python-visualization-tools)
-3. [Level 1C: Excel in Python](#level-1c-excel-in-python)
-4. [Level 1D: Web Scraping](#level-1d-web-scraping)
-5. [Level 2A: Streamlit Introduction](#level-2a-streamlit-introduction)
-6. [Level 2B: SQL Meets Python](#level-2b-sql-meets-python)
-7. [Level 3B: School Data Analysis](#level-3b-task-on-school-data)
-8. [Level 3C: Customer Survey Analysis](#level-3c-task-on-customer-survey-data)
-9. [Level 3D: Financial Analysis](#level-3d-task-on-financial-analysis)
-10. [Level 3E: Business Performance Analysis](#level-3e-task-on-business-performance)
-11. [Level 3F: Sales Analysis](#level-3f-task-on-simple-sales-analysis)
-12. [Level 3G: Global Superstore Project](#level-3g-globalsuperstore-project)
-13. [Level 3H: Dashboard Max](#level-3h-dashboard-max)
-14. [Quick Reference Guide](#quick-reference-guide)
+- [PYTHON DATA ANALYSIS BEGINEER TO PRO](#python-data-analysis-begineer-to-pro)
+  - [Comprehensive Guide to Data Analysis with Python](#comprehensive-guide-to-data-analysis-with-python)
+  - [Table of Contents](#table-of-contents)
+  - [Level 1A: In-depth Pandas \& Numpy](#level-1a-in-depth-pandas--numpy)
+    - [Files Included:](#files-included)
+  - [Level 1B: Python Visuals Tools](#level-1b-python-visuals-tools)
+    - [Files Included:](#files-included-1)
+  - [Level 1C: Excel in Python](#level-1c-excel-in-python)
+    - [Files Included:](#files-included-2)
+  - [Level 1D: Web Scraping](#level-1d-web-scraping)
+    - [Files Included:](#files-included-3)
+  - [Level 2A: Streamlit Introduction](#level-2a-streamlit-introduction)
+    - [Files Included:](#files-included-4)
+  - [Level 2B: SQL Meets Python](#level-2b-sql-meets-python)
+    - [Files Included:](#files-included-5)
+  - [Level 3B: Task on School Data](#level-3b-task-on-school-data)
+    - [Files Included:](#files-included-6)
+  - [Level 3C: Task on Customer Survey Data](#level-3c-task-on-customer-survey-data)
+    - [Files Included:](#files-included-7)
+  - [Level 3D: Task on Financial Analysis](#level-3d-task-on-financial-analysis)
+    - [Files Included:](#files-included-8)
+  - [Level 3E: Task on Business Performance](#level-3e-task-on-business-performance)
+    - [Files Included:](#files-included-9)
+  - [Level 3F: Task on Simple Sales Analysis](#level-3f-task-on-simple-sales-analysis)
+    - [Files Included:](#files-included-10)
+  - [Level 3G: Global Superstore Project](#level-3g-global-superstore-project)
+    - [Files Included:](#files-included-11)
+  - [Level 3H: Dashboard Max](#level-3h-dashboard-max)
+    - [File Included:](#file-included)
+  - [Quick Reference Guide](#quick-reference-guide)
+    - [File Included:](#file-included-1)
+  - [Prerequisites](#prerequisites)
+  - [Libraries Used](#libraries-used)
+  - [Getting Started](#getting-started)
+  - [Learning Path](#learning-path)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Level 1A: In-depth Pandas & Numpy
 
@@ -137,9 +160,7 @@ This capstone project integrates all previously learned techniques in a comprehe
 - **GLOBALSUPERSTORE_DATA -DUPLICATE1.csv**: Duplicate of the dataset for backup or alternative analysis.
 - **GLOBALSUPERSTORE_QUIZ.pdf**: Quiz in PDF format to assess understanding of the project.
 - **GLOBALSUPERSTORE_PB.pbix**: Power BI file potentially containing visualizations related to the project.
-- **Screenshot 2025-09-10 113916.png**: Screenshot documenting visualizations or results from the project.
-- **README.md**: Internal README file for the Global Superstore Project (currently empty).
-
+  
 ## Level 3H: Dashboard Max
 
 ### File Included:
