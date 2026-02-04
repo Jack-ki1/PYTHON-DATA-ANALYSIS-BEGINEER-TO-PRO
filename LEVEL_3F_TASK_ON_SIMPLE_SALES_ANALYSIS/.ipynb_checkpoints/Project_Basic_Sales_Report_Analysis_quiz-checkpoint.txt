@@ -1,0 +1,50 @@
+Project 1: Basic Sales Report Analysis
+Objective: Analyze a company's sales data to calculate revenue, profits, and trends.
+
+Dataset:
+Generate a synthetic dataset (500+ rows) with columns:
+
+Order_ID, Date, Product, Category, Quantity, Unit_Price, Region, Customer_ID
+
+
+Step-by-Step Questions:
+Beginner (Data Loading & Basic Calculations)
+Load the dataset into a Pandas DataFrame.
+
+Display the first 10 rows.
+
+Check for missing values,duplicates and handle them.
+
+Calculate total sales (Quantity * Unit_Price).
+
+Find the average order value by product.
+
+Group sales by Product and sort by highest revenue.
+
+Calculate total sales per Region.
+
+Find the best-selling product.
+
+Calculate the profit margin (assume a fixed cost of 60% of Unit_Price).
+
+Filter orders above $500.
+
+Intermediate (Pivot Tables & Visualization)
+Create a pivot table showing sales by Region and Category.
+
+Plot a bar chart of monthly sales trends.
+
+Use groupby to find the top 5 customers by spending.
+
+Calculate the percentage of total sales per category.
+
+Plot a pie chart of sales distribution by Region.
+
+Advanced (Automation & Reporting)
+
+Add a new column classifying sales as "High" (>500),"Medium"500),"Medium"(100-500),or"Low"(<500),or"Low"(<100).
+
+Use seaborn to create a heatmap of sales correlation.
+
+Write a function to flag outliers in Quantity.
+

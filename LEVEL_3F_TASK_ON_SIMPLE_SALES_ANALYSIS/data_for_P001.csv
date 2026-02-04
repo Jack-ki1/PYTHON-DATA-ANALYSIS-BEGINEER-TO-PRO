@@ -1,0 +1,526 @@
+Order_ID,Date,Product,Category,Quantity,Unit_Price,Region,Customer_ID
+ORD1000,2024-04-12,Laptop,Computers,4.0,1428.54,East,CUST206
+ORD1001,2024-03-12,Mouse,Accessories,5.0,276.23,West,CUST566
+ORD1002,2024-03-27,Monitor,Accessories,8.0,533.88,North,CUST971
+ORD1003,2024-01-24,Smartphone,Mobile Devices,3.0,79.85,West,CUST869
+ORD1004,2024-03-28,Smartphone,Mobile Devices,6.0,51.13,North,CUST376
+ORD1005,2024-02-02,Mouse,Accessories,6.0,60.25,North,CUST956
+ORD1006,2024-02-18,Tablet,Mobile Devices,3.0,604.57,East,CUST343
+ORD1007,2024-03-04,Mouse,Accessories,9.0,117.35,West,CUST918
+ORD1008,2024-01-07,Keyboard,Accessories,5.0,703.22,South,CUST373
+ORD1009,2024-01-04,Printer,Office Equipment,9.0,1450.17,South,CUST341
+ORD1010,2024-01-09,Laptop,Computers,5.0,384.8,East,CUST191
+ORD1011,2024-04-20,Laptop,Computers,7.0,934.5,North,CUST875
+ORD1012,2024-02-16,Smartphone,Mobile Devices,3.0,1368.51,East,CUST661
+ORD1013,2024-04-13,Laptop,Computers,4.0,501.98,North,CUST489
+ORD1014,2024-02-23,Laptop,Computers,4.0,318.04,West,CUST802
+ORD1015,2024-01-18,Tablet,Mobile Devices,2.0,622.97,South,CUST369
+ORD1016,2024-04-04,Monitor,Accessories,8.0,877.14,South,CUST351
+ORD1017,2024-03-02,Tablet,Mobile Devices,8.0,1274.57,West,CUST848
+ORD1018,2024-03-22,Tablet,Mobile Devices,5.0,900.79,South,CUST316
+ORD1019,2024-02-29,Tablet,Mobile Devices,9.0,479.6,West,CUST912
+ORD1020,2024-03-05,Smartphone,Mobile Devices,9.0,1480.99,North,CUST443
+ORD1021,2024-01-01,Tablet,Mobile Devices,8.0,58.01,North,CUST238
+ORD1022,2024-04-24,Monitor,Accessories,1.0,1081.45,East,CUST518
+ORD1023,2024-02-02,Monitor,Accessories,5.0,1393.14,West,CUST140
+ORD1024,2024-01-28,Monitor,Accessories,7.0,1282.56,North,CUST879
+ORD1025,2024-02-03,Monitor,Accessories,1.0,142.16,North,CUST506
+ORD1026,2024-03-02,Printer,Office Equipment,8.0,1015.59,West,CUST783
+ORD1027,2024-04-13,Keyboard,Accessories,6.0,1336.46,North,CUST838
+ORD1028,2024-04-10,Keyboard,Accessories,3.0,1153.14,North,CUST317
+ORD1029,2024-04-28,Monitor,Accessories,7.0,108.63,South,CUST306
+ORD1030,2024-01-15,Monitor,Accessories,3.0,95.57,West,CUST842
+ORD1031,2024-04-22,Tablet,Mobile Devices,4.0,866.75,North,CUST833
+ORD1032,2024-04-10,Printer,Office Equipment,7.0,926.41,South,CUST754
+ORD1033,2024-02-12,Mouse,Accessories,4.0,1417.14,East,CUST938
+ORD1034,2024-02-28,Laptop,Computers,3.0,283.77,East,CUST677
+ORD1035,,Keyboard,Accessories,9.0,202.97,North,CUST895
+ORD1036,2024-01-28,Monitor,Accessories,4.0,1344.21,North,CUST430
+ORD1037,2024-04-28,Monitor,Accessories,9.0,511.11,East,CUST324
+ORD1038,2024-01-01,Monitor,Accessories,9.0,989.15,North,CUST732
+ORD1039,2024-04-25,Laptop,Computers,9.0,491.93,West,CUST809
+ORD1040,2024-03-12,Tablet,Mobile Devices,9.0,753.0,South,CUST324
+ORD1041,2024-02-20,Mouse,Accessories,8.0,1417.22,East,CUST473
+ORD1042,2024-02-01,Laptop,Computers,8.0,1069.38,North,CUST212
+ORD1043,2024-03-02,Laptop,Computers,1.0,418.18,South,CUST367
+ORD1044,2024-02-08,Mouse,Accessories,2.0,1082.79,South,CUST712
+ORD1045,2024-04-22,Smartphone,Mobile Devices,8.0,103.49,East,CUST212
+ORD1046,2024-01-02,Laptop,Computers,2.0,646.0,West,CUST954
+ORD1047,2024-04-10,Printer,Office Equipment,1.0,969.81,West,CUST737
+ORD1048,2024-01-02,Keyboard,Accessories,5.0,759.71,West,CUST771
+ORD1049,2024-03-10,Printer,Office Equipment,7.0,1024.6,East,CUST302
+ORD1050,2024-02-25,Monitor,Accessories,1.0,1105.91,South,CUST379
+ORD1051,2024-03-09,Monitor,Accessories,4.0,1475.96,North,CUST610
+ORD1052,2024-04-21,Mouse,Accessories,1.0,268.54,West,CUST286
+ORD1053,2024-03-10,Monitor,Accessories,3.0,906.79,West,CUST502
+ORD1054,2024-03-30,Keyboard,Accessories,3.0,1223.78,South,CUST247
+ORD1055,2024-04-05,Tablet,Mobile Devices,7.0,302.83,East,CUST739
+ORD1056,2024-02-08,Monitor,Accessories,2.0,1264.68,South,CUST878
+ORD1057,2024-04-01,,Mobile Devices,9.0,214.54,South,CUST250
+ORD1058,2024-01-31,Laptop,Computers,3.0,381.4,East,CUST243
+ORD1059,2024-03-30,Printer,Office Equipment,9.0,799.12,South,CUST980
+ORD1060,2024-01-02,Mouse,Accessories,1.0,185.0,South,CUST751
+ORD1061,2024-03-09,Mouse,Accessories,5.0,1329.82,East,CUST108
+ORD1062,2024-04-14,Tablet,Mobile Devices,3.0,1065.52,West,CUST307
+ORD1063,2024-01-03,Smartphone,Mobile Devices,4.0,1336.28,South,CUST219
+ORD1064,2024-02-02,Tablet,Mobile Devices,8.0,1283.85,West,CUST724
+ORD1065,2024-03-12,Tablet,Mobile Devices,4.0,1352.9,East,CUST951
+ORD1066,2024-04-08,,Mobile Devices,9.0,1012.08,North,CUST960
+ORD1067,2024-01-18,Keyboard,Accessories,2.0,754.14,East,CUST262
+ORD1068,2024-03-20,Monitor,Accessories,9.0,305.09,North,CUST679
+ORD1069,2024-02-02,,Mobile Devices,5.0,309.29,West,CUST603
+ORD1070,2024-01-08,Laptop,Computers,7.0,1095.36,East,CUST739
+ORD1071,2024-02-02,Monitor,Accessories,3.0,972.68,South,CUST121
+ORD1072,,Laptop,Computers,6.0,1469.39,East,CUST662
+ORD1073,2024-02-23,Laptop,Computers,8.0,965.15,West,CUST325
+ORD1074,2024-01-21,Mouse,Accessories,1.0,886.51,North,CUST580
+ORD1075,2024-03-09,Tablet,Mobile Devices,3.0,879.41,West,CUST291
+ORD1076,2024-02-18,Printer,Office Equipment,,1492.1,North,CUST257
+ORD1077,2024-04-02,Smartphone,Mobile Devices,5.0,1331.07,East,CUST991
+ORD1078,2024-04-14,Tablet,Mobile Devices,5.0,1396.06,North,CUST596
+ORD1079,2024-02-15,Printer,Office Equipment,5.0,879.82,East,CUST799
+ORD1080,2024-04-06,Printer,Office Equipment,4.0,476.95,North,CUST260
+ORD1081,2024-03-07,Tablet,Mobile Devices,2.0,857.36,East,CUST834
+ORD1082,2024-02-23,Keyboard,Accessories,3.0,876.59,North,CUST891
+ORD1083,2024-04-23,Keyboard,Accessories,6.0,570.04,West,CUST738
+ORD1084,2024-01-27,Tablet,Mobile Devices,2.0,517.7,West,CUST203
+ORD1085,2024-02-02,Smartphone,Mobile Devices,9.0,1068.6,North,CUST275
+ORD1086,2024-02-08,Laptop,Computers,7.0,658.68,South,CUST917
+ORD1087,2024-01-25,Monitor,Accessories,8.0,1374.2,East,CUST605
+ORD1088,2024-01-07,Monitor,Accessories,9.0,960.45,North,CUST119
+ORD1089,2024-03-05,Smartphone,Mobile Devices,8.0,1067.85,North,CUST499
+ORD1090,2024-01-14,Keyboard,Accessories,3.0,540.09,West,CUST191
+ORD1091,2024-04-07,Laptop,Computers,2.0,685.79,South,CUST953
+ORD1092,2024-02-20,Laptop,Computers,9.0,274.81,North,CUST289
+ORD1093,2024-01-22,Laptop,Computers,6.0,412.86,North,CUST781
+ORD1094,2024-03-10,Monitor,Accessories,6.0,828.77,East,CUST712
+ORD1095,2024-04-06,Laptop,Computers,8.0,1166.49,West,CUST719
+ORD1096,2024-01-05,Printer,Office Equipment,7.0,173.75,South,CUST976
+ORD1097,2024-04-05,Tablet,Mobile Devices,4.0,646.46,East,CUST966
+ORD1098,2024-02-24,Keyboard,Accessories,8.0,1102.83,East,CUST368
+ORD1099,2024-04-23,Monitor,Accessories,3.0,1203.02,South,CUST930
+ORD1100,2024-01-19,Keyboard,Accessories,7.0,413.75,West,CUST573
+ORD1101,2024-04-26,Keyboard,Accessories,7.0,671.06,East,
+ORD1102,2024-02-27,Printer,Office Equipment,1.0,691.41,West,CUST195
+ORD1103,2024-04-27,Mouse,Accessories,9.0,1007.29,South,CUST984
+ORD1104,2024-01-01,Tablet,Mobile Devices,7.0,1002.81,West,CUST680
+ORD1105,2024-01-22,Keyboard,Accessories,7.0,119.19,West,CUST253
+ORD1106,2024-01-16,Keyboard,Accessories,3.0,1148.88,North,CUST796
+ORD1107,2024-01-29,Laptop,Computers,5.0,186.53,West,CUST193
+ORD1108,2024-04-19,Laptop,Computers,4.0,304.23,South,CUST317
+ORD1109,2024-03-30,Keyboard,Accessories,5.0,736.53,East,CUST388
+ORD1110,2024-04-03,Tablet,Mobile Devices,5.0,627.83,North,CUST621
+ORD1111,2024-04-27,Smartphone,Mobile Devices,5.0,1335.69,South,CUST279
+ORD1112,2024-04-04,Monitor,Accessories,3.0,779.55,East,CUST868
+ORD1113,2024-04-29,Keyboard,Accessories,5.0,1041.75,North,CUST115
+ORD1114,2024-01-24,Mouse,Accessories,7.0,1419.16,South,CUST995
+ORD1115,,Printer,Office Equipment,4.0,884.44,North,CUST789
+ORD1116,2024-02-04,Smartphone,Mobile Devices,1.0,714.47,North,CUST790
+ORD1117,2024-02-12,Printer,Office Equipment,5.0,957.61,North,CUST676
+ORD1118,2024-02-02,Printer,Office Equipment,8.0,1362.76,East,CUST655
+ORD1119,2024-01-29,Mouse,Accessories,2.0,106.5,North,CUST853
+ORD1120,2024-02-04,Keyboard,Accessories,7.0,153.22,East,CUST875
+ORD1121,2024-04-02,Monitor,Accessories,2.0,428.01,West,CUST295
+ORD1122,2024-02-27,Mouse,Accessories,5.0,555.09,East,CUST174
+ORD1123,2024-01-29,Tablet,Mobile Devices,8.0,1115.85,South,CUST376
+ORD1124,2024-02-05,Mouse,Accessories,5.0,1138.39,North,CUST291
+ORD1125,2024-04-08,Laptop,Computers,1.0,1110.89,North,CUST647
+ORD1126,2024-03-22,Monitor,Accessories,1.0,1175.8,South,CUST763
+ORD1127,2024-01-23,Laptop,Computers,5.0,395.97,West,CUST794
+ORD1128,2024-01-13,Tablet,Mobile Devices,7.0,1144.09,East,CUST972
+ORD1129,2024-01-30,Printer,Office Equipment,1.0,824.77,,CUST695
+ORD1130,2024-04-21,Tablet,Mobile Devices,9.0,514.07,South,CUST798
+ORD1131,2024-01-19,Keyboard,Accessories,1.0,127.55,North,CUST544
+ORD1132,2024-04-14,Laptop,Computers,3.0,182.37,West,CUST554
+ORD1133,2024-01-28,Mouse,Accessories,4.0,881.48,East,CUST466
+ORD1134,2024-01-16,Printer,Office Equipment,5.0,182.97,North,CUST495
+ORD1135,2024-01-25,Keyboard,Accessories,4.0,1025.15,West,CUST583
+ORD1136,2024-02-22,Keyboard,Accessories,7.0,1182.88,North,CUST138
+ORD1137,2024-04-18,Laptop,Computers,5.0,766.91,South,CUST497
+ORD1138,2024-04-04,Printer,Office Equipment,5.0,1118.7,East,CUST832
+ORD1139,2024-04-16,Printer,Office Equipment,2.0,1454.55,East,CUST108
+ORD1140,2024-03-14,Tablet,Mobile Devices,1.0,196.63,North,CUST618
+ORD1141,2024-02-15,Keyboard,Accessories,8.0,155.51,East,CUST894
+ORD1142,2024-03-06,Smartphone,Mobile Devices,5.0,794.32,North,CUST521
+ORD1143,2024-03-23,Monitor,Accessories,8.0,592.69,East,CUST932
+ORD1144,2024-03-26,Keyboard,Accessories,4.0,393.19,North,CUST426
+ORD1145,2024-03-29,Mouse,Accessories,4.0,557.82,South,CUST351
+ORD1146,2024-01-31,Monitor,Accessories,3.0,1176.86,East,CUST281
+ORD1147,2024-02-08,Keyboard,Accessories,3.0,211.24,East,CUST550
+,2024-02-14,Printer,Office Equipment,2.0,729.56,West,CUST157
+ORD1149,2024-01-20,Mouse,Accessories,8.0,220.41,North,CUST460
+ORD1150,2024-02-08,Keyboard,Accessories,1.0,1037.51,East,CUST447
+ORD1151,2024-03-02,Keyboard,Accessories,9.0,593.56,East,CUST468
+ORD1152,2024-01-25,Monitor,Accessories,8.0,816.14,South,CUST216
+ORD1153,2024-01-06,Laptop,Computers,5.0,112.93,South,CUST312
+ORD1154,2024-03-15,Monitor,Accessories,5.0,416.84,West,CUST758
+ORD1155,2024-01-20,Printer,Office Equipment,9.0,808.49,East,CUST332
+ORD1156,2024-02-18,Tablet,Mobile Devices,1.0,959.96,West,CUST985
+ORD1157,2024-01-03,Laptop,Computers,7.0,115.9,East,CUST111
+ORD1158,2024-03-14,Printer,Office Equipment,8.0,622.06,North,CUST507
+ORD1159,2024-01-28,Monitor,Accessories,5.0,452.2,North,
+ORD1160,2024-02-05,Laptop,Computers,8.0,562.36,South,CUST277
+ORD1161,2024-01-28,Printer,Office Equipment,5.0,1462.87,West,CUST803
+ORD1162,2024-01-27,Mouse,Accessories,6.0,96.86,West,CUST300
+ORD1163,2024-02-02,Keyboard,Accessories,5.0,1230.0,West,CUST831
+ORD1164,2024-04-21,Tablet,Mobile Devices,3.0,1242.68,East,CUST693
+ORD1165,2024-04-24,Smartphone,Mobile Devices,5.0,939.45,East,CUST549
+ORD1166,2024-01-10,,Accessories,8.0,1321.16,West,CUST350
+ORD1167,2024-04-18,Monitor,Accessories,5.0,88.23,North,CUST900
+ORD1168,2024-04-27,Keyboard,Accessories,1.0,746.54,West,CUST338
+ORD1169,2024-02-18,Keyboard,Accessories,5.0,1136.89,South,CUST316
+ORD1170,2024-03-26,Printer,Office Equipment,1.0,1265.58,North,CUST709
+ORD1171,2024-04-14,Laptop,Computers,3.0,,East,CUST504
+ORD1172,2024-04-21,Tablet,Mobile Devices,7.0,1303.85,East,CUST808
+ORD1173,2024-04-04,Laptop,Computers,5.0,1495.12,North,CUST536
+ORD1174,2024-01-23,Tablet,Mobile Devices,5.0,1102.88,West,CUST813
+ORD1175,2024-03-14,Tablet,Mobile Devices,3.0,408.65,South,CUST177
+ORD1176,2024-03-13,Laptop,Computers,1.0,1433.37,West,CUST816
+ORD1177,2024-01-04,Laptop,Computers,1.0,1023.97,East,CUST899
+ORD1178,2024-02-03,Smartphone,Mobile Devices,8.0,82.17,North,CUST349
+ORD1179,2024-02-03,Smartphone,Mobile Devices,6.0,1169.86,West,CUST990
+ORD1180,2024-02-19,Laptop,Computers,1.0,850.26,North,CUST488
+ORD1181,2024-04-03,Laptop,Computers,9.0,905.44,North,CUST866
+ORD1182,2024-02-16,Printer,Office Equipment,7.0,1144.95,South,CUST952
+ORD1183,2024-01-14,Printer,Office Equipment,2.0,1217.31,East,CUST202
+ORD1184,2024-02-07,Mouse,Accessories,2.0,558.35,West,CUST197
+ORD1185,2024-03-22,Printer,Office Equipment,3.0,1361.03,South,CUST407
+ORD1186,2024-02-07,Tablet,Mobile Devices,1.0,1186.3,West,CUST641
+ORD1187,2024-04-28,Printer,Office Equipment,3.0,1061.58,South,CUST896
+ORD1188,2024-01-04,Tablet,Mobile Devices,8.0,1271.03,South,CUST884
+ORD1189,2024-03-24,Keyboard,Accessories,8.0,116.5,North,CUST873
+ORD1190,2024-02-22,Keyboard,Accessories,2.0,526.69,East,CUST846
+ORD1191,2024-02-12,Mouse,Accessories,3.0,829.03,West,CUST762
+ORD1192,2024-02-24,Smartphone,Mobile Devices,6.0,1061.62,West,CUST459
+ORD1193,2024-01-04,Tablet,Mobile Devices,8.0,646.91,South,CUST963
+ORD1194,2024-03-07,Printer,Office Equipment,2.0,922.81,North,CUST150
+ORD1195,2024-01-19,Laptop,Computers,5.0,294.96,East,CUST703
+ORD1196,2024-02-11,Mouse,Accessories,6.0,178.62,South,CUST612
+ORD1197,2024-01-05,Mouse,Accessories,9.0,566.19,West,CUST145
+ORD1198,2024-02-03,Monitor,Accessories,1.0,779.96,South,CUST912
+ORD1199,2024-01-27,Mouse,Accessories,9.0,183.82,West,CUST146
+ORD1200,2024-03-26,Smartphone,Mobile Devices,8.0,1316.69,North,CUST930
+ORD1201,2024-02-17,Laptop,Computers,1.0,451.47,North,CUST356
+ORD1202,2024-01-08,Laptop,Computers,1.0,916.05,West,CUST791
+ORD1203,2024-03-19,Tablet,Mobile Devices,8.0,752.56,North,CUST573
+ORD1204,2024-01-28,Tablet,Mobile Devices,7.0,820.34,East,CUST485
+ORD1205,2024-04-18,Keyboard,Accessories,8.0,243.02,North,CUST102
+ORD1206,2024-04-20,Smartphone,Mobile Devices,7.0,791.93,East,CUST850
+ORD1207,2024-04-18,Monitor,Accessories,2.0,698.75,West,CUST838
+ORD1208,2024-04-24,,Accessories,9.0,1119.24,South,CUST127
+ORD1209,2024-03-14,Printer,Office Equipment,7.0,517.01,West,CUST330
+ORD1210,2024-03-26,Smartphone,Mobile Devices,9.0,1341.26,South,CUST311
+ORD1211,2024-01-25,Monitor,Accessories,4.0,564.9,South,CUST332
+ORD1212,2024-04-18,Tablet,Mobile Devices,2.0,176.03,North,CUST210
+ORD1213,2024-03-26,Laptop,Computers,2.0,858.73,East,CUST468
+ORD1214,2024-04-17,Tablet,Mobile Devices,3.0,599.22,South,CUST712
+ORD1215,2024-01-06,Keyboard,Accessories,4.0,986.58,South,CUST837
+ORD1216,2024-02-28,Monitor,Accessories,8.0,772.46,North,CUST840
+ORD1217,2024-02-02,Monitor,Accessories,5.0,197.58,,CUST809
+ORD1218,2024-03-10,Smartphone,Mobile Devices,7.0,757.32,North,CUST449
+ORD1219,2024-03-15,Printer,Office Equipment,8.0,1350.31,North,CUST858
+ORD1220,2024-01-03,Laptop,Computers,3.0,76.45,North,CUST328
+ORD1221,2024-02-05,Tablet,Mobile Devices,8.0,212.46,North,CUST421
+ORD1222,2024-03-24,Laptop,Computers,4.0,57.69,South,CUST217
+ORD1223,2024-04-22,Monitor,Accessories,8.0,1098.2,East,CUST673
+ORD1224,2024-02-26,Keyboard,Accessories,2.0,857.31,North,CUST491
+ORD1225,2024-01-26,Monitor,Accessories,3.0,1265.94,West,CUST744
+ORD1226,2024-03-10,Smartphone,Mobile Devices,6.0,1080.88,South,CUST823
+ORD1227,2024-04-06,Keyboard,Accessories,4.0,401.49,North,CUST658
+ORD1228,2024-01-01,Laptop,Computers,6.0,892.8,West,CUST238
+ORD1229,2024-04-09,Laptop,Computers,3.0,125.14,South,
+ORD1230,2024-04-29,Smartphone,Mobile Devices,5.0,141.89,East,CUST271
+ORD1231,2024-01-02,Laptop,Computers,8.0,1224.32,East,CUST420
+ORD1232,2024-03-03,Laptop,Computers,5.0,53.93,South,CUST876
+ORD1233,2024-03-15,Mouse,Accessories,8.0,928.85,West,CUST518
+ORD1234,2024-04-03,Tablet,Mobile Devices,1.0,1283.55,East,CUST335
+ORD1235,2024-02-19,Printer,Office Equipment,5.0,1109.76,East,CUST236
+ORD1236,2024-02-03,Keyboard,Accessories,3.0,146.42,North,CUST395
+ORD1237,2024-03-04,Smartphone,Mobile Devices,6.0,119.74,North,CUST448
+ORD1238,2024-03-12,Printer,Office Equipment,9.0,1138.23,West,CUST927
+ORD1239,2024-01-30,Mouse,Accessories,3.0,288.19,North,CUST104
+ORD1240,2024-03-23,Monitor,Accessories,4.0,508.49,South,CUST141
+ORD1241,2024-03-29,Mouse,Accessories,2.0,1234.07,North,CUST394
+ORD1242,2024-04-13,Monitor,Accessories,3.0,954.95,North,CUST964
+ORD1243,2024-01-23,Mouse,Accessories,1.0,386.71,West,CUST324
+ORD1244,2024-04-20,Monitor,Accessories,7.0,821.19,South,CUST920
+ORD1245,2024-04-13,Monitor,Accessories,8.0,955.15,West,CUST297
+ORD1246,2024-01-06,Laptop,Computers,3.0,960.18,South,CUST653
+ORD1247,2024-03-04,Mouse,Accessories,4.0,1201.34,North,CUST768
+ORD1248,2024-02-02,Tablet,Mobile Devices,4.0,1125.12,South,CUST519
+ORD1249,2024-01-29,Tablet,Mobile Devices,6.0,1140.98,South,CUST510
+ORD1250,2024-02-24,Keyboard,Accessories,1.0,98.62,North,CUST697
+ORD1251,2024-03-06,Laptop,Computers,5.0,1321.31,West,CUST964
+ORD1252,2024-04-27,Tablet,Mobile Devices,6.0,827.9,South,CUST914
+ORD1253,2024-04-09,Smartphone,Mobile Devices,8.0,,West,CUST114
+ORD1254,2024-01-29,Smartphone,Mobile Devices,8.0,267.38,North,CUST146
+ORD1255,2024-03-08,Tablet,Mobile Devices,2.0,67.69,West,CUST726
+ORD1256,2024-04-24,Keyboard,Accessories,4.0,836.95,East,CUST910
+ORD1257,2024-01-27,Mouse,Accessories,5.0,1248.86,North,CUST353
+ORD1258,2024-03-14,,Accessories,8.0,895.92,East,CUST811
+ORD1259,2024-01-23,Monitor,Accessories,8.0,783.54,East,CUST722
+ORD1260,2024-04-13,Mouse,Accessories,4.0,1382.19,West,CUST232
+ORD1261,2024-04-29,Printer,Office Equipment,5.0,1075.5,West,CUST205
+ORD1262,2024-04-22,Tablet,Mobile Devices,,664.99,South,CUST128
+ORD1263,2024-03-18,Keyboard,,8.0,1268.64,North,CUST878
+ORD1264,2024-01-23,Keyboard,Accessories,1.0,214.2,South,CUST504
+ORD1265,2024-03-30,Monitor,Accessories,4.0,230.76,North,CUST924
+ORD1266,2024-01-01,Laptop,Computers,6.0,802.32,North,CUST760
+ORD1267,2024-02-16,Smartphone,Mobile Devices,9.0,1129.16,North,CUST301
+ORD1268,2024-02-21,Printer,Office Equipment,9.0,56.72,South,CUST902
+ORD1269,2024-03-03,Monitor,Accessories,4.0,829.22,North,CUST174
+ORD1270,2024-02-07,Mouse,Accessories,2.0,725.27,North,CUST574
+ORD1271,2024-02-03,Laptop,Computers,1.0,901.25,South,CUST975
+ORD1272,2024-02-20,Keyboard,Accessories,6.0,305.76,South,CUST279
+ORD1273,2024-03-10,Laptop,Computers,5.0,1376.53,East,CUST276
+ORD1274,2024-01-29,Smartphone,Mobile Devices,6.0,369.14,East,CUST981
+ORD1275,2024-03-25,Laptop,Computers,1.0,308.15,South,CUST183
+ORD1276,2024-04-14,Tablet,Mobile Devices,1.0,858.09,North,CUST441
+ORD1277,2024-04-01,Mouse,Accessories,8.0,778.18,South,CUST868
+ORD1278,2024-04-05,Monitor,Accessories,7.0,668.84,West,CUST822
+ORD1279,2024-03-02,,Accessories,1.0,103.0,West,CUST385
+ORD1280,2024-01-16,Tablet,Mobile Devices,8.0,901.81,East,CUST868
+ORD1281,2024-03-18,Mouse,Accessories,3.0,707.27,North,CUST293
+ORD1282,2024-04-27,Smartphone,Mobile Devices,1.0,631.11,West,CUST777
+ORD1283,2024-02-20,Tablet,Mobile Devices,4.0,313.8,East,CUST154
+ORD1284,2024-04-12,Tablet,Mobile Devices,3.0,591.3,West,CUST557
+ORD1285,2024-03-23,Smartphone,Mobile Devices,2.0,642.66,South,CUST186
+ORD1286,2024-02-24,Mouse,Accessories,2.0,1307.14,South,CUST107
+ORD1287,2024-03-05,,Mobile Devices,9.0,371.86,South,CUST542
+ORD1288,2024-03-12,Mouse,Accessories,6.0,541.94,West,CUST328
+ORD1289,2024-03-07,Printer,Office Equipment,3.0,996.48,South,CUST363
+ORD1290,2024-02-03,Smartphone,Mobile Devices,3.0,402.6,East,CUST177
+ORD1291,2024-02-01,Keyboard,Accessories,8.0,1219.93,North,CUST551
+ORD1292,2024-04-25,Monitor,Accessories,5.0,254.57,South,CUST834
+ORD1293,2024-02-24,Smartphone,Mobile Devices,2.0,68.85,South,CUST874
+ORD1294,2024-02-02,Tablet,Mobile Devices,7.0,1279.79,South,CUST723
+ORD1295,2024-01-19,Smartphone,Mobile Devices,4.0,982.24,East,CUST181
+ORD1296,2024-01-02,Laptop,Computers,1.0,1235.29,North,CUST622
+ORD1297,2024-04-15,Tablet,Mobile Devices,2.0,576.44,East,CUST218
+ORD1298,2024-01-12,Printer,Office Equipment,4.0,955.02,West,CUST355
+ORD1299,2024-04-03,Mouse,Accessories,9.0,682.38,West,CUST966
+ORD1300,2024-04-25,Smartphone,Mobile Devices,6.0,1180.65,West,CUST692
+ORD1301,2024-03-14,Tablet,Mobile Devices,8.0,1478.78,,CUST826
+ORD1302,2024-04-05,Laptop,Computers,1.0,752.93,South,CUST308
+ORD1303,2024-01-14,Keyboard,Accessories,9.0,835.37,West,CUST336
+ORD1304,2024-01-25,Smartphone,Mobile Devices,7.0,366.13,South,CUST377
+ORD1305,2024-04-16,Tablet,Mobile Devices,4.0,241.8,East,CUST128
+ORD1306,2024-04-18,Mouse,Accessories,2.0,444.85,South,CUST174
+ORD1307,2024-03-10,Printer,Office Equipment,2.0,818.01,West,CUST141
+ORD1308,2024-04-09,Monitor,Accessories,9.0,447.38,North,CUST116
+ORD1309,2024-02-06,Keyboard,Accessories,9.0,771.32,South,CUST687
+ORD1310,2024-03-27,Laptop,Computers,5.0,65.94,South,CUST126
+ORD1311,2024-02-26,Mouse,Accessories,6.0,1111.67,West,CUST709
+ORD1312,2024-01-12,Smartphone,Mobile Devices,9.0,766.7,South,CUST784
+ORD1313,2024-01-17,Laptop,Computers,5.0,605.55,West,CUST733
+ORD1314,2024-02-15,Smartphone,Mobile Devices,2.0,291.11,South,CUST462
+ORD1315,2024-03-05,Monitor,Accessories,3.0,180.99,North,CUST470
+ORD1316,2024-01-26,Keyboard,Accessories,5.0,1263.76,East,CUST110
+ORD1317,2024-02-05,Tablet,Mobile Devices,1.0,1096.22,East,CUST843
+ORD1318,2024-04-08,Monitor,Accessories,6.0,740.27,South,CUST722
+ORD1319,2024-01-24,Tablet,Mobile Devices,,245.75,South,CUST411
+ORD1320,2024-02-02,Mouse,Accessories,4.0,832.77,North,CUST566
+ORD1321,2024-04-08,Printer,Office Equipment,4.0,124.57,West,CUST606
+ORD1322,2024-04-18,Monitor,Accessories,2.0,953.83,East,CUST549
+ORD1323,2024-04-26,Smartphone,Mobile Devices,9.0,158.95,East,CUST116
+ORD1324,2024-01-01,Keyboard,Accessories,9.0,1072.14,West,CUST715
+ORD1325,2024-02-11,Mouse,Accessories,9.0,407.28,West,CUST230
+ORD1326,2024-04-23,Keyboard,Accessories,5.0,53.39,South,CUST534
+ORD1327,2024-04-03,Monitor,Accessories,6.0,905.83,East,CUST374
+ORD1328,2024-04-10,Laptop,Computers,1.0,248.39,West,CUST429
+ORD1329,2024-02-26,Laptop,Computers,7.0,805.89,North,CUST111
+ORD1330,2024-03-02,Mouse,Accessories,8.0,1149.67,North,CUST760
+ORD1331,2024-03-21,Mouse,Accessories,7.0,1099.95,East,CUST809
+ORD1332,2024-03-12,Laptop,Computers,9.0,1359.88,East,CUST367
+ORD1333,2024-01-15,Monitor,Accessories,9.0,1418.89,West,CUST146
+ORD1334,2024-02-01,Monitor,Accessories,7.0,1499.06,West,CUST893
+ORD1335,2024-03-25,Monitor,Accessories,6.0,1377.46,West,CUST881
+ORD1336,2024-03-19,Printer,Office Equipment,5.0,1109.98,South,CUST982
+ORD1337,2024-02-17,Monitor,Accessories,8.0,1458.03,North,CUST826
+ORD1338,2024-04-02,Keyboard,Accessories,2.0,1130.34,South,CUST471
+ORD1339,2024-02-08,Keyboard,Accessories,3.0,512.7,North,CUST589
+ORD1340,2024-04-12,Tablet,Mobile Devices,1.0,992.74,South,CUST251
+ORD1341,2024-04-08,Keyboard,Accessories,,1333.25,East,CUST270
+ORD1342,2024-02-09,Laptop,Computers,7.0,636.5,South,CUST138
+ORD1343,2024-01-15,Keyboard,Accessories,8.0,832.26,North,CUST448
+ORD1344,2024-03-26,Keyboard,Accessories,9.0,1119.89,North,CUST260
+ORD1345,2024-01-16,Tablet,Mobile Devices,2.0,85.38,East,CUST269
+ORD1346,2024-02-03,Monitor,Accessories,7.0,318.94,South,CUST373
+ORD1347,2024-02-01,Mouse,Accessories,3.0,151.54,North,CUST913
+ORD1348,2024-04-25,Monitor,Accessories,1.0,632.8,North,CUST344
+ORD1349,2024-04-17,Mouse,Accessories,9.0,892.1,South,CUST847
+ORD1350,2024-04-20,Smartphone,Mobile Devices,9.0,1164.0,East,CUST458
+ORD1351,2024-03-24,Laptop,Computers,5.0,1111.79,South,CUST788
+ORD1352,2024-01-03,Tablet,Mobile Devices,8.0,466.5,West,
+ORD1353,,Mouse,Accessories,5.0,111.04,South,CUST804
+ORD1354,2024-02-22,Monitor,Accessories,9.0,208.73,South,CUST988
+ORD1355,2024-03-28,Tablet,Mobile Devices,4.0,366.47,South,CUST904
+ORD1356,2024-03-01,Tablet,Mobile Devices,5.0,179.65,North,CUST809
+ORD1357,2024-02-08,Printer,Office Equipment,8.0,1332.09,West,CUST443
+ORD1358,2024-01-11,Keyboard,Accessories,2.0,292.2,South,CUST663
+ORD1359,2024-01-04,Keyboard,Accessories,8.0,1416.96,East,CUST674
+ORD1360,2024-02-23,Printer,Office Equipment,5.0,1254.43,South,CUST465
+ORD1361,2024-03-14,Printer,Office Equipment,2.0,606.93,South,CUST852
+ORD1362,2024-01-03,Tablet,Mobile Devices,8.0,557.68,South,CUST872
+ORD1363,2024-02-23,Keyboard,Accessories,7.0,1331.49,East,CUST198
+ORD1364,2024-01-20,Laptop,Computers,1.0,302.15,West,CUST589
+ORD1365,2024-02-04,Monitor,Accessories,2.0,762.22,South,CUST244
+ORD1366,2024-03-28,Laptop,Computers,3.0,1232.96,West,CUST880
+ORD1367,2024-04-29,Printer,Office Equipment,9.0,909.76,North,CUST456
+ORD1368,2024-04-07,Keyboard,Accessories,9.0,617.2,North,CUST734
+ORD1369,2024-04-01,Tablet,Mobile Devices,9.0,114.35,South,CUST837
+ORD1370,2024-03-16,Printer,Office Equipment,9.0,527.12,South,CUST636
+ORD1371,2024-01-05,Printer,Office Equipment,2.0,642.26,South,CUST137
+ORD1372,2024-03-12,Keyboard,Accessories,5.0,120.74,North,CUST553
+ORD1373,2024-02-06,Printer,Office Equipment,5.0,1487.64,West,
+ORD1374,2024-02-09,Keyboard,Accessories,3.0,1245.79,South,CUST667
+ORD1375,2024-02-09,Laptop,Computers,2.0,838.48,West,CUST848
+ORD1376,2024-02-02,Keyboard,Accessories,6.0,805.83,North,CUST435
+ORD1377,2024-02-09,Tablet,Mobile Devices,1.0,278.14,South,CUST915
+ORD1378,2024-02-10,Monitor,Accessories,9.0,1398.63,South,CUST455
+ORD1379,2024-03-03,Printer,Office Equipment,6.0,324.37,North,CUST232
+ORD1380,2024-04-16,,Mobile Devices,9.0,92.41,West,CUST634
+ORD1381,2024-02-11,Monitor,Accessories,5.0,1128.09,West,CUST181
+ORD1382,2024-04-09,Mouse,Accessories,2.0,1256.59,South,CUST623
+ORD1383,2024-02-08,Printer,Office Equipment,2.0,466.21,East,CUST145
+ORD1384,2024-01-27,Printer,Office Equipment,1.0,861.77,East,CUST459
+ORD1385,2024-04-04,Mouse,Accessories,2.0,969.31,North,CUST955
+ORD1386,2024-04-18,Laptop,Computers,3.0,236.25,West,CUST566
+ORD1387,2024-01-30,Printer,Office Equipment,7.0,834.84,North,CUST323
+ORD1388,2024-04-07,Monitor,Accessories,5.0,198.64,South,CUST295
+ORD1389,2024-01-20,Keyboard,Accessories,4.0,148.36,West,CUST830
+ORD1390,2024-03-04,Mouse,Accessories,1.0,1167.93,South,CUST500
+ORD1391,2024-01-10,Mouse,Accessories,6.0,551.53,South,CUST573
+ORD1392,2024-04-29,Tablet,Mobile Devices,2.0,1313.73,South,CUST803
+ORD1393,2024-02-16,Tablet,Mobile Devices,4.0,988.98,East,CUST480
+ORD1394,2024-03-16,Tablet,Mobile Devices,7.0,145.16,South,CUST132
+ORD1395,2024-01-06,Printer,Office Equipment,3.0,416.14,West,CUST637
+ORD1396,2024-04-07,Smartphone,Mobile Devices,2.0,1495.83,West,CUST198
+ORD1397,2024-01-13,Printer,Office Equipment,9.0,287.25,West,CUST986
+ORD1398,2024-01-29,Smartphone,Mobile Devices,4.0,1267.92,North,CUST786
+ORD1399,2024-03-18,Smartphone,Mobile Devices,4.0,999.04,East,CUST638
+ORD1400,2024-03-07,Smartphone,Mobile Devices,1.0,1446.69,West,CUST539
+ORD1401,2024-04-01,Monitor,Accessories,5.0,1368.81,North,CUST968
+ORD1402,2024-02-28,Smartphone,Mobile Devices,4.0,626.51,West,CUST552
+ORD1403,2024-01-03,Keyboard,Accessories,1.0,515.08,South,CUST626
+ORD1404,2024-02-03,Tablet,Mobile Devices,3.0,95.14,West,CUST892
+ORD1405,2024-01-24,Smartphone,Mobile Devices,2.0,1303.32,South,CUST307
+ORD1406,2024-01-27,Monitor,Accessories,8.0,280.91,South,CUST756
+ORD1407,2024-04-02,Tablet,Mobile Devices,5.0,272.8,North,CUST126
+ORD1408,2024-02-15,Tablet,Mobile Devices,2.0,1153.48,South,CUST486
+ORD1409,2024-04-02,Tablet,Mobile Devices,5.0,1372.16,East,CUST477
+ORD1410,2024-01-03,Monitor,Accessories,4.0,1204.98,East,CUST252
+ORD1411,2024-04-03,Monitor,Accessories,7.0,231.52,South,CUST335
+ORD1412,2024-03-24,Monitor,Accessories,4.0,859.7,South,CUST930
+ORD1413,2024-03-26,Monitor,Accessories,6.0,522.59,West,CUST485
+ORD1414,2024-03-28,Mouse,Accessories,8.0,500.02,West,CUST816
+ORD1415,2024-03-21,Printer,Office Equipment,8.0,723.67,West,CUST419
+ORD1416,2024-03-22,Keyboard,Accessories,6.0,472.91,North,CUST400
+ORD1417,2024-03-29,Tablet,Mobile Devices,1.0,1431.34,North,CUST524
+ORD1418,2024-01-08,Smartphone,Mobile Devices,6.0,1136.28,East,CUST652
+ORD1419,2024-01-17,Tablet,Mobile Devices,9.0,877.81,South,CUST562
+ORD1420,2024-03-20,Laptop,Computers,6.0,946.33,North,CUST759
+ORD1421,2024-02-02,Tablet,Mobile Devices,8.0,64.17,West,CUST964
+ORD1422,2024-01-02,Monitor,Accessories,1.0,177.41,West,CUST688
+ORD1423,2024-04-25,Printer,Office Equipment,6.0,517.04,North,CUST265
+ORD1424,2024-04-12,Smartphone,Mobile Devices,,1241.09,East,CUST205
+ORD1425,2024-04-28,Smartphone,Mobile Devices,1.0,1429.75,East,CUST416
+ORD1426,2024-03-07,Mouse,Accessories,6.0,912.43,South,CUST172
+ORD1427,2024-04-12,Smartphone,Mobile Devices,9.0,,West,CUST363
+ORD1428,2024-03-12,Monitor,Accessories,2.0,956.69,East,CUST183
+ORD1429,2024-03-02,Printer,Office Equipment,7.0,1008.19,South,CUST307
+ORD1430,2024-01-04,Smartphone,Mobile Devices,6.0,1235.08,East,CUST509
+ORD1431,2024-01-03,Keyboard,Accessories,9.0,287.8,North,CUST113
+ORD1432,2024-03-15,Mouse,Accessories,2.0,137.51,East,CUST186
+ORD1433,2024-01-12,Tablet,Mobile Devices,9.0,1314.09,West,CUST221
+ORD1434,2024-01-19,Monitor,Accessories,7.0,731.76,West,CUST784
+ORD1435,2024-01-08,Smartphone,Mobile Devices,7.0,678.8,South,CUST387
+ORD1436,2024-02-20,Mouse,Accessories,2.0,80.25,South,CUST822
+ORD1437,2024-01-22,Printer,Office Equipment,5.0,1494.68,North,CUST972
+ORD1438,2024-02-28,Laptop,Computers,3.0,168.21,West,CUST854
+ORD1439,2024-02-04,Laptop,Computers,6.0,94.45,North,CUST452
+ORD1440,2024-01-07,Mouse,Accessories,,1309.0,North,CUST258
+ORD1441,2024-02-27,Laptop,Computers,8.0,666.97,North,
+ORD1442,2024-04-01,Smartphone,Mobile Devices,4.0,782.03,West,CUST661
+ORD1443,2024-02-18,Tablet,Mobile Devices,3.0,889.08,South,CUST519
+ORD1444,2024-04-26,Mouse,Accessories,2.0,755.67,South,CUST677
+ORD1445,2024-03-19,Printer,Office Equipment,2.0,1199.79,South,CUST394
+ORD1446,2024-02-11,Smartphone,Mobile Devices,3.0,908.91,South,CUST345
+ORD1447,2024-01-12,Monitor,Accessories,3.0,953.3,West,CUST651
+ORD1448,2024-01-21,Mouse,Accessories,1.0,240.77,South,CUST619
+ORD1449,2024-04-09,Laptop,Computers,7.0,967.18,South,CUST625
+ORD1450,2024-03-18,Mouse,Accessories,2.0,312.42,South,CUST936
+ORD1451,2024-02-07,Keyboard,Accessories,9.0,408.49,North,CUST927
+ORD1452,,Keyboard,Accessories,8.0,890.15,West,CUST183
+ORD1453,2024-01-02,Keyboard,Accessories,7.0,287.11,West,CUST990
+ORD1454,2024-03-29,Keyboard,Accessories,9.0,628.62,South,CUST262
+ORD1455,2024-04-10,Tablet,Mobile Devices,5.0,521.53,North,CUST523
+ORD1456,2024-03-16,Printer,Office Equipment,8.0,625.16,North,CUST402
+ORD1457,2024-01-31,Laptop,Computers,3.0,690.94,West,CUST691
+ORD1458,2024-03-14,Printer,Office Equipment,,674.79,North,CUST375
+ORD1459,2024-01-08,Tablet,Mobile Devices,1.0,416.17,South,CUST985
+ORD1460,2024-03-24,Mouse,Accessories,9.0,928.03,East,CUST786
+ORD1461,2024-04-10,Smartphone,Mobile Devices,5.0,1183.6,East,CUST731
+ORD1462,2024-02-13,Mouse,Accessories,8.0,898.76,West,CUST818
+ORD1463,2024-01-06,Monitor,Accessories,4.0,441.14,West,CUST741
+ORD1464,2024-03-13,Tablet,Mobile Devices,5.0,1408.08,North,CUST896
+ORD1465,2024-01-01,Printer,Office Equipment,7.0,375.82,South,CUST584
+ORD1466,2024-04-26,Laptop,Computers,5.0,199.8,East,CUST790
+ORD1467,2024-03-18,Smartphone,Mobile Devices,4.0,1480.61,West,CUST315
+ORD1468,2024-02-12,Laptop,Computers,2.0,518.54,East,CUST896
+ORD1469,2024-02-26,Keyboard,Accessories,7.0,709.37,North,CUST594
+ORD1470,2024-02-12,,Mobile Devices,2.0,546.85,East,CUST393
+ORD1471,2024-03-24,Tablet,Mobile Devices,7.0,93.46,West,CUST912
+ORD1472,2024-02-21,Keyboard,Accessories,2.0,342.69,North,CUST474
+ORD1473,2024-01-08,Monitor,Accessories,2.0,323.11,West,CUST875
+ORD1474,2024-01-29,Printer,Office Equipment,6.0,1308.81,West,CUST185
+ORD1475,2024-02-16,Tablet,Mobile Devices,2.0,1009.37,North,CUST218
+ORD1476,2024-03-30,Mouse,Accessories,2.0,404.01,South,CUST637
+ORD1477,2024-01-08,Printer,Office Equipment,8.0,1164.35,South,CUST939
+ORD1478,2024-03-29,Keyboard,Accessories,4.0,1030.94,East,CUST246
+ORD1479,2024-01-31,Printer,Office Equipment,5.0,1017.11,North,CUST460
+ORD1480,2024-03-30,Keyboard,Accessories,2.0,1499.15,East,CUST674
+ORD1481,2024-03-13,Tablet,Mobile Devices,1.0,640.02,North,CUST787
+ORD1482,2024-01-13,Tablet,Mobile Devices,9.0,181.2,East,CUST258
+ORD1483,2024-04-14,Laptop,Computers,4.0,993.24,South,CUST201
+ORD1484,2024-04-19,Mouse,Accessories,4.0,1018.01,East,CUST553
+ORD1485,2024-04-07,Laptop,Computers,2.0,1322.94,West,CUST378
+ORD1486,2024-03-23,Laptop,Computers,1.0,224.3,West,CUST921
+ORD1487,2024-03-11,Printer,Office Equipment,9.0,526.15,East,CUST164
+ORD1488,2024-03-16,Printer,Office Equipment,7.0,866.99,South,CUST927
+ORD1489,2024-04-02,Smartphone,Mobile Devices,9.0,914.9,East,CUST835
+ORD1490,2024-04-22,Printer,Office Equipment,3.0,379.54,South,CUST366
+ORD1491,2024-04-08,Laptop,Computers,8.0,1018.91,East,CUST941
+ORD1492,2024-03-06,Smartphone,Mobile Devices,9.0,600.69,West,CUST893
+ORD1493,2024-03-12,Laptop,Computers,2.0,744.81,East,CUST728
+ORD1494,2024-04-02,Smartphone,Mobile Devices,9.0,601.28,East,CUST403
+ORD1495,2024-02-06,Tablet,Mobile Devices,4.0,931.46,South,CUST442
+ORD1496,2024-03-10,Mouse,Accessories,2.0,1087.46,South,CUST526
+ORD1497,2024-04-18,Printer,Office Equipment,5.0,333.88,North,CUST435
+ORD1498,2024-02-16,Monitor,Accessories,5.0,1352.14,East,CUST892
+ORD1499,2024-02-05,Mouse,Accessories,3.0,137.39,West,CUST888
+ORD1500,2024-01-13,Monitor,Accessories,6.0,332.11,East,CUST433
+ORD1501,2024-03-08,Laptop,Computers,5.0,463.07,West,CUST638
+ORD1502,2024-01-29,Monitor,Accessories,3.0,892.35,West,CUST205
+ORD1503,2024-02-05,Monitor,Accessories,2.0,629.86,South,CUST688
+ORD1504,2024-01-04,Monitor,Accessories,9.0,807.6,West,CUST362
+ORD1505,2024-04-04,Laptop,Computers,7.0,811.49,West,CUST682
+ORD1506,2024-03-03,Mouse,Accessories,8.0,1200.44,West,CUST544
+ORD1507,2024-02-11,Laptop,Computers,8.0,1446.24,South,CUST551
+ORD1508,2024-04-27,,Accessories,7.0,1232.84,South,CUST271
+ORD1509,2024-04-29,Keyboard,Accessories,7.0,975.08,South,CUST376
+ORD1510,2024-03-26,Tablet,Mobile Devices,9.0,1200.93,North,CUST882
+ORD1511,2024-01-10,Printer,Office Equipment,8.0,645.99,West,CUST736
+ORD1512,2024-02-11,Monitor,Accessories,8.0,1166.42,South,CUST148
+ORD1513,2024-01-26,Tablet,Mobile Devices,5.0,487.99,South,CUST763
+ORD1514,2024-01-19,Mouse,Accessories,4.0,664.42,West,CUST301
+ORD1515,2024-03-29,Tablet,Mobile Devices,2.0,1161.65,South,CUST538
+,2024-04-23,Monitor,Accessories,5.0,293.62,East,CUST582
+ORD1517,2024-04-17,Smartphone,Mobile Devices,2.0,735.69,West,CUST760
+ORD1518,2024-03-21,Mouse,Accessories,6.0,84.28,South,CUST754
+ORD1519,2024-02-04,Monitor,Accessories,7.0,842.71,North,CUST749
+ORD1519,2024-02-04,Monitor,Accessories,7.0,842.71,North,CUST749
+ORD1372,2024-03-12,Keyboard,Accessories,5.0,120.74,North,CUST553
+ORD1443,2024-02-18,Tablet,Mobile Devices,3.0,889.08,South,CUST519
+ORD1451,2024-02-07,Keyboard,Accessories,9.0,408.49,North,CUST927
+ORD1267,2024-02-16,Smartphone,Mobile Devices,9.0,1129.16,North,CUST301

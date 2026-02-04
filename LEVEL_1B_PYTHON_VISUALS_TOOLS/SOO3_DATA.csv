@@ -1,0 +1,61 @@
+Order_ID,Product_Category,Region,Sales_Amount,Profit,Quantity,Discount,Customer_Segment,Order_Date,Payment_Method,Delivery_Status
+1001,Appliances,West,1605,89.32,4,0.02,Corporate,2023-08-28,Bank Transfer,Cancelled
+1002,Clothing,Central,286,69.35,11,0.08,Small Business,2023-10-07,Bank Transfer,Shipped
+1003,Sports,East,1469,111.33,12,0.04,Individual,2023-02-11,Bank Transfer,Delivered
+1004,Toys,South,1932,176.94,20,0.21,Small Business,2023-04-15,Credit Card,Pending
+1005,Toys,West,1242,309.87,3,0.29,Corporate,2023-05-24,Credit Card,Cancelled
+1006,Electronics,Central,827,169.06,21,0.08,Individual,2023-06-20,Bank Transfer,Cancelled
+1007,Sports,Central,1887,497.16,4,0.02,Small Business,2023-04-20,PayPal,Shipped
+1008,Toys,South,1300,333.84,3,0.21,Small Business,2023-12-15,Credit Card,Pending
+1009,Books,South,1060,163.33,1,0.18,Individual,2023-06-21,Bank Transfer,Cancelled
+1010,Electronics,North,1288,316.27,17,0.18,Individual,2023-03-03,PayPal,Delivered
+1011,Electronics,South,1695,218.37,4,0.13,Corporate,2023-05-04,Cash,Cancelled
+1012,Toys,South,319,57.65,21,0.29,Corporate,2023-12-03,Bank Transfer,Delivered
+1013,Clothing,South,1137,68.44,24,0.0,Individual,2023-03-11,Cash,Pending
+1014,Electronics,South,1351,399.78,18,0.17,Individual,2023-03-06,PayPal,Pending
+1015,Groceries,East,1085,182.78,15,0.26,Small Business,2023-05-25,PayPal,Pending
+1016,Toys,Central,1054,201.9,20,0.03,Small Business,2023-07-16,Credit Card,Pending
+1017,Electronics,East,436,89.78,10,0.04,Corporate,2023-03-27,Bank Transfer,Cancelled
+1018,Books,South,1486,145.92,23,0.02,Corporate,2023-12-21,Credit Card,Cancelled
+1019,Books,North,1022,244.69,5,0.17,Corporate,2023-01-23,Cash,Cancelled
+1020,Toys,Central,1234,364.46,23,0.24,Small Business,2023-10-09,Credit Card,Shipped
+1021,Electronics,West,591,76.04,8,0.02,Individual,2023-05-22,PayPal,Delivered
+1022,Toys,North,968,197.62,18,0.24,Individual,2023-06-13,PayPal,Delivered
+1023,Furniture,South,1022,268.36,10,0.01,Small Business,2023-11-16,PayPal,Cancelled
+1024,Clothing,North,1669,318.11,1,0.07,Individual,2023-04-05,PayPal,Shipped
+1025,Sports,East,1539,353.84,14,0.0,Individual,2023-10-27,Credit Card,Cancelled
+1026,Clothing,North,1931,549.9,2,0.27,Corporate,2023-11-02,Credit Card,Cancelled
+1027,Groceries,North,1819,236.35,19,0.28,Small Business,2023-07-15,Cash,Cancelled
+1028,Clothing,North,1572,175.93,5,0.13,Small Business,2023-02-01,Credit Card,Shipped
+1029,Electronics,North,1082,209.58,7,0.21,Corporate,2023-08-13,PayPal,Shipped
+1030,Toys,Central,1500,261.71,1,0.12,Corporate,2023-04-16,Bank Transfer,Cancelled
+1031,Clothing,Central,913,169.46,22,0.3,Corporate,2023-09-27,PayPal,Shipped
+1032,Clothing,West,1429,226.21,11,0.01,Individual,2023-02-28,Bank Transfer,Cancelled
+1033,Toys,West,296,83.53,20,0.24,Corporate,2023-01-31,Credit Card,Pending
+1034,Toys,North,1861,126.14,11,0.09,Small Business,2023-11-16,Bank Transfer,Delivered
+1035,Groceries,West,435,101.45,12,0.12,Individual,2023-10-09,Cash,Shipped
+1036,Electronics,North,1370,213.55,25,0.17,Corporate,2023-03-27,Bank Transfer,Cancelled
+1037,Electronics,East,1456,418.34,14,0.15,Corporate,2023-06-13,Credit Card,Shipped
+1038,Books,Central,1814,106.21,11,0.24,Individual,2023-05-29,Cash,Cancelled
+1039,Electronics,South,1577,304.0,22,0.06,Small Business,2023-10-18,PayPal,Delivered
+1040,Electronics,North,1796,171.76,4,0.26,Corporate,2023-02-03,Cash,Cancelled
+1041,Groceries,West,202,47.26,21,0.13,Small Business,2023-07-18,PayPal,Cancelled
+1042,Books,South,1166,166.49,25,0.11,Individual,2023-04-01,Credit Card,Cancelled
+1043,Appliances,West,1376,364.51,22,0.08,Corporate,2023-02-18,Bank Transfer,Cancelled
+1044,Furniture,East,1465,231.15,9,0.1,Small Business,2023-01-11,Bank Transfer,Pending
+1045,Electronics,East,1938,524.01,5,0.18,Small Business,2023-07-19,Credit Card,Cancelled
+1046,Sports,East,1468,434.29,22,0.27,Small Business,2023-08-04,Credit Card,Shipped
+1047,Furniture,East,944,259.76,22,0.15,Corporate,2023-04-26,Bank Transfer,Cancelled
+1048,Toys,Central,325,72.45,1,0.09,Small Business,2023-06-28,Cash,Cancelled
+1049,Clothing,East,1317,270.41,22,0.11,Individual,2023-08-19,Cash,Cancelled
+1050,Sports,Central,1265,289.94,11,0.07,Corporate,2023-03-04,Credit Card,Shipped
+1051,Toys,Central,440,71.68,10,0.26,Corporate,2023-09-12,Bank Transfer,Delivered
+1052,Appliances,East,918,114.82,1,0.28,Small Business,2023-11-11,PayPal,Cancelled
+1053,Sports,Central,558,51.83,21,0.02,Individual,2023-09-12,Credit Card,Pending
+1054,Electronics,West,385,75.62,16,0.06,Small Business,2023-04-03,Bank Transfer,Cancelled
+1055,Electronics,Central,1897,517.48,6,0.19,Individual,2023-06-03,Bank Transfer,Delivered
+1056,Electronics,Central,923,162.42,15,0.19,Individual,2023-11-06,PayPal,Shipped
+1057,Furniture,Central,282,65.53,15,0.23,Corporate,2023-03-31,PayPal,Pending
+1058,Sports,Central,844,168.83,19,0.28,Small Business,2023-10-15,Cash,Pending
+1059,Electronics,West,802,171.01,21,0.12,Small Business,2023-09-03,PayPal,Shipped
+1060,Groceries,North,1383,372.04,11,0.3,Small Business,2023-02-16,Credit Card,Delivered

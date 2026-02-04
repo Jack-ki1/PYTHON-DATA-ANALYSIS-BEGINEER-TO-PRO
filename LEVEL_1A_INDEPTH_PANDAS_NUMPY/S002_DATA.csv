@@ -1,0 +1,1001 @@
+Customer_ID,Name,Age,Gender,Country,Date_of_Purchase,Product_Category,Product_ID,Quantity,Price_per_Unit,Total_Spent,Discount_Applied,Payment_Method,Customer_Feedback,Membership_Status
+1,Charlie,51,Male,UK,2022-09-09,Books,1938,4,92.09,368.36,False,Bank Transfer,Neutral,None
+2,Charlie,62,Male,Canada,2022-01-30,Books,1890,6,98.92,593.52,True,PayPal,Negative,Gold
+3,David,42,Male,Canada,2022-04-21,Books,1607,9,31.37,282.33,False,Credit Card,Positive,Bronze
+4,Eve,67,Female,UK,2022-10-07,Electronics,1424,5,68.12,340.6,False,Cash,Positive,Silver
+5,Eve,65,Female,Germany,2022-06-15,Clothing,1119,9,99.15,892.35,False,Cash,Positive,Bronze
+6,Charlie,68,Female,France,2022-10-14,Electronics,1345,3,93.93,281.79,False,Credit Card,Positive,Bronze
+7,David,18,Male,France,2022-05-07,Books,1802,1,53.74,53.74,False,Bank Transfer,Negative,Bronze
+8,David,60,Male,USA,2022-10-02,Books,1931,2,19.65,39.3,False,PayPal,Neutral,Bronze
+9,Alice,25,Female,Germany,2022-01-03,Furniture,1208,4,60.46,241.84,False,Credit Card,Neutral,Gold
+10,David,24,Female,France,2022-08-13,Books,1046,7,58.08,406.56,True,Credit Card,Positive,Bronze
+11,Bob,46,Female,UK,2022-09-19,Groceries,1186,9,58.9,530.1,False,PayPal,Neutral,Bronze
+12,Eve,36,Female,Germany,2022-09-26,Books,1297,5,46.45,232.25,False,PayPal,Negative,Gold
+13,Bob,69,Female,UK,2022-12-09,Clothing,1263,7,75.16,526.12,True,Credit Card,Neutral,Bronze
+14,Alice,24,Female,Germany,2022-08-04,Electronics,1200,1,11.0,11.0,False,PayPal,Positive,Bronze
+15,Bob,24,Female,UK,2022-03-02,Books,1075,2,25.77,51.54,False,Credit Card,Positive,Silver
+16,David,47,Male,Canada,2022-05-25,Furniture,1914,3,92.73,278.19,True,Bank Transfer,Positive,Gold
+17,Charlie,30,Male,USA,2022-08-07,Groceries,1640,4,40.21,160.84,False,PayPal,Positive,Gold
+18,Charlie,21,Male,UK,2022-08-27,Books,1215,7,43.29,303.03,True,Bank Transfer,Positive,Gold
+19,Alice,49,Male,Canada,2022-01-08,Clothing,1292,7,99.77,698.39,False,Bank Transfer,Positive,Bronze
+20,David,69,Female,Germany,2022-10-31,Electronics,1272,5,52.96,264.8,False,Credit Card,Positive,None
+21,Eve,49,Female,Germany,2022-07-15,Books,1805,2,46.52,93.04,True,Cash,Negative,Silver
+22,Eve,38,Female,UK,2022-12-05,Clothing,1744,7,10.64,74.48,False,Credit Card,Neutral,None
+23,Eve,61,Male,Germany,2022-01-25,Books,1922,3,71.74,215.21999999999997,False,PayPal,Negative,None
+24,Bob,55,Female,Germany,2022-10-20,Groceries,1261,6,19.1,114.60000000000001,True,Cash,Negative,Bronze
+25,Alice,40,Male,UK,2022-07-05,Clothing,1792,5,97.27,486.34999999999997,True,Cash,Positive,Bronze
+26,Alice,39,Female,Germany,2022-12-11,Furniture,1593,6,92.92,557.52,True,PayPal,Positive,Gold
+27,Alice,36,Male,USA,2022-04-01,Electronics,1287,8,5.4,43.2,True,Credit Card,Negative,Gold
+28,Alice,60,Female,UK,2022-03-13,Books,1661,6,7.97,47.82,False,Credit Card,Positive,Bronze
+29,Charlie,41,Female,France,2022-07-10,Groceries,1518,5,31.23,156.15,False,Cash,Neutral,Bronze
+30,David,24,Male,France,2022-12-10,Groceries,1351,5,9.88,49.400000000000006,False,Credit Card,Neutral,Silver
+31,Alice,64,Female,UK,2022-01-14,Groceries,1374,7,11.11,77.77,True,Cash,Negative,None
+32,Eve,44,Male,USA,2022-11-24,Furniture,1362,3,54.63,163.89000000000001,False,PayPal,Positive,None
+33,Eve,36,Female,UK,2022-10-24,Furniture,1850,6,28.79,172.74,True,Cash,Neutral,Gold
+34,Charlie,50,Female,UK,2022-10-21,Electronics,1065,9,10.82,97.38,True,PayPal,Positive,Bronze
+35,Bob,57,Female,UK,2022-09-19,Furniture,1328,2,72.42,144.84,True,PayPal,Negative,Silver
+36,Bob,39,Male,Germany,2022-12-27,Electronics,1179,1,45.29,45.29,True,Credit Card,Negative,Bronze
+37,Charlie,28,Male,USA,2022-06-30,Clothing,1464,5,39.23,196.14999999999998,False,Cash,Positive,Bronze
+38,Bob,19,Male,Canada,2022-12-01,Electronics,1660,5,74.26,371.3,True,Credit Card,Neutral,Gold
+39,Charlie,55,Female,Canada,2022-09-16,Electronics,1143,3,65.68,197.04000000000002,False,Credit Card,Neutral,Gold
+40,David,28,Female,Canada,2022-11-28,Books,1755,1,83.3,83.3,True,PayPal,Neutral,Gold
+41,David,25,Female,France,2022-09-12,Electronics,1830,5,54.0,270.0,True,Cash,Negative,None
+42,David,61,Female,France,2022-03-21,Electronics,1525,9,20.87,187.83,False,Bank Transfer,Positive,Silver
+43,Bob,68,Male,Germany,2022-06-28,Furniture,1386,7,14.64,102.48,True,Cash,Positive,None
+44,Bob,35,Male,France,2022-08-19,Clothing,1460,5,6.27,31.349999999999998,True,Bank Transfer,Negative,Bronze
+45,Charlie,43,Male,USA,2022-08-08,Clothing,1659,2,85.98,171.96,False,Credit Card,Neutral,Silver
+46,Bob,65,Male,Canada,2022-02-17,Groceries,1883,4,28.92,115.68,True,PayPal,Neutral,Gold
+47,Alice,46,Female,UK,2022-07-01,Groceries,1673,3,73.26,219.78000000000003,True,Credit Card,Negative,Gold
+48,David,50,Male,France,2022-05-25,Clothing,1122,5,81.13,405.65,True,Credit Card,Negative,Bronze
+49,Bob,46,Female,France,2022-03-13,Electronics,1446,9,7.03,63.27,True,Cash,Negative,Bronze
+50,David,24,Male,USA,2022-10-25,Furniture,1367,2,41.36,82.72,False,Credit Card,Negative,Bronze
+51,Eve,64,Female,UK,2022-08-12,Books,1190,5,42.74,213.70000000000002,False,PayPal,Positive,None
+52,Charlie,46,Female,France,2022-04-02,Clothing,1060,5,18.56,92.8,False,PayPal,Negative,Gold
+53,Charlie,26,Female,USA,2022-10-15,Books,1136,8,62.41,499.28,False,PayPal,Positive,Bronze
+54,Eve,60,Female,USA,2022-11-15,Electronics,1193,9,42.94,386.46,False,PayPal,Positive,None
+55,David,34,Male,Germany,2022-09-27,Electronics,1488,3,43.16,129.48,False,Cash,Neutral,Bronze
+56,Bob,42,Male,UK,2022-11-03,Furniture,1373,1,83.45,83.45,False,Cash,Neutral,Gold
+57,Bob,29,Female,Germany,2022-10-19,Books,1645,5,87.08,435.4,False,PayPal,Positive,Silver
+58,Charlie,25,Male,Germany,2022-12-17,Furniture,1123,5,45.18,225.9,False,Bank Transfer,Neutral,Gold
+59,Eve,41,Male,Canada,2022-04-19,Electronics,1270,9,24.6,221.4,True,Credit Card,Neutral,Bronze
+60,Bob,69,Male,Canada,2022-06-16,Furniture,1197,3,86.84,260.52,True,Credit Card,Negative,Gold
+61,Charlie,53,Male,France,2022-09-02,Electronics,1052,3,73.01,219.03000000000003,False,Bank Transfer,Positive,Gold
+62,Eve,33,Male,Germany,2022-07-25,Groceries,1786,1,33.3,33.3,True,Bank Transfer,Negative,Silver
+63,Bob,35,Male,France,2022-06-30,Clothing,1648,2,62.81,125.62,True,Bank Transfer,Negative,Gold
+64,Charlie,53,Male,Canada,2022-06-20,Electronics,1918,9,57.02,513.1800000000001,True,PayPal,Negative,Bronze
+65,Alice,55,Male,France,2022-12-07,Books,1541,5,16.61,83.05,True,Credit Card,Negative,Silver
+66,Charlie,24,Male,USA,2022-02-25,Furniture,1040,3,27.0,81.0,False,PayPal,Neutral,Bronze
+67,David,52,Male,France,2022-02-03,Groceries,1620,1,42.94,42.94,True,Bank Transfer,Negative,Bronze
+68,Alice,41,Female,Canada,2022-05-01,Electronics,1821,7,17.89,125.23,True,Credit Card,Positive,Silver
+69,Eve,26,Female,Canada,2022-01-01,Books,1684,3,9.52,28.56,True,Cash,Negative,Silver
+70,Eve,67,Female,France,2022-03-14,Electronics,1862,2,59.25,118.5,True,Bank Transfer,Positive,Gold
+71,Alice,42,Male,USA,2022-08-17,Books,1339,3,68.56,205.68,True,Cash,Negative,Bronze
+72,Eve,28,Female,USA,2022-06-02,Groceries,1047,1,94.5,94.5,False,Credit Card,Negative,Gold
+73,Eve,42,Female,USA,2022-07-30,Groceries,1151,4,39.83,159.32,True,Cash,Neutral,Gold
+74,Eve,43,Male,USA,2022-05-03,Electronics,1815,8,29.87,238.96,False,Credit Card,Negative,Silver
+75,Alice,37,Female,Canada,2022-05-07,Clothing,1259,9,22.38,201.42,False,Credit Card,Neutral,Gold
+76,Eve,35,Male,France,2022-05-25,Clothing,1198,5,64.07,320.34999999999997,False,PayPal,Neutral,Bronze
+77,Alice,32,Female,France,2022-12-31,Books,1740,6,30.84,185.04,True,Bank Transfer,Negative,Gold
+78,David,25,Male,Canada,2022-11-23,Books,1606,8,5.1,40.8,True,PayPal,Negative,Bronze
+79,Bob,34,Female,USA,2022-01-18,Groceries,1276,9,27.46,247.14000000000001,False,Bank Transfer,Positive,None
+80,Alice,52,Female,UK,2022-04-08,Groceries,1251,1,79.39,79.39,True,Credit Card,Neutral,Bronze
+81,Alice,56,Male,Germany,2022-10-28,Furniture,1778,8,71.54,572.32,True,Cash,Positive,Gold
+82,Alice,19,Male,Germany,2022-09-08,Groceries,1040,6,12.48,74.88,False,PayPal,Positive,Gold
+83,Alice,35,Female,UK,2022-03-27,Furniture,1659,9,19.66,176.94,True,Cash,Neutral,Gold
+84,Alice,62,Male,Germany,2022-06-05,Clothing,1712,6,39.3,235.79999999999998,False,Cash,Positive,Silver
+85,Charlie,22,Male,USA,2022-08-08,Electronics,1712,3,41.87,125.60999999999999,False,PayPal,Negative,Silver
+86,Eve,27,Female,Canada,2022-06-05,Electronics,1067,9,99.4,894.6,True,Cash,Negative,Bronze
+87,David,61,Female,USA,2022-10-07,Furniture,1289,5,84.1,420.5,False,Credit Card,Positive,Gold
+88,Bob,29,Male,France,2022-02-06,Clothing,1019,9,92.95,836.5500000000001,True,PayPal,Positive,Bronze
+89,Charlie,42,Male,Canada,2022-08-18,Groceries,1697,6,38.21,229.26,True,PayPal,Negative,None
+90,Eve,18,Female,Germany,2022-04-25,Furniture,1610,1,62.57,62.57,True,Credit Card,Neutral,Silver
+91,David,45,Male,Canada,2022-04-30,Clothing,1222,3,33.18,99.53999999999999,False,Bank Transfer,Neutral,None
+92,Eve,63,Female,UK,2022-01-30,Electronics,1481,9,61.17,550.53,False,Cash,Neutral,Bronze
+93,David,33,Female,Canada,2022-05-27,Books,1979,5,76.66,383.29999999999995,True,Cash,Negative,Gold
+94,David,20,Male,Canada,2022-11-12,Books,1405,1,65.9,65.9,True,PayPal,Negative,Silver
+95,Eve,31,Female,France,2022-10-17,Furniture,1334,9,38.48,346.32,False,Credit Card,Neutral,Gold
+96,Eve,51,Female,USA,2022-10-25,Groceries,1553,4,68.99,275.96,False,Cash,Positive,None
+97,Charlie,38,Male,France,2022-01-14,Electronics,1542,2,15.79,31.58,False,Bank Transfer,Neutral,Gold
+98,David,37,Female,Canada,2022-11-23,Groceries,1122,3,69.5,208.5,False,PayPal,Positive,None
+99,Bob,67,Male,Canada,2022-11-27,Electronics,1976,5,81.64,408.2,False,PayPal,Neutral,Silver
+100,Bob,23,Male,France,2022-01-10,Books,1055,2,53.57,107.14,False,Cash,Negative,None
+101,Charlie,30,Female,USA,2023-01-01,Books,1181,1,55.6,55.6,False,PayPal,Negative,None
+102,Charlie,61,Male,Canada,2022-09-16,Electronics,1418,5,80.26,401.3,True,Bank Transfer,Neutral,Gold
+103,Bob,44,Female,USA,2022-10-20,Furniture,1573,7,95.68,669.76,False,Credit Card,Negative,Silver
+104,Charlie,55,Male,Canada,2022-03-02,Groceries,1626,5,27.36,136.8,True,PayPal,Negative,Gold
+105,Bob,27,Male,Canada,2022-12-09,Furniture,1582,2,78.25,156.5,False,PayPal,Positive,Gold
+106,Eve,55,Male,Canada,2022-09-02,Groceries,1297,2,65.25,130.5,False,Cash,Negative,None
+107,Alice,57,Female,France,2022-10-18,Furniture,1937,3,39.91,119.72999999999999,True,PayPal,Positive,Silver
+108,Charlie,29,Female,France,2022-01-22,Electronics,1089,9,72.14,649.26,True,PayPal,Negative,Bronze
+109,Charlie,65,Male,Canada,2022-03-06,Electronics,1734,7,74.1,518.6999999999999,True,Bank Transfer,Positive,None
+110,David,39,Female,France,2022-01-22,Clothing,1657,2,20.61,41.22,True,Credit Card,Neutral,Silver
+111,Eve,48,Male,USA,2022-07-01,Electronics,1664,2,18.88,37.76,False,Cash,Positive,Silver
+112,Charlie,65,Female,USA,2022-10-26,Groceries,1039,5,42.31,211.55,False,Cash,Neutral,Gold
+113,Bob,56,Male,Canada,2022-03-05,Furniture,1465,7,64.95,454.65000000000003,False,Bank Transfer,Negative,None
+114,David,46,Male,France,2022-08-25,Electronics,1476,7,75.58,529.06,False,Cash,Neutral,None
+115,David,39,Male,France,2022-04-07,Clothing,1632,2,11.12,22.24,False,Credit Card,Negative,None
+116,Alice,64,Male,France,2022-09-12,Groceries,1330,1,79.2,79.2,True,Credit Card,Negative,None
+117,Alice,41,Female,Canada,2022-10-08,Groceries,1092,9,17.2,154.79999999999998,False,PayPal,Negative,Bronze
+118,Eve,26,Male,Canada,2022-05-29,Electronics,1082,7,70.67,494.69,False,Credit Card,Positive,Bronze
+119,Bob,60,Male,USA,2022-02-27,Groceries,1329,1,29.8,29.8,True,Credit Card,Positive,Bronze
+120,Bob,54,Male,France,2022-03-18,Books,1895,9,75.22,676.98,False,Cash,Neutral,Silver
+121,Bob,49,Male,Canada,2022-09-07,Furniture,1099,7,61.51,430.57,False,Bank Transfer,Positive,None
+122,Alice,57,Female,UK,2022-05-04,Groceries,1708,4,63.36,253.44,True,PayPal,Neutral,Silver
+123,David,47,Male,Germany,2022-04-06,Books,1082,6,78.16,468.96,True,Cash,Negative,None
+124,Eve,30,Female,France,2022-01-08,Electronics,1175,3,35.71,107.13,True,Cash,Neutral,Gold
+125,Charlie,23,Male,France,2022-03-03,Furniture,1689,4,51.06,204.24,True,PayPal,Positive,None
+126,Alice,34,Male,USA,2022-05-13,Groceries,1435,1,24.26,24.26,False,Cash,Positive,None
+127,Eve,61,Female,USA,2022-08-21,Electronics,1777,6,42.87,257.21999999999997,True,Cash,Positive,Bronze
+128,Alice,60,Female,UK,2022-05-01,Furniture,1659,8,67.87,542.96,False,Bank Transfer,Positive,None
+129,David,49,Male,Canada,2022-08-14,Groceries,1725,6,89.87,539.22,False,Bank Transfer,Positive,Silver
+130,Eve,34,Male,UK,2022-05-07,Furniture,1645,4,95.94,383.76,True,Bank Transfer,Negative,Gold
+131,Alice,61,Female,USA,2022-02-14,Electronics,1591,6,31.14,186.84,True,Cash,Neutral,Gold
+132,Eve,59,Male,Germany,2022-05-09,Books,1972,9,72.44,651.96,False,Credit Card,Neutral,Gold
+133,Eve,40,Female,UK,2022-07-25,Groceries,1691,7,67.47,472.28999999999996,True,PayPal,Neutral,Bronze
+134,David,21,Male,Canada,2022-04-16,Furniture,1620,9,56.86,511.74,True,Credit Card,Neutral,Bronze
+135,Bob,29,Female,USA,2022-04-22,Furniture,1894,9,68.6,617.4,True,Bank Transfer,Negative,Silver
+136,Alice,44,Male,USA,2022-01-08,Electronics,1573,8,59.41,475.28,True,Bank Transfer,Positive,Bronze
+137,Bob,20,Male,France,2022-12-11,Furniture,1796,9,96.55,868.9499999999999,False,PayPal,Positive,None
+138,Bob,65,Female,UK,2022-03-21,Clothing,1282,9,95.23,857.07,True,Credit Card,Neutral,Silver
+139,Eve,48,Male,Germany,2022-01-02,Books,1025,7,13.2,92.39999999999999,False,PayPal,Neutral,Silver
+140,Eve,62,Male,France,2022-01-07,Books,1790,6,62.99,377.94,False,Cash,Negative,Bronze
+141,Charlie,40,Female,UK,2022-02-23,Furniture,1795,5,59.76,298.8,False,Credit Card,Positive,Gold
+142,David,26,Female,USA,2022-05-18,Furniture,1891,5,24.39,121.95,True,Bank Transfer,Positive,Silver
+143,Charlie,34,Male,USA,2022-08-11,Groceries,1848,5,52.59,262.95000000000005,True,Credit Card,Negative,Silver
+144,Bob,62,Female,Germany,2022-08-02,Electronics,1906,5,62.18,310.9,False,Cash,Negative,Bronze
+145,Alice,31,Female,France,2022-04-16,Furniture,1651,5,19.42,97.10000000000001,False,Bank Transfer,Positive,None
+146,Charlie,57,Male,Canada,2022-09-14,Electronics,1439,2,12.24,24.48,False,Bank Transfer,Negative,Gold
+147,Eve,56,Female,Germany,2022-04-17,Furniture,1867,2,12.15,24.3,True,PayPal,Neutral,None
+148,Bob,46,Male,USA,2022-01-18,Electronics,1518,5,22.39,111.95,True,Credit Card,Negative,Gold
+149,Eve,48,Male,UK,2022-03-19,Clothing,1215,8,90.6,724.8,False,Bank Transfer,Positive,None
+150,David,42,Male,Canada,2022-06-05,Furniture,1561,2,83.7,167.4,True,Bank Transfer,Positive,None
+151,Charlie,33,Male,France,2022-09-02,Clothing,1713,3,48.63,145.89000000000001,False,Cash,Negative,None
+152,Eve,39,Male,UK,2022-03-24,Clothing,1711,1,79.59,79.59,False,Cash,Positive,None
+153,Charlie,34,Female,France,2022-03-19,Clothing,1932,5,56.01,280.05,True,Credit Card,Positive,None
+154,Bob,23,Female,Germany,2022-04-22,Electronics,1443,8,59.54,476.32,True,Credit Card,Neutral,None
+155,David,33,Female,France,2022-08-05,Groceries,1850,1,42.42,42.42,True,PayPal,Negative,Gold
+156,Alice,37,Male,Germany,2022-03-19,Furniture,1460,6,75.43,452.58000000000004,True,PayPal,Neutral,Bronze
+157,David,32,Male,Germany,2022-07-11,Furniture,1679,1,89.57,89.57,False,Cash,Neutral,Bronze
+158,David,39,Female,USA,2022-09-22,Electronics,1245,1,7.25,7.25,True,Cash,Neutral,Bronze
+159,David,62,Male,France,2022-04-28,Books,1213,9,20.72,186.48,True,Bank Transfer,Positive,Bronze
+160,Eve,69,Male,France,2022-12-13,Groceries,1070,5,23.84,119.2,False,Cash,Negative,Gold
+161,Eve,19,Male,Canada,2022-12-22,Groceries,1441,2,82.52,165.04,True,Cash,Negative,Silver
+162,Eve,69,Male,USA,2022-06-26,Books,1317,1,88.29,88.29,True,Bank Transfer,Neutral,Bronze
+163,Eve,65,Female,UK,2022-06-15,Electronics,1778,8,28.74,229.92,True,Cash,Negative,Bronze
+164,Bob,45,Male,UK,2022-09-04,Books,1053,8,66.37,530.96,False,PayPal,Positive,None
+165,Charlie,26,Female,Canada,2022-11-04,Clothing,1725,8,74.86,598.88,False,PayPal,Negative,Bronze
+166,David,66,Male,UK,2022-06-07,Groceries,1653,5,6.24,31.200000000000003,False,Bank Transfer,Negative,Bronze
+167,Alice,33,Male,UK,2022-03-02,Furniture,1810,5,63.86,319.3,True,Cash,Neutral,Gold
+168,Bob,54,Female,France,2022-09-09,Furniture,1030,2,34.61,69.22,False,Bank Transfer,Positive,Silver
+169,Bob,42,Male,Canada,2022-06-03,Books,1131,7,95.89,671.23,True,Cash,Neutral,None
+170,Bob,62,Male,Germany,2022-08-03,Clothing,1997,9,30.46,274.14,False,PayPal,Neutral,Silver
+171,Charlie,37,Male,Germany,2022-04-20,Electronics,1115,8,88.75,710.0,True,Cash,Neutral,Gold
+172,David,24,Female,UK,2022-07-21,Electronics,1753,1,53.69,53.69,True,Cash,Positive,Silver
+173,David,58,Female,Canada,2022-12-05,Furniture,1132,8,63.54,508.32,False,Bank Transfer,Negative,Gold
+174,Eve,29,Male,UK,2022-07-26,Electronics,1595,4,41.92,167.68,False,Bank Transfer,Negative,Gold
+175,David,59,Male,UK,2022-07-17,Electronics,1595,3,48.91,146.73,False,Credit Card,Neutral,Gold
+176,Charlie,68,Male,Canada,2022-01-20,Furniture,1576,4,93.38,373.52,False,PayPal,Positive,Silver
+177,Bob,31,Male,Germany,2022-03-25,Clothing,1659,5,77.11,385.55,False,Credit Card,Negative,Bronze
+178,David,25,Male,France,2022-04-19,Electronics,1392,7,61.32,429.24,True,Credit Card,Neutral,Silver
+179,David,26,Female,Germany,2022-05-02,Electronics,1174,2,20.9,41.8,False,PayPal,Neutral,Bronze
+180,David,62,Female,Canada,2022-11-22,Groceries,1848,5,81.62,408.1,True,Cash,Positive,Silver
+181,Alice,45,Male,Germany,2022-02-11,Electronics,1867,1,24.37,24.37,False,Bank Transfer,Neutral,Bronze
+182,David,62,Male,Germany,2022-12-01,Electronics,1879,4,74.51,298.04,True,Cash,Neutral,Silver
+183,Eve,57,Male,USA,2022-03-05,Electronics,1928,3,24.78,74.34,False,Cash,Positive,Bronze
+184,Bob,24,Female,USA,2022-09-01,Books,1672,9,47.32,425.88,True,Cash,Positive,Gold
+185,Eve,63,Male,UK,2022-06-29,Books,1158,6,90.76,544.5600000000001,False,PayPal,Negative,Bronze
+186,Bob,45,Female,Canada,2022-09-11,Clothing,1711,5,88.28,441.4,False,Cash,Positive,None
+187,David,23,Male,UK,2022-12-13,Clothing,1686,4,33.73,134.92,True,PayPal,Negative,None
+188,Charlie,50,Female,France,2022-01-17,Electronics,1408,5,37.66,188.29999999999998,False,Bank Transfer,Neutral,None
+189,Bob,38,Male,Germany,2022-12-12,Books,1924,8,15.52,124.16,True,Bank Transfer,Negative,None
+190,David,69,Male,USA,2022-03-04,Electronics,1131,7,18.17,127.19000000000001,True,Credit Card,Positive,Gold
+191,Eve,46,Female,UK,2022-07-12,Groceries,1319,9,10.74,96.66,False,PayPal,Neutral,Gold
+192,Charlie,52,Male,UK,2022-07-22,Groceries,1218,8,69.62,556.96,True,PayPal,Negative,Gold
+193,David,48,Female,USA,2022-12-02,Electronics,1855,3,8.42,25.259999999999998,False,Bank Transfer,Neutral,Gold
+194,Eve,46,Female,UK,2022-08-07,Electronics,1095,6,42.01,252.06,True,PayPal,Positive,Silver
+195,Eve,51,Male,UK,2022-08-25,Books,1597,9,9.72,87.48,False,Cash,Positive,Silver
+196,Alice,38,Male,USA,2022-10-21,Groceries,1812,7,55.33,387.31,False,Bank Transfer,Neutral,None
+197,Charlie,39,Male,France,2022-12-28,Clothing,1713,1,95.27,95.27,True,PayPal,Neutral,Gold
+198,David,58,Male,France,2022-08-06,Electronics,1168,8,30.75,246.0,True,Cash,Neutral,None
+199,Alice,62,Male,Canada,2022-09-26,Furniture,1787,7,30.89,216.23000000000002,False,Bank Transfer,Negative,Gold
+200,David,55,Male,UK,2022-05-13,Electronics,1611,7,85.76,600.32,False,Bank Transfer,Positive,None
+201,Charlie,57,Male,Canada,2022-10-19,Furniture,1037,9,92.01,828.09,True,PayPal,Neutral,Bronze
+202,Charlie,24,Female,Canada,2022-08-04,Furniture,1550,3,69.51,208.53000000000003,False,Bank Transfer,Neutral,None
+203,Bob,23,Female,UK,2022-03-04,Books,1467,8,59.53,476.24,True,Credit Card,Positive,Gold
+204,David,56,Male,France,2022-08-02,Furniture,1944,4,8.85,35.4,True,PayPal,Positive,Bronze
+205,Alice,25,Male,USA,2022-10-14,Books,1966,3,62.27,186.81,True,Bank Transfer,Negative,None
+206,David,40,Male,USA,2022-07-25,Groceries,1462,6,97.23,583.38,False,PayPal,Neutral,Silver
+207,Alice,54,Male,UK,2022-02-17,Furniture,1738,8,25.46,203.68,False,Cash,Negative,Gold
+208,Bob,19,Female,Germany,2022-02-16,Electronics,1978,1,47.51,47.51,True,Bank Transfer,Neutral,Bronze
+209,Eve,64,Male,France,2022-04-20,Books,1145,6,31.09,186.54,False,PayPal,Positive,None
+210,Charlie,37,Male,France,2022-11-05,Electronics,1884,3,61.01,183.03,True,Credit Card,Neutral,Bronze
+211,Bob,49,Male,France,2022-08-11,Groceries,1549,9,41.66,374.93999999999994,True,Bank Transfer,Positive,Silver
+212,Eve,34,Female,Canada,2022-03-27,Furniture,1199,7,9.95,69.64999999999999,True,Credit Card,Neutral,Gold
+213,Alice,31,Male,USA,2022-09-18,Books,1757,8,88.37,706.96,True,Bank Transfer,Negative,Gold
+214,Eve,34,Male,Canada,2022-09-15,Books,1338,9,26.7,240.29999999999998,True,PayPal,Positive,None
+215,Eve,28,Female,UK,2022-08-16,Groceries,1730,5,39.04,195.2,False,Cash,Neutral,Bronze
+216,Alice,22,Female,Germany,2022-08-24,Furniture,1690,3,60.18,180.54,False,Cash,Positive,Silver
+217,Eve,64,Female,UK,2022-07-24,Furniture,1403,1,9.15,9.15,False,PayPal,Neutral,Gold
+218,Alice,34,Male,France,2022-07-14,Groceries,1115,1,21.62,21.62,False,Credit Card,Neutral,Bronze
+219,Charlie,53,Female,Germany,2022-05-02,Groceries,1557,7,38.11,266.77,True,Cash,Positive,None
+220,Charlie,69,Female,UK,2022-11-08,Books,1702,9,71.82,646.3799999999999,True,Credit Card,Negative,Bronze
+221,Alice,31,Female,France,2022-11-29,Furniture,1421,3,57.32,171.96,False,Cash,Negative,Gold
+222,Alice,46,Female,France,2022-01-31,Books,1515,1,32.25,32.25,True,Cash,Negative,Silver
+223,Charlie,41,Female,Canada,2022-03-06,Clothing,1477,9,85.4,768.6,False,Bank Transfer,Positive,Silver
+224,Eve,69,Male,UK,2022-05-10,Electronics,1235,8,14.7,117.6,False,Credit Card,Positive,None
+225,David,60,Male,Canada,2022-08-09,Furniture,1434,8,29.31,234.48,True,PayPal,Neutral,Gold
+226,Eve,56,Male,UK,2022-09-03,Books,1628,8,31.24,249.92,False,PayPal,Positive,None
+227,Charlie,27,Female,Canada,2022-07-10,Furniture,1130,6,8.49,50.94,True,Cash,Negative,None
+228,Alice,64,Female,USA,2022-04-29,Electronics,1446,9,35.21,316.89,True,Credit Card,Positive,Gold
+229,Bob,34,Male,Canada,2022-12-19,Electronics,1721,7,52.25,365.75,False,Cash,Positive,Silver
+230,Bob,62,Female,France,2022-03-16,Clothing,1846,8,61.18,489.44,False,PayPal,Negative,Gold
+231,Charlie,51,Male,France,2022-07-04,Electronics,1989,3,5.79,17.37,False,Credit Card,Neutral,Gold
+232,Charlie,50,Male,Germany,2022-03-03,Clothing,1377,6,72.48,434.88,False,PayPal,Neutral,Gold
+233,David,28,Male,Germany,2022-01-10,Books,1456,6,93.95,563.7,False,Credit Card,Negative,Gold
+234,Bob,57,Female,UK,2022-11-23,Books,1338,7,61.58,431.06,True,Cash,Neutral,Silver
+235,Alice,64,Male,Germany,2022-05-28,Books,1195,9,67.06,603.54,True,Credit Card,Positive,None
+236,David,57,Male,USA,2022-04-27,Furniture,1608,6,83.46,500.76,False,Bank Transfer,Positive,Gold
+237,Eve,46,Female,UK,2022-05-19,Furniture,1123,2,60.24,120.48,True,Bank Transfer,Neutral,Silver
+238,David,61,Female,France,2022-06-20,Books,1373,5,17.89,89.45,False,PayPal,Positive,None
+239,Eve,18,Female,UK,2022-06-18,Clothing,1123,6,15.62,93.72,False,PayPal,Positive,Gold
+240,Alice,54,Male,USA,2022-05-28,Electronics,1027,7,94.89,664.23,True,Bank Transfer,Neutral,Silver
+241,Bob,57,Male,Canada,2022-11-04,Furniture,1636,2,13.08,26.16,True,Bank Transfer,Neutral,Silver
+242,Bob,28,Female,Canada,2022-06-21,Furniture,1405,5,77.42,387.1,True,PayPal,Neutral,Bronze
+243,Alice,18,Female,UK,2022-01-23,Books,1457,1,60.76,60.76,False,Bank Transfer,Neutral,Silver
+244,Alice,69,Female,USA,2022-09-09,Furniture,1623,8,58.14,465.12,False,Cash,Neutral,Silver
+245,Alice,29,Male,Germany,2022-03-20,Groceries,1933,9,32.32,290.88,True,Credit Card,Negative,Gold
+246,David,58,Male,USA,2022-12-05,Groceries,1700,3,33.93,101.78999999999999,True,Credit Card,Negative,Silver
+247,Bob,67,Female,Germany,2022-09-30,Furniture,1419,7,57.36,401.52,True,Credit Card,Negative,Silver
+248,Charlie,51,Female,Canada,2022-12-30,Furniture,1000,4,11.98,47.92,False,Cash,Negative,Gold
+249,David,69,Male,Canada,2022-10-02,Furniture,1550,5,74.97,374.85,True,PayPal,Negative,Gold
+250,Charlie,37,Female,Canada,2022-10-22,Electronics,1081,1,79.71,79.71,True,Bank Transfer,Neutral,None
+251,David,48,Female,Canada,2022-10-21,Books,1024,5,62.46,312.3,False,Bank Transfer,Negative,None
+252,Alice,53,Male,Canada,2022-06-06,Electronics,1619,8,93.72,749.76,False,PayPal,Negative,Gold
+253,Alice,35,Male,UK,2022-02-23,Furniture,1165,9,45.46,409.14,True,PayPal,Negative,Gold
+254,Bob,46,Female,UK,2022-06-16,Furniture,1877,8,51.28,410.24,True,PayPal,Positive,None
+255,Bob,44,Female,USA,2022-10-09,Books,1746,1,85.85,85.85,False,Cash,Negative,Gold
+256,Eve,56,Male,Canada,2022-09-07,Clothing,1118,1,24.85,24.85,True,Bank Transfer,Positive,Bronze
+257,Charlie,27,Female,Canada,2022-09-25,Furniture,1755,6,41.15,246.89999999999998,True,Credit Card,Neutral,Silver
+258,David,65,Female,Canada,2022-03-31,Books,1053,7,51.6,361.2,False,PayPal,Negative,Gold
+259,Alice,48,Female,Germany,2022-05-25,Groceries,1525,3,8.94,26.82,False,Cash,Negative,Bronze
+260,Alice,26,Female,France,2022-05-13,Electronics,1930,6,59.63,357.78000000000003,True,PayPal,Positive,Silver
+261,Alice,63,Female,Germany,2022-08-14,Clothing,1216,3,20.4,61.199999999999996,False,Bank Transfer,Neutral,Gold
+262,Alice,40,Male,Canada,2022-03-07,Books,1963,6,13.17,79.02,True,PayPal,Positive,Bronze
+263,Alice,26,Male,Germany,2022-08-11,Books,1860,8,87.15,697.2,False,Cash,Positive,None
+264,Charlie,33,Female,Germany,2022-09-05,Electronics,1688,5,30.72,153.6,True,Bank Transfer,Neutral,None
+265,Charlie,36,Male,Canada,2022-11-24,Groceries,1346,3,16.25,48.75,False,PayPal,Negative,None
+266,Bob,50,Male,Germany,2022-01-01,Clothing,1375,9,8.15,73.35000000000001,True,Cash,Neutral,Bronze
+267,Charlie,32,Male,USA,2022-04-16,Books,1043,1,6.88,6.88,True,PayPal,Positive,Gold
+268,Charlie,56,Male,France,2022-04-25,Groceries,1968,4,10.0,40.0,False,Credit Card,Negative,Silver
+269,Alice,57,Male,Germany,2022-03-06,Clothing,1616,7,58.74,411.18,False,Credit Card,Positive,Silver
+270,Bob,45,Female,Canada,2022-04-18,Groceries,1279,1,19.23,19.23,False,Credit Card,Neutral,Bronze
+271,David,39,Male,France,2022-12-12,Groceries,1317,3,77.89,233.67000000000002,False,Cash,Negative,None
+272,David,42,Female,Canada,2022-03-09,Electronics,1033,9,14.33,128.97,True,Cash,Negative,Bronze
+273,David,62,Female,Canada,2022-11-24,Groceries,1255,2,67.63,135.26,True,PayPal,Positive,Gold
+274,Alice,39,Female,Canada,2022-10-24,Furniture,1246,1,18.34,18.34,True,Credit Card,Positive,Gold
+275,David,26,Male,Canada,2022-05-27,Furniture,1307,3,16.51,49.53,False,PayPal,Positive,Bronze
+276,David,32,Male,France,2022-01-19,Furniture,1769,8,43.52,348.16,True,Credit Card,Neutral,Silver
+277,Eve,48,Male,USA,2022-03-31,Electronics,1748,7,39.26,274.82,False,Bank Transfer,Negative,Bronze
+278,Alice,27,Female,USA,2022-01-20,Groceries,1632,1,97.64,97.64,True,PayPal,Negative,Gold
+279,Eve,57,Male,France,2022-05-27,Groceries,1523,8,69.24,553.92,False,Bank Transfer,Neutral,Silver
+280,Eve,20,Male,UK,2022-03-08,Electronics,1232,8,31.42,251.36,False,Bank Transfer,Neutral,None
+281,Charlie,56,Female,UK,2022-04-13,Books,1685,3,73.37,220.11,True,PayPal,Neutral,Gold
+282,Eve,30,Male,France,2022-08-22,Groceries,1151,7,28.96,202.72,True,Bank Transfer,Positive,Gold
+283,David,39,Male,Germany,2022-07-27,Furniture,1275,8,59.06,472.48,False,PayPal,Neutral,None
+284,Bob,36,Male,Canada,2022-11-10,Furniture,1259,7,47.91,335.37,False,Cash,Neutral,None
+285,David,41,Male,USA,2022-11-13,Clothing,1071,9,71.66,644.9399999999999,False,Bank Transfer,Negative,Bronze
+286,Bob,36,Female,USA,2022-02-18,Books,1782,5,99.47,497.35,False,Bank Transfer,Positive,None
+287,Bob,18,Female,Canada,2022-08-10,Furniture,1223,1,92.32,92.32,True,PayPal,Neutral,Silver
+288,Eve,59,Male,UK,2022-10-26,Clothing,1640,6,11.32,67.92,False,Credit Card,Positive,Bronze
+289,Bob,49,Female,France,2022-05-10,Furniture,1474,4,69.54,278.16,False,Bank Transfer,Positive,Bronze
+290,Bob,49,Male,UK,2022-12-01,Clothing,1952,8,73.82,590.56,False,Cash,Negative,Gold
+291,Eve,47,Male,Germany,2022-04-26,Books,1234,9,32.37,291.33,False,Credit Card,Neutral,Bronze
+292,Bob,38,Male,Canada,2022-12-19,Electronics,1856,2,81.54,163.08,True,PayPal,Positive,Silver
+293,Bob,52,Female,France,2022-09-26,Groceries,1646,5,31.33,156.64999999999998,True,Credit Card,Neutral,Bronze
+294,David,20,Male,USA,2022-01-01,Clothing,1480,4,27.09,108.36,False,PayPal,Neutral,Gold
+295,Bob,67,Male,France,2022-04-17,Clothing,1255,7,15.2,106.39999999999999,True,Bank Transfer,Neutral,Gold
+296,David,36,Female,France,2022-11-17,Clothing,1674,2,64.37,128.74,False,PayPal,Positive,Bronze
+297,Eve,51,Male,UK,2022-02-22,Furniture,1060,2,33.44,66.88,False,Bank Transfer,Positive,Bronze
+298,Eve,18,Male,Canada,2022-08-13,Electronics,1579,2,97.63,195.26,False,Cash,Neutral,None
+299,Alice,28,Male,Germany,2022-06-28,Groceries,1432,1,30.44,30.44,True,PayPal,Positive,Gold
+300,Alice,30,Male,France,2022-07-30,Groceries,1258,4,71.32,285.28,False,Cash,Positive,Gold
+301,Alice,23,Female,UK,2022-01-25,Clothing,1200,5,58.19,290.95,False,PayPal,Neutral,Silver
+302,Charlie,58,Female,USA,2022-11-02,Clothing,1507,2,7.78,15.56,True,PayPal,Negative,Silver
+303,Eve,57,Female,Germany,2022-10-11,Furniture,1075,2,88.91,177.82,False,Bank Transfer,Neutral,Bronze
+304,Alice,25,Male,France,2022-04-08,Groceries,1871,1,70.94,70.94,True,PayPal,Neutral,None
+305,David,61,Female,UK,2022-08-07,Furniture,1641,7,79.4,555.8000000000001,False,Credit Card,Positive,None
+306,Eve,29,Male,UK,2022-10-04,Books,1513,3,62.98,188.94,False,Cash,Negative,Bronze
+307,Eve,32,Female,France,2022-03-17,Furniture,1897,3,48.15,144.45,False,Cash,Positive,Gold
+308,Eve,39,Female,France,2022-04-21,Clothing,1591,2,98.22,196.44,False,Credit Card,Positive,Bronze
+309,Bob,36,Male,Canada,2022-02-17,Furniture,1337,7,81.54,570.7800000000001,False,Credit Card,Positive,Gold
+310,Alice,59,Female,USA,2022-07-16,Groceries,1430,2,71.75,143.5,True,Bank Transfer,Neutral,Silver
+311,Eve,42,Male,France,2022-12-02,Books,1236,1,34.66,34.66,False,Bank Transfer,Negative,None
+312,Eve,63,Male,USA,2022-04-12,Electronics,1451,8,43.4,347.2,True,Cash,Negative,Silver
+313,Charlie,57,Male,UK,2022-07-27,Clothing,1221,8,82.05,656.4,True,Credit Card,Positive,Silver
+314,Charlie,23,Female,Germany,2022-06-27,Groceries,1692,9,54.46,490.14,True,Bank Transfer,Negative,Gold
+315,Charlie,60,Female,USA,2022-11-20,Electronics,1908,8,90.03,720.24,True,Cash,Positive,Bronze
+316,Bob,31,Female,Canada,2022-07-14,Electronics,1315,3,83.18,249.54000000000002,True,Bank Transfer,Neutral,Bronze
+317,Bob,28,Female,Canada,2022-04-04,Electronics,1449,1,9.84,9.84,False,Bank Transfer,Negative,Gold
+318,David,68,Male,Canada,2022-03-17,Furniture,1647,9,82.74,744.66,False,Credit Card,Negative,Silver
+319,Eve,55,Male,UK,2022-08-02,Books,1626,4,60.08,240.32,True,Cash,Negative,Bronze
+320,Alice,50,Male,USA,2022-01-02,Clothing,1323,8,41.05,328.4,True,Bank Transfer,Positive,None
+321,Bob,46,Male,USA,2022-11-01,Groceries,1729,5,49.27,246.35000000000002,False,Cash,Neutral,None
+322,Alice,44,Male,Canada,2022-02-17,Furniture,1506,9,26.27,236.43,False,PayPal,Positive,None
+323,Bob,26,Male,USA,2022-12-19,Books,1630,8,95.43,763.44,True,Cash,Neutral,None
+324,David,66,Male,UK,2022-10-14,Groceries,1246,6,64.38,386.28,False,PayPal,Positive,Silver
+325,Charlie,60,Male,UK,2022-02-23,Clothing,1813,8,51.13,409.04,False,Credit Card,Positive,Gold
+326,Eve,42,Male,UK,2022-03-08,Electronics,1517,6,22.08,132.48,False,Credit Card,Negative,Silver
+327,Eve,36,Male,France,2022-12-15,Clothing,1976,6,50.4,302.4,True,PayPal,Positive,Gold
+328,Bob,20,Male,USA,2022-03-04,Clothing,1226,5,9.28,46.4,False,Cash,Negative,Gold
+329,Charlie,32,Male,France,2022-09-08,Electronics,1290,7,26.29,184.03,False,PayPal,Positive,Silver
+330,David,26,Male,USA,2022-08-20,Clothing,1160,7,57.46,402.22,False,Credit Card,Negative,Gold
+331,Alice,65,Male,Germany,2022-05-27,Books,1640,5,14.16,70.8,False,Cash,Negative,None
+332,Charlie,22,Female,Canada,2022-07-11,Clothing,1436,4,86.7,346.8,False,Bank Transfer,Neutral,Silver
+333,David,24,Female,Germany,2022-09-09,Furniture,1989,2,89.19,178.38,True,Cash,Negative,None
+334,Bob,41,Female,Germany,2022-05-07,Electronics,1987,8,70.6,564.8,False,PayPal,Negative,Silver
+335,Eve,52,Female,Canada,2022-03-01,Furniture,1709,7,75.62,529.34,False,Credit Card,Negative,Silver
+336,Eve,29,Male,Germany,2022-11-23,Furniture,1279,5,45.19,225.95,True,PayPal,Positive,Silver
+337,David,37,Female,Germany,2022-05-16,Books,1993,2,61.99,123.98,False,PayPal,Neutral,None
+338,Charlie,36,Female,USA,2022-03-01,Books,1795,8,73.97,591.76,True,Credit Card,Neutral,Bronze
+339,Bob,40,Female,Germany,2022-11-17,Clothing,1162,4,53.74,214.96,True,Credit Card,Positive,Bronze
+340,Alice,22,Female,USA,2022-12-01,Electronics,1318,5,98.67,493.35,True,Cash,Positive,Bronze
+341,Charlie,57,Male,France,2022-02-01,Books,1692,2,10.49,20.98,True,PayPal,Positive,Silver
+342,Charlie,66,Female,Germany,2022-01-08,Electronics,1351,5,43.4,217.0,False,Bank Transfer,Neutral,None
+343,Alice,60,Male,Canada,2022-04-25,Furniture,1497,4,58.48,233.92,True,PayPal,Neutral,Bronze
+344,Charlie,31,Female,UK,2022-06-03,Furniture,1877,5,17.34,86.7,True,Credit Card,Positive,Silver
+345,Charlie,63,Male,Canada,2022-08-17,Books,1051,2,97.09,194.18,False,PayPal,Positive,Silver
+346,Eve,18,Female,Canada,2022-09-09,Groceries,1773,8,82.12,656.96,False,Cash,Negative,None
+347,Alice,49,Female,USA,2022-05-16,Furniture,1366,9,43.09,387.81000000000006,True,Bank Transfer,Positive,None
+348,Charlie,27,Female,Canada,2022-09-21,Clothing,1721,2,37.32,74.64,False,Bank Transfer,Neutral,Gold
+349,Charlie,33,Male,UK,2022-06-08,Books,1150,8,89.93,719.44,True,Bank Transfer,Positive,Bronze
+350,Eve,30,Male,Canada,2022-08-03,Books,1939,4,80.35,321.4,False,Bank Transfer,Neutral,Gold
+351,Alice,40,Female,France,2022-01-27,Furniture,1382,6,45.9,275.4,True,Credit Card,Negative,Silver
+352,Alice,46,Female,France,2022-02-13,Clothing,1635,7,15.11,105.77,True,Credit Card,Neutral,Silver
+353,Eve,68,Female,USA,2022-05-15,Furniture,1991,8,82.06,656.48,True,PayPal,Neutral,Bronze
+354,David,44,Male,Germany,2022-06-11,Electronics,1768,4,57.83,231.32,True,PayPal,Neutral,Gold
+355,Eve,43,Female,USA,2022-08-09,Furniture,1145,9,46.65,419.84999999999997,False,Credit Card,Negative,Silver
+356,David,20,Male,USA,2022-07-13,Books,1422,1,27.26,27.26,False,Bank Transfer,Neutral,None
+357,David,47,Female,USA,2022-11-29,Electronics,1510,1,49.91,49.91,True,Credit Card,Negative,Bronze
+358,Alice,34,Female,UK,2022-11-23,Books,1857,2,54.93,109.86,False,Cash,Neutral,None
+359,David,43,Female,Canada,2022-06-24,Books,1675,9,63.39,570.51,False,PayPal,Negative,Bronze
+360,Charlie,19,Male,UK,2022-11-23,Electronics,1963,8,68.05,544.4,False,Credit Card,Negative,None
+361,David,23,Female,USA,2022-07-27,Clothing,1960,8,24.19,193.52,True,Cash,Neutral,None
+362,Charlie,61,Male,France,2022-02-17,Clothing,1696,6,74.44,446.64,False,Cash,Negative,Silver
+363,Eve,36,Female,UK,2022-07-08,Groceries,1092,9,44.12,397.08,True,Cash,Negative,Gold
+364,Alice,52,Female,Germany,2022-06-07,Electronics,1082,8,48.66,389.28,True,PayPal,Negative,Silver
+365,Charlie,29,Female,USA,2022-12-09,Electronics,1605,1,66.01,66.01,False,Bank Transfer,Neutral,Silver
+366,Alice,45,Male,Canada,2022-01-17,Groceries,1481,9,92.29,830.61,True,Cash,Neutral,Bronze
+367,Alice,39,Male,Germany,2022-04-18,Groceries,1804,1,60.35,60.35,True,PayPal,Positive,Bronze
+368,David,27,Male,UK,2022-06-27,Groceries,1064,6,44.25,265.5,False,PayPal,Negative,Silver
+369,Alice,54,Female,Germany,2022-05-16,Books,1771,3,52.16,156.48,False,Credit Card,Neutral,Bronze
+370,Alice,65,Female,France,2022-08-25,Clothing,1180,1,33.53,33.53,True,Cash,Negative,Gold
+371,Bob,58,Female,Canada,2022-03-29,Clothing,1789,4,67.09,268.36,True,Credit Card,Negative,None
+372,Bob,53,Female,Canada,2022-12-23,Groceries,1134,1,74.33,74.33,True,Cash,Negative,None
+373,Charlie,45,Male,USA,2022-07-22,Furniture,1772,1,25.65,25.65,False,Cash,Positive,Silver
+374,Eve,19,Male,Canada,2022-09-18,Groceries,1076,2,11.85,23.7,False,Credit Card,Neutral,Silver
+375,Eve,29,Male,UK,2022-04-23,Furniture,1082,7,9.98,69.86,False,Cash,Negative,Silver
+376,David,30,Male,UK,2022-07-04,Furniture,1262,1,96.61,96.61,True,Bank Transfer,Negative,Gold
+377,Charlie,36,Female,Canada,2022-11-21,Furniture,1630,2,43.87,87.74,True,PayPal,Positive,Silver
+378,Bob,50,Male,USA,2022-04-13,Books,1356,7,91.07,637.49,False,Credit Card,Neutral,None
+379,Alice,58,Male,USA,2022-12-09,Electronics,1937,2,54.1,108.2,False,Cash,Neutral,None
+380,Alice,33,Male,Canada,2022-02-04,Clothing,1890,2,57.3,114.6,True,Credit Card,Negative,Bronze
+381,Alice,23,Male,USA,2022-08-05,Furniture,1703,6,25.01,150.06,False,Cash,Positive,Bronze
+382,Charlie,27,Female,Germany,2022-06-30,Electronics,1468,6,80.26,481.56000000000006,False,Bank Transfer,Negative,Bronze
+383,Alice,58,Male,UK,2022-07-28,Furniture,1238,5,82.7,413.5,True,Bank Transfer,Negative,Gold
+384,Bob,39,Female,UK,2022-09-19,Books,1557,4,15.89,63.56,False,Bank Transfer,Positive,None
+385,Charlie,68,Male,France,2022-11-22,Furniture,1475,1,21.35,21.35,False,Bank Transfer,Negative,Gold
+386,Alice,46,Male,Canada,2022-12-29,Clothing,1845,5,26.8,134.0,True,PayPal,Positive,Bronze
+387,Charlie,55,Male,Germany,2022-01-08,Groceries,1750,6,75.47,452.82,False,Credit Card,Negative,Silver
+388,Charlie,23,Female,France,2022-11-12,Furniture,1748,3,99.6,298.79999999999995,True,Credit Card,Neutral,Silver
+389,Alice,28,Male,France,2022-03-15,Furniture,1490,3,32.68,98.03999999999999,False,PayPal,Positive,Bronze
+390,Charlie,37,Female,Germany,2022-04-27,Electronics,1821,4,80.45,321.8,True,Cash,Positive,Bronze
+391,Charlie,62,Male,France,2022-11-18,Electronics,1199,4,98.55,394.2,True,Bank Transfer,Negative,None
+392,Bob,59,Male,Canada,2022-05-02,Groceries,1562,1,9.22,9.22,True,Bank Transfer,Positive,None
+393,Eve,31,Male,UK,2022-07-05,Electronics,1719,8,28.59,228.72,False,Bank Transfer,Positive,Gold
+394,Eve,35,Male,USA,2022-08-23,Groceries,1154,6,62.11,372.65999999999997,False,PayPal,Negative,Silver
+395,Bob,69,Female,UK,2022-09-15,Electronics,1297,1,75.86,75.86,False,Cash,Positive,Gold
+396,Bob,62,Male,France,2022-07-09,Electronics,1891,2,45.63,91.26,False,PayPal,Positive,Bronze
+397,David,26,Female,France,2022-08-22,Clothing,1063,6,23.0,138.0,False,PayPal,Positive,Bronze
+398,Bob,41,Male,UK,2022-10-20,Groceries,1496,2,88.32,176.64,True,Cash,Positive,Silver
+399,Alice,39,Male,France,2022-05-26,Furniture,1988,8,61.45,491.6,True,Cash,Positive,Silver
+400,Charlie,52,Female,UK,2022-01-05,Electronics,1303,8,78.02,624.16,False,Bank Transfer,Negative,Gold
+401,Eve,64,Female,UK,2022-04-17,Groceries,1736,4,89.15,356.6,False,Bank Transfer,Negative,Gold
+402,Eve,38,Female,UK,2022-05-18,Groceries,1269,8,70.97,567.76,True,PayPal,Positive,Gold
+403,Charlie,41,Male,Germany,2022-03-18,Electronics,1817,4,41.87,167.48,False,Bank Transfer,Negative,None
+404,Charlie,23,Male,USA,2022-10-18,Books,1864,2,46.4,92.8,True,Bank Transfer,Neutral,None
+405,David,52,Female,USA,2022-04-05,Furniture,1927,2,49.79,99.58,False,Bank Transfer,Positive,Bronze
+406,David,51,Male,France,2022-06-11,Electronics,1191,3,55.82,167.46,True,Bank Transfer,Negative,Gold
+407,Alice,53,Female,USA,2022-10-17,Furniture,1323,9,64.78,583.02,True,Credit Card,Neutral,Bronze
+408,Alice,33,Male,Canada,2022-05-17,Furniture,1528,7,32.26,225.82,False,Credit Card,Positive,None
+409,Charlie,22,Male,Canada,2022-07-24,Books,1540,3,65.83,197.49,False,Credit Card,Positive,Silver
+410,Bob,53,Female,UK,2022-08-11,Clothing,1598,7,39.15,274.05,False,Cash,Negative,Gold
+411,Eve,62,Female,UK,2022-01-12,Clothing,1723,9,8.82,79.38,True,PayPal,Neutral,Silver
+412,David,21,Female,France,2022-03-28,Electronics,1997,5,35.05,175.25,True,Cash,Neutral,None
+413,Alice,39,Male,Germany,2022-12-10,Electronics,1097,8,91.25,730.0,False,Cash,Positive,Bronze
+414,David,28,Female,Germany,2022-03-21,Books,1095,2,55.32,110.64,True,Credit Card,Positive,None
+415,Bob,24,Male,Germany,2022-11-12,Clothing,1742,1,24.4,24.4,True,Bank Transfer,Negative,Bronze
+416,Alice,39,Male,USA,2022-05-08,Groceries,1321,4,18.35,73.4,False,Credit Card,Neutral,Gold
+417,Bob,48,Female,France,2022-01-08,Furniture,1812,1,32.56,32.56,False,PayPal,Positive,Bronze
+418,David,60,Female,Canada,2022-01-23,Electronics,1432,5,22.65,113.25,False,Credit Card,Positive,None
+419,Alice,55,Male,Germany,2022-01-23,Electronics,1839,9,15.56,140.04,False,Bank Transfer,Neutral,Gold
+420,David,30,Male,UK,2022-03-02,Clothing,1349,8,78.75,630.0,False,Cash,Negative,Silver
+421,Charlie,49,Female,UK,2022-09-03,Clothing,1245,5,13.98,69.9,False,Credit Card,Neutral,None
+422,Eve,19,Male,UK,2022-01-18,Furniture,1669,1,21.04,21.04,True,Credit Card,Neutral,Gold
+423,David,46,Female,USA,2022-12-18,Groceries,1692,7,96.01,672.07,False,Bank Transfer,Positive,Bronze
+424,Charlie,61,Male,Germany,2022-04-14,Electronics,1918,8,50.14,401.12,True,PayPal,Neutral,None
+425,David,55,Female,Canada,2022-01-26,Clothing,1001,4,72.39,289.56,True,Bank Transfer,Neutral,Silver
+426,Eve,18,Female,USA,2022-09-06,Groceries,1905,6,5.88,35.28,True,PayPal,Positive,Silver
+427,Eve,46,Male,Germany,2022-01-17,Books,1499,2,59.37,118.74,False,Credit Card,Neutral,Gold
+428,Bob,30,Male,UK,2022-11-17,Furniture,1428,2,77.81,155.62,True,Cash,Negative,Bronze
+429,David,20,Male,UK,2022-05-12,Groceries,1258,9,47.22,424.98,True,Bank Transfer,Positive,Bronze
+430,Eve,51,Male,Canada,2022-09-06,Groceries,1332,5,66.7,333.5,False,Credit Card,Negative,None
+431,Charlie,38,Male,Germany,2022-03-03,Books,1635,2,5.15,10.3,False,Credit Card,Negative,Silver
+432,Bob,43,Male,USA,2022-06-30,Groceries,1829,1,28.71,28.71,False,PayPal,Neutral,Gold
+433,Bob,61,Male,Germany,2022-01-23,Clothing,1691,4,83.84,335.36,True,PayPal,Neutral,None
+434,Eve,58,Female,Germany,2022-08-02,Books,1600,1,61.75,61.75,False,Cash,Negative,Bronze
+435,Bob,38,Female,Germany,2022-07-19,Clothing,1565,8,36.02,288.16,False,PayPal,Neutral,Silver
+436,Alice,35,Male,USA,2022-12-29,Books,1161,9,43.54,391.86,False,PayPal,Negative,Gold
+437,Charlie,68,Female,Canada,2022-08-07,Electronics,1393,5,99.76,498.8,False,Bank Transfer,Positive,None
+438,David,29,Female,USA,2022-03-10,Books,1592,2,90.36,180.72,True,Credit Card,Positive,Silver
+439,David,48,Male,Germany,2022-02-11,Furniture,1205,5,98.89,494.45,False,Credit Card,Neutral,Bronze
+440,Eve,25,Male,Germany,2022-12-04,Groceries,1439,9,33.78,304.02,False,Cash,Positive,None
+441,Charlie,19,Female,USA,2022-05-10,Books,1973,2,92.46,184.92,False,Bank Transfer,Neutral,Silver
+442,Charlie,47,Female,Canada,2022-11-02,Groceries,1760,3,24.82,74.46000000000001,False,Bank Transfer,Negative,Gold
+443,David,30,Male,France,2022-02-24,Furniture,1336,3,23.04,69.12,True,Cash,Neutral,Bronze
+444,Eve,35,Female,Canada,2022-06-09,Electronics,1333,2,34.97,69.94,False,Cash,Neutral,Silver
+445,Charlie,31,Male,Canada,2022-11-19,Books,1161,2,96.63,193.26,True,Cash,Neutral,Silver
+446,Alice,38,Female,Canada,2022-08-29,Furniture,1590,5,42.92,214.60000000000002,False,Cash,Positive,None
+447,Alice,21,Female,Germany,2022-07-12,Furniture,1276,2,86.75,173.5,False,Cash,Positive,Bronze
+448,David,47,Female,France,2022-08-07,Clothing,1421,5,57.96,289.8,True,Cash,Neutral,Gold
+449,Bob,38,Female,France,2022-02-14,Groceries,1889,4,21.11,84.44,True,PayPal,Positive,Gold
+450,Eve,63,Male,UK,2022-02-19,Groceries,1434,7,22.65,158.54999999999998,True,Bank Transfer,Positive,Silver
+451,Eve,48,Female,UK,2022-02-08,Groceries,1569,3,53.19,159.57,True,PayPal,Positive,None
+452,Alice,31,Male,Germany,2022-12-04,Electronics,1286,2,72.15,144.3,True,Bank Transfer,Neutral,Silver
+453,Charlie,21,Male,France,2022-04-04,Groceries,1281,8,64.52,516.16,True,Cash,Neutral,None
+454,David,53,Female,USA,2022-09-06,Electronics,1650,6,25.92,155.52,False,Bank Transfer,Neutral,Silver
+455,Charlie,37,Male,Canada,2022-04-18,Groceries,1160,2,80.82,161.64,False,Bank Transfer,Neutral,Bronze
+456,Charlie,20,Female,UK,2022-12-23,Furniture,1143,6,47.57,285.42,True,Credit Card,Positive,Bronze
+457,Bob,53,Male,Germany,2022-06-26,Electronics,1902,7,70.03,490.21000000000004,False,PayPal,Positive,None
+458,Charlie,21,Male,UK,2022-05-03,Clothing,1129,2,10.56,21.12,True,Bank Transfer,Positive,Gold
+459,Eve,39,Male,UK,2022-04-25,Groceries,1796,9,48.67,438.03000000000003,False,PayPal,Neutral,None
+460,Charlie,47,Female,UK,2022-02-09,Electronics,1580,2,94.53,189.06,True,Bank Transfer,Neutral,Bronze
+461,Alice,32,Female,Canada,2022-04-30,Electronics,1797,2,53.18,106.36,False,Credit Card,Positive,None
+462,David,54,Male,UK,2022-06-13,Books,1707,3,70.06,210.18,True,Credit Card,Neutral,Silver
+463,Charlie,68,Female,Canada,2022-01-19,Electronics,1446,5,11.25,56.25,True,Cash,Neutral,None
+464,Alice,36,Female,Canada,2022-07-09,Groceries,1340,6,99.05,594.3,True,PayPal,Neutral,Bronze
+465,Bob,62,Male,UK,2022-11-30,Electronics,1789,6,11.49,68.94,False,Bank Transfer,Neutral,Bronze
+466,David,54,Female,Canada,2022-02-20,Clothing,1488,9,26.24,236.16,False,PayPal,Negative,None
+467,Charlie,60,Male,Canada,2022-06-07,Clothing,1887,1,93.05,93.05,False,Bank Transfer,Negative,None
+468,Charlie,21,Male,UK,2022-09-15,Books,1335,5,56.46,282.3,True,PayPal,Negative,Silver
+469,Bob,59,Male,France,2022-02-10,Books,1112,9,48.21,433.89,True,PayPal,Negative,Gold
+470,Bob,55,Male,Germany,2022-08-30,Groceries,1922,4,66.16,264.64,False,Credit Card,Positive,Silver
+471,David,51,Male,France,2022-01-12,Clothing,1331,2,9.12,18.24,True,Credit Card,Negative,Silver
+472,Alice,63,Female,USA,2022-12-03,Groceries,1313,5,98.76,493.8,True,Bank Transfer,Neutral,None
+473,Bob,65,Female,Germany,2022-01-30,Furniture,1944,5,54.29,271.45,True,Cash,Negative,Gold
+474,Alice,57,Male,Canada,2022-07-31,Groceries,1451,1,86.2,86.2,True,Credit Card,Neutral,Silver
+475,Alice,34,Female,France,2022-03-09,Electronics,1981,5,13.66,68.3,True,Bank Transfer,Negative,Bronze
+476,David,21,Female,USA,2022-07-18,Books,1209,6,6.64,39.839999999999996,True,Bank Transfer,Negative,Bronze
+477,Bob,20,Female,USA,2022-05-25,Clothing,1819,1,60.79,60.79,True,Cash,Neutral,None
+478,Charlie,57,Male,UK,2022-07-21,Clothing,1377,6,30.05,180.3,True,Credit Card,Positive,Silver
+479,Eve,38,Male,UK,2022-10-06,Furniture,1140,8,25.17,201.36,False,Cash,Positive,Gold
+480,Alice,53,Male,Canada,2022-10-30,Electronics,1883,5,98.02,490.09999999999997,False,Cash,Negative,Gold
+481,David,39,Male,Germany,2022-07-24,Electronics,1130,7,7.0,49.0,True,Bank Transfer,Neutral,Bronze
+482,Charlie,30,Female,UK,2022-06-19,Electronics,1933,3,34.33,102.99,True,Cash,Neutral,Silver
+483,Alice,56,Female,Germany,2022-01-09,Books,1472,5,7.91,39.55,True,PayPal,Neutral,Silver
+484,Eve,26,Female,Canada,2022-10-11,Electronics,1390,5,85.84,429.20000000000005,True,Cash,Neutral,Gold
+485,Bob,67,Female,USA,2022-08-04,Clothing,1701,6,38.36,230.16,False,Credit Card,Positive,Bronze
+486,Alice,37,Female,USA,2022-04-14,Books,1518,7,80.11,560.77,True,Credit Card,Negative,None
+487,Alice,26,Female,UK,2022-06-11,Electronics,1705,8,22.2,177.6,True,PayPal,Positive,Gold
+488,Eve,37,Female,Germany,2022-08-25,Clothing,1431,3,88.34,265.02,False,PayPal,Positive,Bronze
+489,Eve,40,Female,Germany,2022-11-04,Electronics,1198,4,58.4,233.6,False,PayPal,Neutral,Gold
+490,Bob,27,Male,Canada,2023-01-01,Electronics,1361,4,43.64,174.56,True,Cash,Neutral,Gold
+491,Alice,43,Male,Canada,2022-05-03,Clothing,1828,9,40.3,362.7,False,Bank Transfer,Neutral,Bronze
+492,David,18,Male,Canada,2022-03-16,Groceries,1370,6,86.66,519.96,False,Bank Transfer,Positive,None
+493,David,30,Male,France,2022-02-07,Groceries,1939,5,79.12,395.6,False,Credit Card,Neutral,Silver
+494,Alice,30,Female,Germany,2022-07-16,Groceries,1489,1,94.44,94.44,True,Cash,Negative,Silver
+495,Bob,34,Male,Germany,2022-03-05,Groceries,1607,8,15.57,124.56,True,Credit Card,Positive,Silver
+496,Bob,61,Female,France,2022-10-17,Clothing,1101,7,95.84,670.88,False,PayPal,Positive,Gold
+497,Bob,58,Male,Canada,2022-05-01,Electronics,1997,8,57.07,456.56,False,Credit Card,Negative,Gold
+498,Eve,51,Female,UK,2022-10-31,Groceries,1053,4,50.75,203.0,True,Credit Card,Neutral,None
+499,Eve,35,Male,Canada,2022-04-08,Clothing,1081,7,51.99,363.93,True,Credit Card,Positive,Gold
+500,David,63,Female,Canada,2022-03-21,Groceries,1599,8,23.72,189.76,False,Cash,Neutral,Gold
+501,Bob,54,Male,UK,2022-10-13,Books,1198,7,81.77,572.39,False,Cash,Negative,None
+502,Bob,19,Female,UK,2022-05-07,Electronics,1374,1,68.46,68.46,False,Bank Transfer,Neutral,Bronze
+503,David,69,Female,Germany,2022-03-22,Clothing,1772,7,93.87,657.09,False,Cash,Negative,Bronze
+504,David,52,Female,USA,2022-08-04,Electronics,1974,6,21.9,131.39999999999998,False,Bank Transfer,Negative,Gold
+505,Eve,36,Female,Germany,2022-11-01,Books,1256,1,41.15,41.15,False,Bank Transfer,Neutral,Silver
+506,Alice,52,Female,USA,2022-05-18,Clothing,1836,2,30.46,60.92,True,Bank Transfer,Neutral,Gold
+507,David,36,Female,France,2022-05-03,Electronics,1007,6,50.35,302.1,True,PayPal,Negative,None
+508,Eve,42,Male,USA,2022-11-20,Books,1252,8,18.58,148.64,True,Credit Card,Negative,Silver
+509,Alice,24,Female,USA,2022-10-18,Groceries,1654,5,61.93,309.65,False,Cash,Neutral,Gold
+510,David,51,Female,Germany,2022-01-07,Electronics,1640,6,65.87,395.22,False,Bank Transfer,Neutral,None
+511,Charlie,40,Female,USA,2022-12-08,Groceries,1084,8,67.21,537.68,False,Bank Transfer,Negative,Silver
+512,Alice,56,Female,USA,2022-10-21,Furniture,1081,8,8.11,64.88,True,Credit Card,Positive,Gold
+513,David,29,Male,France,2022-10-31,Groceries,1177,4,28.35,113.4,False,Cash,Neutral,Gold
+514,David,63,Male,Canada,2022-12-26,Furniture,1888,3,88.89,266.67,False,Cash,Neutral,Bronze
+515,Alice,67,Female,France,2022-08-14,Clothing,1767,4,80.07,320.28,True,Bank Transfer,Positive,Gold
+516,Eve,32,Male,Germany,2022-09-02,Books,1499,4,91.53,366.12,False,PayPal,Negative,None
+517,Bob,64,Male,France,2022-12-11,Furniture,1611,2,55.55,111.1,False,Credit Card,Negative,Gold
+518,Charlie,19,Female,USA,2022-09-25,Furniture,1937,8,32.72,261.76,False,PayPal,Neutral,Gold
+519,David,52,Female,USA,2022-06-22,Furniture,1241,5,30.58,152.89999999999998,False,Bank Transfer,Negative,Gold
+520,Bob,42,Female,Canada,2022-06-29,Electronics,1743,1,44.08,44.08,True,Cash,Positive,Gold
+521,David,54,Female,UK,2022-08-31,Furniture,1391,8,70.51,564.08,True,Credit Card,Neutral,Gold
+522,Eve,29,Male,Germany,2022-11-30,Electronics,1516,6,63.04,378.24,True,Bank Transfer,Positive,Gold
+523,Alice,47,Female,USA,2022-01-29,Groceries,1725,7,45.65,319.55,False,Credit Card,Positive,Gold
+524,Bob,29,Female,France,2022-08-11,Groceries,1246,1,97.15,97.15,False,Cash,Positive,Bronze
+525,Bob,26,Female,Canada,2022-12-10,Furniture,1983,6,55.61,333.65999999999997,False,Bank Transfer,Negative,Silver
+526,Alice,29,Female,France,2022-12-15,Furniture,1961,4,96.87,387.48,False,PayPal,Negative,Silver
+527,Alice,27,Male,UK,2022-03-19,Electronics,1109,5,35.74,178.70000000000002,False,Cash,Negative,Silver
+528,Alice,49,Male,Canada,2022-07-29,Clothing,1561,9,13.77,123.92999999999999,False,Cash,Positive,None
+529,David,68,Female,UK,2022-05-05,Groceries,1562,5,40.68,203.4,False,Credit Card,Positive,Gold
+530,Eve,22,Female,Germany,2022-03-11,Clothing,1472,3,87.21,261.63,True,Bank Transfer,Positive,None
+531,Alice,38,Female,Canada,2022-02-07,Books,1058,2,36.45,72.9,True,Bank Transfer,Negative,None
+532,Alice,20,Female,Germany,2022-12-26,Books,1841,4,43.85,175.4,False,Cash,Negative,Silver
+533,Charlie,50,Male,USA,2022-12-26,Furniture,1419,9,73.47,661.23,True,Credit Card,Neutral,Gold
+534,David,33,Male,France,2022-06-09,Electronics,1657,7,55.45,388.15000000000003,True,PayPal,Neutral,Gold
+535,David,26,Male,USA,2022-06-29,Furniture,1483,9,62.34,561.0600000000001,False,Credit Card,Negative,Bronze
+536,Alice,20,Male,USA,2022-04-27,Groceries,1317,5,7.72,38.6,False,PayPal,Negative,Bronze
+537,Eve,33,Male,USA,2022-10-14,Furniture,1967,8,66.08,528.64,False,Bank Transfer,Negative,None
+538,Charlie,23,Female,France,2022-12-08,Groceries,1059,9,61.98,557.8199999999999,True,Bank Transfer,Positive,None
+539,Alice,30,Female,France,2022-03-06,Books,1790,6,26.21,157.26,True,Credit Card,Negative,Silver
+540,Charlie,21,Male,USA,2022-01-11,Furniture,1924,8,11.86,94.88,True,Credit Card,Neutral,Bronze
+541,Alice,68,Male,France,2022-06-09,Clothing,1476,3,95.93,287.79,True,Credit Card,Neutral,Bronze
+542,Bob,22,Female,Germany,2022-04-08,Groceries,1599,6,40.43,242.57999999999998,False,Bank Transfer,Neutral,Bronze
+543,Eve,59,Female,USA,2022-11-06,Groceries,1233,5,19.1,95.5,True,Credit Card,Negative,None
+544,Charlie,20,Male,Canada,2022-08-18,Groceries,1338,6,87.02,522.12,False,Cash,Negative,Bronze
+545,Bob,69,Female,USA,2022-07-29,Books,1831,3,7.8,23.4,True,PayPal,Neutral,None
+546,Eve,47,Female,Canada,2022-06-07,Furniture,1699,5,61.31,306.55,False,Cash,Neutral,Bronze
+547,Eve,28,Female,Canada,2022-05-06,Groceries,1854,9,22.81,205.29,True,Credit Card,Positive,Gold
+548,Eve,59,Female,France,2022-12-20,Electronics,1180,7,53.97,377.78999999999996,False,PayPal,Positive,Silver
+549,Alice,41,Male,France,2022-11-27,Clothing,1727,7,21.58,151.06,True,Bank Transfer,Positive,None
+550,Eve,26,Female,UK,2022-02-21,Electronics,1369,2,82.9,165.8,False,Bank Transfer,Neutral,Silver
+551,Alice,42,Male,France,2022-01-28,Books,1630,3,24.91,74.73,False,PayPal,Positive,Gold
+552,David,28,Male,Germany,2022-11-07,Furniture,1723,6,60.62,363.71999999999997,False,Credit Card,Negative,None
+553,Eve,21,Female,France,2022-10-13,Electronics,1431,6,54.0,324.0,False,Credit Card,Negative,None
+554,Eve,35,Female,France,2022-04-05,Groceries,1709,7,61.03,427.21000000000004,True,PayPal,Negative,None
+555,Alice,43,Female,France,2022-02-22,Electronics,1042,3,80.15,240.45000000000002,False,Credit Card,Neutral,None
+556,Charlie,25,Male,Canada,2022-10-12,Books,1265,4,15.52,62.08,True,Bank Transfer,Positive,Bronze
+557,Alice,55,Female,USA,2022-08-20,Electronics,1189,5,74.64,373.2,False,Bank Transfer,Positive,Bronze
+558,Alice,58,Female,Canada,2022-11-21,Groceries,1064,1,97.5,97.5,True,Cash,Positive,Gold
+559,Alice,28,Female,USA,2022-05-31,Clothing,1771,4,56.51,226.04,False,Bank Transfer,Neutral,Silver
+560,Charlie,51,Female,France,2022-09-18,Clothing,1058,4,94.69,378.76,True,Cash,Negative,Gold
+561,Alice,20,Female,Canada,2022-03-04,Clothing,1274,8,30.34,242.72,False,Credit Card,Negative,Bronze
+562,David,36,Male,France,2022-08-17,Clothing,1001,7,78.56,549.9200000000001,True,PayPal,Positive,Bronze
+563,Charlie,45,Female,Germany,2022-04-29,Books,1896,2,94.17,188.34,False,Bank Transfer,Neutral,Silver
+564,Bob,62,Male,USA,2022-12-08,Electronics,1306,3,69.45,208.35000000000002,False,Cash,Neutral,None
+565,Eve,68,Female,UK,2022-07-23,Books,1260,6,17.55,105.30000000000001,True,Cash,Neutral,Bronze
+566,Charlie,33,Male,UK,2022-11-20,Electronics,1990,3,92.8,278.4,True,Credit Card,Positive,None
+567,Charlie,64,Male,USA,2022-08-24,Books,1102,5,95.65,478.25,False,PayPal,Positive,None
+568,David,64,Female,Germany,2022-01-26,Furniture,1602,3,35.62,106.85999999999999,False,Bank Transfer,Negative,None
+569,Alice,40,Female,UK,2022-09-02,Groceries,1836,3,61.13,183.39000000000001,False,Bank Transfer,Negative,Bronze
+570,Alice,53,Female,USA,2022-09-24,Furniture,1086,3,45.24,135.72,True,Bank Transfer,Neutral,Gold
+571,Eve,65,Female,France,2022-03-04,Furniture,1312,9,59.18,532.62,True,Bank Transfer,Neutral,Silver
+572,Eve,60,Male,USA,2022-09-18,Groceries,1009,6,24.61,147.66,False,Cash,Neutral,Gold
+573,Alice,38,Male,Germany,2022-08-12,Clothing,1321,4,68.69,274.76,True,Cash,Negative,Bronze
+574,Alice,29,Male,France,2022-11-28,Books,1151,6,50.74,304.44,True,PayPal,Neutral,Gold
+575,Eve,63,Male,UK,2022-02-03,Furniture,1257,7,63.27,442.89000000000004,False,PayPal,Positive,Silver
+576,Eve,33,Female,France,2022-11-09,Clothing,1273,5,56.13,280.65000000000003,False,Cash,Negative,None
+577,Alice,34,Female,France,2022-09-30,Electronics,1489,3,21.94,65.82000000000001,False,Credit Card,Neutral,Bronze
+578,David,23,Female,Canada,2022-08-03,Furniture,1467,8,76.51,612.08,False,Credit Card,Positive,Silver
+579,Alice,51,Female,USA,2022-01-26,Furniture,1509,7,49.86,349.02,False,Bank Transfer,Negative,Gold
+580,Eve,22,Male,Canada,2022-01-31,Books,1582,9,9.99,89.91,False,PayPal,Positive,None
+581,Charlie,69,Male,France,2023-01-01,Furniture,1530,8,76.83,614.64,True,Bank Transfer,Neutral,Silver
+582,Alice,63,Female,UK,2022-03-01,Clothing,1421,6,69.59,417.54,True,Cash,Positive,Gold
+583,Charlie,43,Male,France,2022-04-12,Books,1949,5,89.16,445.79999999999995,True,Credit Card,Neutral,None
+584,Charlie,67,Female,UK,2022-07-15,Books,1165,6,23.0,138.0,False,PayPal,Positive,Bronze
+585,Eve,32,Male,France,2022-05-09,Furniture,1226,4,62.71,250.84,False,Credit Card,Neutral,Gold
+586,Charlie,21,Female,UK,2022-12-27,Furniture,1209,6,34.99,209.94,True,Bank Transfer,Negative,Bronze
+587,Charlie,18,Female,France,2022-11-03,Furniture,1853,1,29.49,29.49,True,Cash,Negative,None
+588,David,64,Female,Canada,2022-11-25,Groceries,1165,3,49.88,149.64000000000001,True,Bank Transfer,Neutral,None
+589,Eve,34,Female,Germany,2022-05-17,Furniture,1321,7,87.16,610.12,False,Credit Card,Negative,Silver
+590,Alice,18,Male,France,2022-06-08,Groceries,1875,1,33.84,33.84,False,PayPal,Negative,Gold
+591,Bob,27,Female,USA,2022-09-03,Furniture,1945,6,31.1,186.60000000000002,False,Cash,Negative,Gold
+592,Charlie,51,Male,UK,2022-04-13,Clothing,1650,3,82.96,248.88,False,Cash,Positive,Bronze
+593,Bob,24,Female,Germany,2022-09-24,Groceries,1153,9,24.23,218.07,True,Credit Card,Negative,Silver
+594,Charlie,68,Female,UK,2022-03-04,Electronics,1444,3,8.28,24.839999999999996,True,PayPal,Positive,None
+595,Charlie,21,Female,USA,2022-04-27,Furniture,1298,4,70.67,282.68,True,Credit Card,Neutral,Gold
+596,Bob,63,Male,Germany,2022-09-16,Electronics,1684,8,87.61,700.88,True,PayPal,Neutral,Gold
+597,Alice,62,Male,Canada,2022-02-15,Clothing,1125,2,98.13,196.26,False,PayPal,Positive,None
+598,David,39,Male,Germany,2022-04-13,Furniture,1464,5,6.33,31.65,True,Bank Transfer,Positive,Gold
+599,Bob,64,Female,Canada,2022-12-18,Groceries,1975,4,20.41,81.64,False,Cash,Negative,Bronze
+600,Alice,22,Female,USA,2022-11-22,Furniture,1475,4,97.82,391.28,True,PayPal,Positive,None
+601,Charlie,49,Male,Canada,2022-06-22,Groceries,1459,5,38.46,192.3,True,Credit Card,Neutral,Silver
+602,David,65,Male,Germany,2022-08-26,Groceries,1937,5,27.48,137.4,False,Credit Card,Negative,None
+603,Alice,43,Male,France,2022-04-20,Electronics,1450,8,24.12,192.96,False,PayPal,Positive,Bronze
+604,Eve,51,Female,UK,2022-10-23,Books,1115,9,51.64,464.76,False,Cash,Positive,Silver
+605,Eve,38,Female,USA,2022-04-15,Books,1846,2,98.92,197.84,False,Cash,Negative,Silver
+606,Charlie,23,Female,USA,2022-01-18,Books,1127,8,43.34,346.72,True,Credit Card,Negative,Silver
+607,David,32,Male,Germany,2022-02-01,Clothing,1752,4,34.37,137.48,True,Bank Transfer,Positive,Gold
+608,Charlie,24,Female,UK,2022-07-02,Clothing,1537,5,25.33,126.64999999999999,True,Credit Card,Neutral,None
+609,David,32,Male,France,2022-07-15,Clothing,1472,7,64.44,451.08,False,Credit Card,Negative,Bronze
+610,Alice,20,Male,Canada,2022-09-05,Furniture,1325,5,88.34,441.70000000000005,True,Credit Card,Negative,Silver
+611,Eve,29,Male,USA,2022-10-04,Books,1473,9,79.42,714.78,False,Bank Transfer,Negative,None
+612,Alice,58,Male,USA,2022-05-30,Books,1209,2,59.33,118.66,False,Bank Transfer,Negative,Silver
+613,Eve,29,Male,France,2022-03-18,Electronics,1415,5,9.33,46.65,False,PayPal,Neutral,Gold
+614,Charlie,31,Male,France,2022-05-08,Books,1523,4,30.69,122.76,False,Credit Card,Positive,Gold
+615,David,39,Male,France,2022-03-26,Books,1008,2,29.56,59.12,False,Cash,Neutral,Silver
+616,Eve,69,Male,Canada,2022-04-17,Clothing,1266,4,59.91,239.64,False,PayPal,Neutral,Gold
+617,Bob,54,Female,Canada,2022-08-26,Electronics,1659,2,60.47,120.94,True,Credit Card,Positive,Bronze
+618,Alice,20,Male,UK,2022-03-05,Electronics,1014,5,42.51,212.54999999999998,True,Bank Transfer,Negative,Gold
+619,Bob,20,Female,France,2022-08-15,Clothing,1169,9,87.24,785.16,True,Credit Card,Neutral,Gold
+620,David,35,Male,USA,2022-01-09,Electronics,1637,2,20.79,41.58,True,Credit Card,Negative,Gold
+621,Eve,25,Female,USA,2022-01-08,Groceries,1104,7,68.58,480.06,True,Cash,Neutral,Bronze
+622,Bob,30,Male,France,2022-11-13,Furniture,1947,1,59.18,59.18,True,Bank Transfer,Neutral,Gold
+623,Bob,28,Male,Canada,2022-11-06,Furniture,1997,6,36.63,219.78000000000003,False,Bank Transfer,Positive,Gold
+624,Alice,26,Male,USA,2022-07-10,Clothing,1531,8,37.09,296.72,False,Bank Transfer,Neutral,Bronze
+625,Eve,36,Female,USA,2022-09-08,Electronics,1393,8,65.89,527.12,False,Cash,Negative,Silver
+626,Bob,37,Male,Germany,2022-09-20,Clothing,1509,9,88.83,799.47,False,Cash,Negative,None
+627,Bob,46,Male,Canada,2022-10-21,Furniture,1163,3,17.14,51.42,True,Credit Card,Positive,None
+628,Alice,25,Female,France,2022-06-21,Groceries,1342,9,56.82,511.38,True,Cash,Neutral,None
+629,Charlie,30,Male,USA,2022-12-29,Groceries,1250,5,86.84,434.20000000000005,False,PayPal,Negative,Bronze
+630,Bob,50,Female,Canada,2022-06-15,Clothing,1490,7,8.92,62.44,False,Cash,Negative,Bronze
+631,Eve,66,Male,USA,2022-09-19,Clothing,1510,6,96.82,580.92,False,Credit Card,Negative,Bronze
+632,Bob,28,Male,Canada,2022-04-24,Groceries,1013,9,80.98,728.82,False,Cash,Negative,Silver
+633,David,57,Male,USA,2022-03-25,Electronics,1485,1,14.63,14.63,True,Bank Transfer,Neutral,Silver
+634,Charlie,57,Female,France,2022-05-01,Clothing,1419,7,66.16,463.12,False,Cash,Negative,Silver
+635,Alice,29,Female,Canada,2022-09-14,Groceries,1865,4,63.08,252.32,False,PayPal,Positive,None
+636,Alice,28,Female,Canada,2022-04-25,Furniture,1766,8,50.88,407.04,True,Credit Card,Neutral,Bronze
+637,Alice,35,Female,Canada,2022-08-23,Clothing,1440,8,48.68,389.44,True,Credit Card,Neutral,None
+638,David,56,Female,Germany,2022-10-10,Electronics,1379,1,90.41,90.41,True,Credit Card,Negative,Gold
+639,Alice,23,Male,UK,2022-09-19,Groceries,1762,3,92.43,277.29,True,Cash,Neutral,None
+640,David,41,Female,UK,2022-03-30,Electronics,1987,3,29.91,89.73,False,Bank Transfer,Negative,Bronze
+641,Eve,21,Male,France,2022-12-05,Books,1396,8,69.28,554.24,True,PayPal,Negative,None
+642,Charlie,55,Male,USA,2022-08-12,Clothing,1756,8,7.62,60.96,False,Bank Transfer,Positive,None
+643,Bob,54,Male,France,2022-07-09,Groceries,1064,5,69.35,346.75,False,Bank Transfer,Negative,Gold
+644,Charlie,28,Male,Germany,2022-06-25,Furniture,1601,7,62.09,434.63,False,Credit Card,Positive,None
+645,Bob,34,Male,USA,2022-04-02,Furniture,1844,4,15.24,60.96,False,Cash,Negative,Gold
+646,Bob,44,Male,Canada,2022-02-24,Books,1418,1,15.37,15.37,True,Credit Card,Neutral,Bronze
+647,Bob,18,Male,France,2022-04-03,Electronics,1200,1,72.42,72.42,True,PayPal,Negative,None
+648,Charlie,40,Female,Germany,2022-11-17,Electronics,1115,5,93.7,468.5,True,Credit Card,Negative,Silver
+649,David,19,Female,USA,2022-10-15,Groceries,1139,8,50.33,402.64,True,Cash,Negative,Bronze
+650,David,37,Male,UK,2022-01-03,Furniture,1422,7,93.28,652.96,False,Credit Card,Neutral,Bronze
+651,David,50,Female,UK,2022-10-20,Groceries,1547,6,40.26,241.56,True,Credit Card,Positive,Gold
+652,Eve,53,Female,Germany,2022-08-31,Clothing,1849,3,25.76,77.28,False,Credit Card,Neutral,Gold
+653,Bob,19,Female,UK,2022-04-14,Books,1746,2,50.32,100.64,True,Bank Transfer,Positive,None
+654,Bob,40,Male,France,2022-03-05,Electronics,1727,4,58.2,232.8,False,Cash,Negative,Gold
+655,Eve,39,Female,USA,2022-08-09,Furniture,1128,1,53.01,53.01,True,Credit Card,Negative,Bronze
+656,Eve,39,Male,USA,2022-04-11,Furniture,1266,7,82.12,574.84,False,Credit Card,Negative,Gold
+657,David,28,Female,UK,2022-02-27,Electronics,1494,6,11.98,71.88,True,Bank Transfer,Positive,Gold
+658,David,44,Female,France,2022-06-24,Groceries,1363,1,10.3,10.3,False,Credit Card,Positive,None
+659,Charlie,50,Female,France,2022-09-26,Clothing,1541,6,58.68,352.08,True,PayPal,Negative,None
+660,Alice,24,Female,USA,2022-05-24,Clothing,1680,9,50.74,456.66,False,Cash,Positive,Silver
+661,Bob,58,Male,Canada,2022-03-29,Books,1804,7,22.87,160.09,True,Bank Transfer,Positive,Silver
+662,Alice,65,Female,France,2022-11-17,Groceries,1840,2,26.66,53.32,False,PayPal,Positive,None
+663,Eve,39,Male,Germany,2022-10-11,Books,1570,9,70.95,638.5500000000001,True,PayPal,Negative,Gold
+664,David,52,Female,UK,2022-11-08,Books,1954,3,57.09,171.27,False,Cash,Negative,None
+665,David,58,Female,France,2022-03-03,Clothing,1318,1,94.64,94.64,True,Bank Transfer,Negative,Bronze
+666,Charlie,61,Female,UK,2022-05-27,Clothing,1713,5,37.41,187.04999999999998,True,Cash,Positive,None
+667,Bob,57,Female,Canada,2022-03-16,Groceries,1301,2,19.29,38.58,False,Credit Card,Neutral,Silver
+668,Alice,23,Female,UK,2022-06-07,Clothing,1563,6,24.99,149.94,True,PayPal,Negative,Silver
+669,David,58,Female,UK,2022-05-22,Groceries,1405,5,37.92,189.60000000000002,True,Bank Transfer,Negative,Bronze
+670,Alice,18,Male,UK,2022-07-24,Books,1435,2,66.8,133.6,False,Cash,Neutral,None
+671,Eve,52,Male,Germany,2022-08-11,Clothing,1672,7,27.99,195.92999999999998,False,Bank Transfer,Negative,Silver
+672,Eve,23,Male,UK,2022-04-03,Furniture,1856,8,7.42,59.36,False,Credit Card,Neutral,None
+673,Alice,46,Female,France,2022-04-22,Electronics,1586,6,55.53,333.18,False,Bank Transfer,Positive,None
+674,Charlie,30,Female,USA,2022-02-13,Electronics,1120,4,24.13,96.52,True,PayPal,Neutral,Gold
+675,Bob,56,Female,France,2022-07-22,Clothing,1362,3,13.97,41.910000000000004,False,Bank Transfer,Negative,Bronze
+676,Eve,51,Female,Canada,2022-05-13,Clothing,1329,5,36.59,182.95000000000002,False,Credit Card,Positive,Silver
+677,Charlie,27,Male,USA,2022-07-06,Clothing,1749,6,67.48,404.88,False,Bank Transfer,Positive,Silver
+678,Charlie,48,Male,USA,2022-01-10,Furniture,1508,2,39.77,79.54,False,Bank Transfer,Positive,Silver
+679,Alice,60,Male,UK,2022-08-09,Clothing,1005,2,5.88,11.76,True,Bank Transfer,Positive,Bronze
+680,Alice,24,Male,USA,2022-10-11,Books,1440,5,27.49,137.45,False,Cash,Neutral,Silver
+681,David,51,Female,USA,2022-01-07,Furniture,1336,1,91.98,91.98,True,Cash,Positive,Silver
+682,David,28,Female,USA,2022-08-04,Groceries,1305,4,49.25,197.0,False,Credit Card,Positive,None
+683,Charlie,32,Female,Canada,2022-12-10,Groceries,1499,2,14.81,29.62,False,Bank Transfer,Positive,Silver
+684,David,28,Female,USA,2022-04-15,Clothing,1717,7,31.3,219.1,True,Cash,Negative,None
+685,Bob,53,Female,France,2022-12-07,Clothing,1371,1,15.76,15.76,False,Credit Card,Negative,Silver
+686,David,62,Male,France,2022-03-25,Furniture,1721,3,40.2,120.60000000000001,True,Cash,Negative,Silver
+687,David,63,Male,Canada,2022-02-19,Groceries,1986,2,79.09,158.18,False,Cash,Negative,Bronze
+688,David,20,Female,Germany,2022-10-21,Furniture,1245,6,73.53,441.18,False,Cash,Positive,None
+689,David,26,Male,Canada,2022-09-28,Clothing,1753,4,32.62,130.48,True,PayPal,Neutral,Silver
+690,Eve,54,Male,Germany,2022-10-22,Books,1629,6,52.44,314.64,True,PayPal,Positive,Gold
+691,Charlie,53,Female,USA,2022-11-29,Electronics,1532,1,58.32,58.32,False,PayPal,Positive,Silver
+692,Alice,53,Male,UK,2022-06-26,Books,1603,2,95.16,190.32,True,Cash,Neutral,Gold
+693,David,27,Female,Germany,2022-05-23,Electronics,1343,5,67.61,338.05,False,Credit Card,Neutral,None
+694,Charlie,51,Male,Canada,2022-11-20,Books,1194,3,53.44,160.32,False,Bank Transfer,Positive,Silver
+695,Bob,32,Female,Canada,2022-06-22,Clothing,1290,6,19.24,115.44,True,Cash,Positive,Silver
+696,Bob,39,Female,France,2022-11-03,Groceries,1662,7,85.24,596.68,True,Bank Transfer,Negative,Gold
+697,Bob,40,Male,UK,2022-05-28,Clothing,1022,6,85.03,510.18,False,Bank Transfer,Neutral,None
+698,Eve,47,Male,UK,2022-01-18,Furniture,1870,1,5.5,5.5,False,PayPal,Positive,Silver
+699,David,31,Male,France,2022-10-25,Electronics,1049,9,78.42,705.78,False,Credit Card,Positive,Gold
+700,Charlie,54,Female,Canada,2022-09-30,Clothing,1744,2,76.62,153.24,False,Cash,Negative,Silver
+701,David,52,Female,Germany,2022-07-15,Clothing,1128,2,64.51,129.02,False,PayPal,Negative,Silver
+702,David,22,Female,USA,2022-12-18,Books,1206,8,97.1,776.8,True,PayPal,Positive,Silver
+703,David,35,Male,USA,2022-01-17,Groceries,1425,8,11.23,89.84,False,Cash,Neutral,Bronze
+704,David,43,Female,UK,2022-07-03,Furniture,1826,5,6.08,30.4,False,Cash,Neutral,Bronze
+705,Charlie,29,Female,France,2022-05-24,Furniture,1239,1,48.07,48.07,False,Cash,Neutral,None
+706,Alice,63,Male,UK,2022-06-06,Furniture,1553,4,81.66,326.64,True,PayPal,Neutral,Gold
+707,Eve,29,Male,USA,2022-09-16,Furniture,1521,4,82.31,329.24,True,Bank Transfer,Positive,Silver
+708,David,47,Female,France,2022-10-26,Clothing,1530,3,10.38,31.14,True,PayPal,Neutral,None
+709,Eve,58,Female,Canada,2022-06-30,Groceries,1880,7,30.95,216.65,True,Cash,Negative,Silver
+710,Charlie,62,Male,Germany,2022-04-20,Groceries,1339,4,84.91,339.64,True,Cash,Neutral,Gold
+711,David,31,Female,Canada,2022-12-20,Furniture,1911,2,32.42,64.84,False,Bank Transfer,Positive,Silver
+712,Alice,31,Male,USA,2022-02-08,Electronics,1569,9,32.16,289.43999999999994,True,Credit Card,Neutral,None
+713,Alice,55,Male,USA,2022-05-27,Furniture,1187,7,86.89,608.23,False,PayPal,Positive,None
+714,Alice,40,Male,UK,2022-10-25,Furniture,1178,3,31.8,95.4,True,Credit Card,Neutral,Silver
+715,Eve,26,Female,France,2022-12-07,Furniture,1588,9,31.62,284.58,True,PayPal,Negative,Bronze
+716,Eve,51,Male,Canada,2022-07-10,Books,1601,4,73.95,295.8,False,Cash,Positive,Bronze
+717,Charlie,27,Male,France,2022-08-18,Clothing,1904,6,99.51,597.0600000000001,False,PayPal,Positive,Gold
+718,Bob,48,Female,UK,2022-03-31,Groceries,1534,2,73.65,147.3,False,Credit Card,Negative,None
+719,Charlie,61,Male,France,2022-07-01,Clothing,1104,1,44.25,44.25,True,Bank Transfer,Negative,Gold
+720,Bob,43,Male,Canada,2022-05-06,Books,1065,9,19.0,171.0,False,PayPal,Neutral,None
+721,Eve,44,Female,France,2022-10-27,Groceries,1783,2,74.08,148.16,False,PayPal,Negative,Silver
+722,Eve,55,Male,USA,2022-05-15,Groceries,1650,1,80.05,80.05,False,PayPal,Positive,None
+723,Eve,46,Female,Canada,2022-01-27,Electronics,1069,6,38.2,229.20000000000002,True,Credit Card,Negative,None
+724,Charlie,50,Male,USA,2022-10-03,Groceries,1756,2,78.98,157.96,True,Bank Transfer,Neutral,None
+725,Charlie,35,Male,USA,2022-04-30,Furniture,1189,8,69.3,554.4,True,Cash,Negative,None
+726,Bob,47,Male,UK,2022-03-02,Books,1296,9,41.95,377.55,False,Bank Transfer,Neutral,Gold
+727,Alice,44,Female,France,2022-03-18,Books,1536,9,55.57,500.13,False,Cash,Neutral,Silver
+728,Eve,45,Male,France,2022-04-16,Electronics,1093,4,32.86,131.44,False,Cash,Neutral,Gold
+729,Charlie,45,Male,USA,2022-12-23,Furniture,1408,6,21.59,129.54,True,Credit Card,Positive,Gold
+730,Bob,43,Female,Canada,2022-03-28,Clothing,1505,2,57.44,114.88,False,Cash,Positive,Gold
+731,Eve,42,Male,Germany,2022-02-16,Books,1407,3,43.24,129.72,False,Credit Card,Positive,None
+732,Charlie,42,Male,France,2022-12-31,Books,1416,8,47.06,376.48,False,Cash,Negative,Gold
+733,Eve,55,Male,Germany,2022-07-08,Clothing,1043,8,93.78,750.24,False,Credit Card,Neutral,Silver
+734,Eve,52,Male,France,2022-11-16,Electronics,1366,9,99.44,894.96,False,Bank Transfer,Negative,Gold
+735,Charlie,65,Male,Germany,2022-06-28,Books,1838,2,54.59,109.18,False,Credit Card,Negative,Bronze
+736,Alice,22,Male,Germany,2022-12-22,Books,1481,6,83.18,499.08000000000004,False,PayPal,Negative,Gold
+737,Eve,65,Male,France,2022-02-02,Furniture,1622,8,19.0,152.0,True,Credit Card,Neutral,Silver
+738,Charlie,35,Male,Germany,2022-02-05,Books,1066,7,65.78,460.46000000000004,True,Credit Card,Positive,None
+739,Charlie,51,Male,France,2022-08-30,Furniture,1134,5,11.51,57.55,True,Cash,Positive,None
+740,Alice,34,Female,USA,2022-07-21,Books,1022,3,59.15,177.45,True,Credit Card,Neutral,None
+741,Alice,61,Male,UK,2022-05-30,Electronics,1725,1,88.87,88.87,False,Cash,Positive,Bronze
+742,Eve,62,Female,France,2022-08-17,Electronics,1384,5,26.68,133.4,False,Credit Card,Positive,Gold
+743,David,49,Female,UK,2022-06-04,Groceries,1379,2,59.65,119.3,False,Cash,Negative,Gold
+744,David,20,Female,Canada,2022-07-23,Electronics,1401,9,58.28,524.52,True,Bank Transfer,Neutral,Gold
+745,Bob,43,Female,Germany,2022-01-20,Clothing,1610,1,47.19,47.19,False,Credit Card,Negative,Silver
+746,Bob,19,Female,UK,2022-01-06,Groceries,1787,7,37.53,262.71000000000004,False,Credit Card,Positive,None
+747,Bob,65,Female,Canada,2022-05-01,Books,1920,9,96.85,871.65,False,Cash,Negative,Silver
+748,Charlie,66,Male,UK,2022-05-02,Electronics,1260,9,83.7,753.3000000000001,False,PayPal,Positive,Bronze
+749,Alice,40,Female,Germany,2022-09-04,Furniture,1970,2,35.34,70.68,True,PayPal,Positive,Silver
+750,David,46,Male,USA,2022-01-26,Electronics,1062,5,33.05,165.25,False,Cash,Neutral,None
+751,Eve,33,Male,Germany,2022-03-16,Electronics,1984,1,90.05,90.05,False,Credit Card,Negative,Silver
+752,Eve,19,Female,UK,2022-12-08,Electronics,1380,3,13.16,39.480000000000004,False,PayPal,Neutral,Silver
+753,Alice,25,Male,UK,2022-10-03,Groceries,1055,1,80.32,80.32,True,Bank Transfer,Positive,Gold
+754,David,24,Female,Germany,2022-12-11,Clothing,1457,5,38.5,192.5,True,PayPal,Positive,Gold
+755,Bob,51,Female,USA,2022-09-29,Groceries,1481,3,28.02,84.06,True,Cash,Positive,Gold
+756,David,49,Female,UK,2022-05-15,Clothing,1919,4,29.38,117.52,True,Bank Transfer,Neutral,Silver
+757,David,65,Male,Germany,2022-08-05,Groceries,1784,1,33.06,33.06,True,Bank Transfer,Negative,Silver
+758,Bob,34,Female,Canada,2022-03-31,Books,1065,8,72.72,581.76,True,PayPal,Neutral,Bronze
+759,Bob,28,Female,France,2022-05-23,Electronics,1921,8,46.75,374.0,True,Bank Transfer,Negative,Silver
+760,Bob,35,Female,USA,2022-01-05,Books,1855,9,26.65,239.85,True,Bank Transfer,Negative,None
+761,Alice,66,Female,USA,2022-01-01,Groceries,1983,5,84.29,421.45000000000005,False,Credit Card,Negative,None
+762,Charlie,46,Female,France,2022-05-10,Electronics,1777,7,62.21,435.47,True,Credit Card,Neutral,Gold
+763,Eve,47,Female,UK,2022-05-25,Electronics,1322,4,42.1,168.4,False,Credit Card,Negative,Bronze
+764,David,56,Male,Germany,2022-10-20,Clothing,1283,5,77.62,388.1,False,Cash,Neutral,Bronze
+765,Bob,58,Male,France,2022-07-11,Books,1267,8,26.38,211.04,True,Bank Transfer,Positive,None
+766,Charlie,34,Female,France,2022-10-03,Electronics,1476,5,52.18,260.9,False,Bank Transfer,Negative,Silver
+767,David,56,Male,Germany,2022-02-06,Electronics,1113,2,21.53,43.06,True,Cash,Neutral,Bronze
+768,Bob,45,Female,France,2022-01-31,Books,1009,9,58.17,523.53,True,Credit Card,Positive,Silver
+769,Eve,64,Female,USA,2022-10-09,Groceries,1490,7,76.14,532.98,False,PayPal,Neutral,None
+770,Alice,40,Female,USA,2022-05-14,Furniture,1430,4,91.22,364.88,True,Bank Transfer,Positive,Silver
+771,Alice,36,Male,UK,2022-08-04,Electronics,1524,8,13.08,104.64,False,Credit Card,Neutral,None
+772,Charlie,21,Female,USA,2022-09-30,Clothing,1655,8,12.37,98.96,True,Credit Card,Negative,None
+773,Bob,29,Female,UK,2022-11-02,Books,1156,8,44.16,353.28,False,Credit Card,Neutral,None
+774,Bob,49,Male,USA,2022-01-23,Groceries,1638,5,85.54,427.70000000000005,False,Cash,Positive,Gold
+775,Alice,63,Female,UK,2022-02-27,Groceries,1587,4,95.68,382.72,True,Cash,Negative,Gold
+776,Bob,22,Female,USA,2022-03-12,Groceries,1030,8,52.08,416.64,False,Cash,Neutral,Gold
+777,Bob,53,Male,UK,2022-09-13,Books,1568,3,73.07,219.20999999999998,False,Bank Transfer,Negative,Silver
+778,Bob,49,Male,USA,2022-11-29,Electronics,1575,1,48.18,48.18,True,Cash,Neutral,Bronze
+779,Eve,38,Male,Canada,2022-08-27,Electronics,1627,5,78.82,394.09999999999997,True,Credit Card,Negative,Gold
+780,Bob,57,Female,UK,2022-09-10,Books,1697,7,32.38,226.66000000000003,True,Bank Transfer,Negative,Gold
+781,Charlie,34,Female,USA,2022-08-20,Books,1825,4,46.15,184.6,True,Bank Transfer,Negative,Bronze
+782,Bob,32,Male,France,2022-08-28,Electronics,1795,6,67.83,406.98,True,Bank Transfer,Positive,None
+783,Eve,53,Male,USA,2022-05-20,Books,1044,9,59.59,536.3100000000001,True,Bank Transfer,Negative,Bronze
+784,Bob,45,Male,Canada,2022-06-12,Books,1089,3,34.65,103.94999999999999,False,PayPal,Positive,None
+785,Charlie,34,Male,France,2022-12-11,Books,1502,3,62.92,188.76,True,Cash,Positive,Bronze
+786,Bob,30,Female,UK,2022-11-28,Books,1831,2,22.81,45.62,False,Credit Card,Positive,None
+787,Charlie,48,Male,France,2022-06-19,Books,1084,5,43.4,217.0,True,Credit Card,Positive,None
+788,Charlie,28,Male,Canada,2022-06-17,Furniture,1595,2,56.14,112.28,False,Credit Card,Neutral,Gold
+789,David,29,Male,UK,2022-04-11,Groceries,1409,2,44.52,89.04,True,Bank Transfer,Neutral,Gold
+790,Eve,25,Male,UK,2022-12-20,Clothing,1537,4,69.06,276.24,False,PayPal,Neutral,Gold
+791,Bob,46,Female,Germany,2022-12-31,Electronics,1660,8,7.81,62.48,True,Credit Card,Positive,Silver
+792,David,39,Female,UK,2022-10-26,Books,1198,5,27.95,139.75,False,PayPal,Negative,Gold
+793,Alice,23,Female,USA,2022-01-17,Groceries,1599,2,5.33,10.66,True,Bank Transfer,Neutral,Gold
+794,David,66,Male,Canada,2022-09-08,Electronics,1726,5,61.65,308.25,False,PayPal,Positive,Bronze
+795,David,35,Female,UK,2022-07-04,Books,1687,4,17.2,68.8,False,Bank Transfer,Neutral,Silver
+796,Eve,65,Female,USA,2022-10-08,Groceries,1412,4,74.94,299.76,False,Credit Card,Negative,Gold
+797,Charlie,28,Male,France,2022-03-15,Books,1438,2,26.65,53.3,True,Bank Transfer,Positive,None
+798,Charlie,41,Male,France,2022-08-26,Books,1459,3,68.71,206.13,True,Bank Transfer,Positive,Gold
+799,Charlie,62,Male,UK,2022-12-02,Electronics,1552,5,55.05,275.25,False,Cash,Negative,Bronze
+800,David,46,Male,Germany,2022-10-03,Clothing,1616,1,65.94,65.94,True,Bank Transfer,Negative,Bronze
+801,Bob,34,Female,USA,2022-02-23,Groceries,1883,5,71.44,357.2,True,Bank Transfer,Neutral,Bronze
+802,Alice,58,Male,Germany,2022-10-04,Groceries,1942,4,89.54,358.16,False,Bank Transfer,Positive,Bronze
+803,Bob,31,Female,France,2022-05-19,Books,1023,7,79.17,554.19,True,PayPal,Negative,Bronze
+804,Eve,18,Female,Canada,2022-12-16,Groceries,1692,2,47.74,95.48,False,Bank Transfer,Negative,None
+805,Bob,44,Female,USA,2022-12-06,Electronics,1783,4,58.23,232.92,False,Credit Card,Negative,None
+806,Charlie,41,Male,UK,2022-05-19,Books,1874,9,10.41,93.69,False,Cash,Negative,Gold
+807,Alice,19,Female,Canada,2022-09-02,Electronics,1134,3,56.4,169.2,False,PayPal,Negative,Silver
+808,Alice,66,Male,France,2022-04-25,Books,1154,5,96.26,481.3,True,Bank Transfer,Negative,Gold
+809,Alice,32,Male,UK,2022-10-16,Clothing,1517,8,89.3,714.4,False,Bank Transfer,Neutral,None
+810,Eve,22,Male,UK,2022-12-19,Clothing,1994,5,48.71,243.55,True,PayPal,Negative,Gold
+811,Charlie,37,Male,UK,2022-09-27,Clothing,1380,3,18.56,55.67999999999999,True,Bank Transfer,Negative,Gold
+812,Bob,30,Female,USA,2022-03-11,Clothing,1004,4,69.53,278.12,False,Cash,Positive,None
+813,Charlie,44,Male,UK,2022-06-02,Books,1770,2,29.35,58.7,True,PayPal,Neutral,Bronze
+814,David,65,Male,Germany,2022-12-19,Clothing,1909,1,77.76,77.76,True,Cash,Positive,Silver
+815,Eve,66,Male,Germany,2022-05-15,Groceries,1423,7,63.61,445.27,False,Cash,Positive,Gold
+816,David,63,Male,USA,2022-03-22,Electronics,1281,7,31.73,222.11,False,Cash,Negative,None
+817,Charlie,67,Female,France,2022-02-06,Books,1916,2,92.12,184.24,False,Cash,Negative,None
+818,Charlie,62,Male,UK,2022-05-13,Groceries,1877,3,71.22,213.66,False,Cash,Neutral,Gold
+819,Alice,51,Male,USA,2022-02-07,Groceries,1760,1,37.61,37.61,False,Credit Card,Neutral,Bronze
+820,Charlie,21,Male,France,2022-06-25,Electronics,1504,8,74.47,595.76,False,Cash,Negative,Gold
+821,Bob,24,Male,UK,2022-03-08,Electronics,1618,8,90.97,727.76,True,Cash,Positive,Bronze
+822,Charlie,37,Male,France,2022-11-03,Groceries,1878,9,51.67,465.03000000000003,True,Cash,Neutral,None
+823,Bob,37,Female,Germany,2022-12-04,Electronics,1354,5,45.17,225.85000000000002,True,PayPal,Negative,Gold
+824,David,52,Male,USA,2022-11-17,Books,1812,9,96.79,871.11,False,Cash,Positive,Silver
+825,Alice,51,Male,USA,2022-11-22,Electronics,1661,4,88.59,354.36,False,Credit Card,Negative,Gold
+826,Eve,59,Male,Canada,2022-08-18,Clothing,1944,8,72.39,579.12,True,PayPal,Positive,Gold
+827,Charlie,31,Male,USA,2022-02-05,Electronics,1934,6,55.1,330.6,False,Credit Card,Negative,Bronze
+828,Eve,57,Female,UK,2022-07-13,Electronics,1359,2,55.8,111.6,False,Bank Transfer,Positive,Gold
+829,Alice,53,Male,USA,2022-12-02,Electronics,1606,7,95.16,666.12,False,PayPal,Neutral,None
+830,Eve,41,Male,Canada,2022-01-17,Groceries,1683,4,24.65,98.6,True,PayPal,Neutral,Silver
+831,Alice,47,Female,Germany,2022-09-24,Groceries,1599,2,67.81,135.62,False,Credit Card,Neutral,Gold
+832,Eve,67,Female,France,2022-12-16,Groceries,1710,3,74.33,222.99,True,Credit Card,Neutral,None
+833,Charlie,32,Female,USA,2022-12-09,Clothing,1199,4,41.79,167.16,False,Bank Transfer,Neutral,Gold
+834,Eve,47,Female,USA,2022-01-12,Groceries,1422,5,41.61,208.05,True,PayPal,Positive,Silver
+835,Alice,62,Male,Germany,2022-08-29,Furniture,1943,4,49.04,196.16,True,Credit Card,Positive,Silver
+836,Alice,24,Female,Germany,2022-07-26,Furniture,1213,2,70.0,140.0,False,PayPal,Neutral,None
+837,Alice,38,Male,Canada,2022-10-30,Furniture,1141,6,84.18,505.08000000000004,False,PayPal,Negative,Silver
+838,Eve,61,Female,Germany,2022-06-21,Electronics,1210,5,55.66,278.29999999999995,False,Cash,Positive,Bronze
+839,Eve,35,Male,France,2022-09-28,Groceries,1916,7,57.74,404.18,True,Cash,Positive,None
+840,Alice,63,Female,UK,2022-04-18,Clothing,1441,9,25.8,232.20000000000002,True,PayPal,Neutral,None
+841,Charlie,58,Female,France,2022-05-29,Books,1920,8,19.29,154.32,False,Credit Card,Positive,Gold
+842,Alice,31,Female,Canada,2022-05-29,Books,1469,8,25.15,201.2,True,Bank Transfer,Neutral,Silver
+843,Bob,62,Male,USA,2022-09-15,Electronics,1508,7,59.15,414.05,False,PayPal,Positive,Bronze
+844,Alice,39,Female,USA,2022-03-21,Furniture,1062,7,41.41,289.87,True,Cash,Negative,Silver
+845,Charlie,25,Male,Germany,2022-08-04,Clothing,1091,7,48.32,338.24,False,Cash,Neutral,Bronze
+846,David,29,Female,Germany,2022-03-23,Clothing,1730,9,84.38,759.42,False,PayPal,Negative,Gold
+847,Charlie,46,Male,USA,2022-07-04,Electronics,1088,5,15.44,77.2,False,Credit Card,Neutral,None
+848,Eve,47,Female,France,2022-09-12,Clothing,1878,5,13.4,67.0,False,Credit Card,Positive,Bronze
+849,Alice,40,Female,France,2022-04-08,Furniture,1004,7,23.6,165.20000000000002,True,PayPal,Neutral,Bronze
+850,Alice,48,Female,France,2022-01-25,Furniture,1895,5,46.39,231.95,True,PayPal,Negative,Silver
+851,David,62,Male,France,2022-09-09,Electronics,1728,7,62.36,436.52,True,Cash,Neutral,Silver
+852,Eve,58,Male,USA,2022-08-01,Electronics,1248,5,98.83,494.15,False,Credit Card,Negative,Bronze
+853,David,44,Male,UK,2022-12-16,Electronics,1632,5,32.64,163.2,False,Cash,Neutral,None
+854,Bob,65,Male,UK,2022-10-19,Furniture,1325,6,59.77,358.62,False,Credit Card,Neutral,Silver
+855,Charlie,20,Male,Germany,2022-03-04,Furniture,1374,3,9.94,29.82,False,Cash,Positive,Gold
+856,Alice,57,Female,France,2022-02-01,Clothing,1890,4,70.02,280.08,True,Credit Card,Negative,Gold
+857,David,55,Male,UK,2022-11-21,Books,1138,3,48.12,144.35999999999999,False,Credit Card,Neutral,Bronze
+858,Bob,69,Male,Canada,2022-12-11,Electronics,1313,6,24.05,144.3,True,Cash,Negative,Bronze
+859,Eve,49,Female,UK,2022-06-22,Furniture,1731,9,57.81,520.29,False,Bank Transfer,Negative,Silver
+860,Charlie,68,Male,Canada,2022-04-16,Furniture,1524,9,88.78,799.02,False,Bank Transfer,Positive,Bronze
+861,David,66,Male,Canada,2022-02-25,Electronics,1596,2,34.41,68.82,True,Cash,Neutral,Silver
+862,Alice,34,Male,France,2022-07-19,Clothing,1703,6,79.74,478.43999999999994,False,Cash,Neutral,Silver
+863,Alice,39,Female,UK,2022-05-15,Books,1520,7,92.88,650.16,True,PayPal,Positive,Silver
+864,Alice,40,Female,Canada,2022-08-04,Groceries,1621,3,81.03,243.09,True,Credit Card,Negative,Silver
+865,Eve,25,Female,Canada,2022-08-30,Clothing,1264,1,38.31,38.31,False,Cash,Negative,None
+866,Bob,23,Female,Canada,2022-04-16,Groceries,1219,5,75.08,375.4,True,PayPal,Neutral,Bronze
+867,Eve,44,Female,UK,2022-06-19,Furniture,1884,7,46.26,323.82,False,Cash,Neutral,Bronze
+868,David,68,Female,Germany,2022-04-12,Furniture,1035,5,97.72,488.6,False,Bank Transfer,Positive,None
+869,Eve,28,Male,Canada,2022-04-27,Electronics,1134,4,30.56,122.24,False,PayPal,Negative,Bronze
+870,David,52,Female,USA,2022-07-28,Clothing,1388,2,14.72,29.44,True,Cash,Negative,Silver
+871,David,55,Female,France,2022-07-13,Books,1225,8,5.05,40.4,False,Bank Transfer,Neutral,Bronze
+872,Eve,57,Female,USA,2022-09-16,Books,1486,4,29.05,116.2,True,Bank Transfer,Negative,Silver
+873,Eve,38,Male,UK,2022-05-08,Books,1566,5,58.09,290.45000000000005,True,Bank Transfer,Negative,Bronze
+874,David,26,Female,Canada,2022-04-04,Clothing,1249,4,99.38,397.52,True,Cash,Neutral,Silver
+875,David,39,Female,UK,2022-11-15,Electronics,1787,8,5.21,41.68,True,PayPal,Negative,Silver
+876,Eve,43,Female,Canada,2022-12-15,Furniture,1811,5,66.53,332.65,False,PayPal,Neutral,Gold
+877,David,48,Female,USA,2022-06-11,Books,1801,6,75.23,451.38,True,PayPal,Negative,Silver
+878,Bob,31,Female,UK,2022-07-04,Furniture,1073,5,51.69,258.45,False,Cash,Neutral,Gold
+879,Eve,53,Female,UK,2022-02-28,Groceries,1007,3,97.77,293.31,True,Cash,Positive,Silver
+880,Alice,53,Male,Germany,2022-03-30,Furniture,1764,4,85.13,340.52,False,Cash,Positive,None
+881,Charlie,29,Female,UK,2022-03-29,Groceries,1072,5,26.54,132.7,False,Bank Transfer,Neutral,None
+882,David,63,Female,Canada,2022-07-14,Groceries,1522,7,30.12,210.84,True,Bank Transfer,Negative,Gold
+883,Alice,52,Male,UK,2022-10-20,Books,1227,4,23.19,92.76,False,Credit Card,Negative,Bronze
+884,Eve,55,Male,France,2022-11-16,Books,1616,4,32.56,130.24,False,Bank Transfer,Negative,Silver
+885,David,22,Female,France,2022-05-17,Furniture,1305,8,94.15,753.2,True,Credit Card,Negative,Bronze
+886,Alice,65,Female,Germany,2022-07-13,Furniture,1778,7,96.4,674.8000000000001,False,Cash,Negative,None
+887,Bob,55,Male,France,2022-06-27,Electronics,1301,7,12.64,88.48,False,Bank Transfer,Positive,Bronze
+888,Alice,23,Male,Germany,2022-05-08,Books,1036,3,13.82,41.46,True,Cash,Positive,Gold
+889,Eve,67,Female,USA,2022-06-24,Furniture,1108,5,54.98,274.9,True,Cash,Negative,Silver
+890,Charlie,33,Male,Germany,2022-12-28,Electronics,1781,6,85.97,515.8199999999999,True,PayPal,Neutral,None
+891,Bob,68,Female,Canada,2022-04-10,Groceries,1554,4,55.6,222.4,False,Bank Transfer,Negative,None
+892,Bob,23,Female,UK,2022-09-04,Books,1482,6,20.28,121.68,False,PayPal,Positive,Bronze
+893,Charlie,44,Female,Germany,2022-07-11,Groceries,1782,7,92.38,646.66,False,Cash,Neutral,Gold
+894,Alice,34,Female,France,2022-09-28,Books,1968,5,80.51,402.55,False,Credit Card,Neutral,Silver
+895,Charlie,32,Male,Germany,2022-03-25,Books,1860,5,72.94,364.7,False,Credit Card,Positive,None
+896,Eve,18,Male,UK,2022-01-19,Furniture,1891,7,17.24,120.67999999999999,True,Cash,Positive,Gold
+897,Eve,29,Male,UK,2022-12-15,Furniture,1633,6,58.75,352.5,False,Bank Transfer,Neutral,Gold
+898,Eve,66,Male,UK,2022-07-05,Clothing,1976,9,92.29,830.61,True,Credit Card,Negative,None
+899,Charlie,31,Female,Canada,2022-09-02,Clothing,1487,9,40.09,360.81000000000006,False,Cash,Neutral,Bronze
+900,David,66,Male,USA,2022-11-19,Groceries,1876,5,74.77,373.84999999999997,False,Bank Transfer,Positive,Gold
+901,David,59,Male,USA,2022-11-21,Clothing,1193,6,24.94,149.64000000000001,False,PayPal,Neutral,None
+902,Eve,32,Female,France,2022-02-11,Clothing,1323,9,99.89,899.01,False,Cash,Positive,Bronze
+903,Charlie,24,Female,USA,2022-07-21,Groceries,1610,3,20.54,61.62,True,Bank Transfer,Negative,None
+904,Bob,38,Female,Canada,2022-11-22,Books,1195,5,34.82,174.1,False,Bank Transfer,Neutral,Bronze
+905,Bob,69,Male,Germany,2022-12-05,Clothing,1410,1,27.17,27.17,False,Cash,Negative,Silver
+906,Bob,47,Male,France,2022-02-05,Books,1726,7,91.77,642.39,True,Credit Card,Neutral,Bronze
+907,Bob,29,Female,Canada,2022-06-22,Groceries,1740,6,32.19,193.14,True,PayPal,Negative,Gold
+908,Bob,57,Female,UK,2022-10-21,Furniture,1841,3,66.51,199.53000000000003,True,Bank Transfer,Positive,Silver
+909,Alice,44,Female,UK,2022-05-23,Books,1940,6,51.65,309.9,True,Credit Card,Positive,None
+910,David,58,Female,UK,2022-08-24,Groceries,1909,5,13.46,67.30000000000001,True,PayPal,Neutral,Gold
+911,David,33,Female,Canada,2022-09-20,Furniture,1825,6,30.94,185.64000000000001,False,Bank Transfer,Neutral,Bronze
+912,David,42,Male,USA,2022-07-23,Groceries,1190,4,93.65,374.6,False,Bank Transfer,Negative,None
+913,Charlie,66,Male,France,2022-03-27,Clothing,1626,1,37.72,37.72,True,Bank Transfer,Positive,Silver
+914,Alice,60,Female,France,2022-04-06,Clothing,1898,1,56.62,56.62,False,Bank Transfer,Negative,None
+915,Charlie,38,Male,France,2022-12-01,Books,1263,2,61.02,122.04,False,Cash,Negative,Gold
+916,Eve,44,Female,USA,2022-05-18,Electronics,1299,6,36.01,216.06,True,Cash,Neutral,Bronze
+917,David,34,Male,USA,2022-04-07,Electronics,1792,5,13.66,68.3,False,Bank Transfer,Positive,Silver
+918,Eve,22,Female,USA,2022-07-30,Groceries,1085,1,92.8,92.8,False,Credit Card,Negative,Gold
+919,Bob,32,Male,France,2022-03-01,Books,1476,1,51.55,51.55,False,Cash,Positive,Silver
+920,Eve,64,Female,USA,2022-10-08,Groceries,1252,6,91.67,550.02,True,Bank Transfer,Neutral,Silver
+921,David,34,Male,France,2022-07-20,Electronics,1674,5,24.42,122.10000000000001,True,Credit Card,Positive,Gold
+922,David,29,Male,USA,2022-03-29,Books,1925,9,16.59,149.31,True,Cash,Positive,Bronze
+923,David,64,Female,USA,2022-03-30,Electronics,1541,2,20.68,41.36,True,PayPal,Positive,Silver
+924,David,68,Female,Germany,2022-05-22,Clothing,1815,8,31.5,252.0,True,Bank Transfer,Negative,None
+925,Bob,52,Male,UK,2022-04-19,Furniture,1224,5,70.48,352.40000000000003,False,PayPal,Negative,Gold
+926,David,44,Male,USA,2022-02-06,Clothing,1521,8,35.85,286.8,True,Cash,Neutral,Bronze
+927,Alice,18,Female,UK,2022-04-13,Groceries,1027,9,92.79,835.11,True,Bank Transfer,Positive,Silver
+928,Bob,59,Male,Germany,2022-02-09,Furniture,1132,1,44.72,44.72,False,PayPal,Neutral,Gold
+929,David,23,Female,USA,2022-12-12,Electronics,1351,2,55.31,110.62,False,PayPal,Negative,Silver
+930,Eve,18,Female,Germany,2022-01-25,Groceries,1726,5,63.22,316.1,True,Bank Transfer,Neutral,None
+931,Alice,40,Female,UK,2022-06-15,Electronics,1583,6,96.97,581.8199999999999,False,Credit Card,Positive,Silver
+932,Eve,62,Male,Canada,2022-01-09,Furniture,1056,8,35.28,282.24,False,Credit Card,Positive,Gold
+933,David,39,Male,USA,2022-05-18,Groceries,1221,9,61.39,552.51,False,PayPal,Positive,None
+934,David,21,Female,Germany,2022-03-03,Clothing,1486,7,40.7,284.90000000000003,False,Bank Transfer,Positive,Gold
+935,Eve,46,Female,Germany,2022-01-03,Furniture,1349,3,26.41,79.23,True,Cash,Negative,Gold
+936,Alice,49,Female,Canada,2022-11-18,Electronics,1999,5,88.01,440.05,True,PayPal,Neutral,None
+937,Charlie,42,Female,Germany,2022-12-25,Electronics,1424,6,60.27,361.62,False,Credit Card,Positive,Bronze
+938,Eve,23,Female,USA,2022-11-19,Groceries,1440,6,52.61,315.65999999999997,True,PayPal,Negative,Silver
+939,Alice,47,Male,Germany,2022-02-17,Electronics,1820,1,6.19,6.19,False,Cash,Negative,Silver
+940,David,31,Female,USA,2022-06-07,Electronics,1036,8,14.94,119.52,False,Credit Card,Negative,Silver
+941,David,66,Male,Germany,2022-12-30,Groceries,1776,8,94.77,758.16,True,Bank Transfer,Negative,Gold
+942,Bob,38,Male,UK,2022-03-29,Groceries,1278,3,37.05,111.14999999999999,True,PayPal,Positive,None
+943,Alice,67,Male,USA,2022-04-12,Furniture,1077,1,62.56,62.56,True,PayPal,Positive,Silver
+944,Eve,56,Female,France,2022-02-04,Clothing,1316,1,75.93,75.93,False,Credit Card,Positive,None
+945,Bob,23,Female,USA,2022-02-14,Groceries,1018,6,59.9,359.4,False,Credit Card,Neutral,None
+946,Bob,46,Female,UK,2022-05-17,Groceries,1582,6,5.47,32.82,False,Cash,Negative,Silver
+947,David,25,Male,Germany,2022-05-19,Clothing,1667,7,11.83,82.81,True,PayPal,Positive,Silver
+948,Alice,19,Female,Canada,2022-06-02,Books,1428,8,86.57,692.56,False,Credit Card,Positive,None
+949,David,56,Female,UK,2022-10-07,Clothing,1879,4,75.9,303.6,True,Cash,Neutral,Gold
+950,Eve,20,Female,USA,2022-01-28,Furniture,1087,4,25.78,103.12,True,Credit Card,Negative,Silver
+951,David,27,Female,USA,2022-11-11,Books,1134,7,69.31,485.17,True,Credit Card,Negative,Gold
+952,Alice,31,Male,UK,2022-01-23,Electronics,1327,1,12.76,12.76,False,Credit Card,Negative,Gold
+953,Bob,63,Female,Canada,2022-10-30,Furniture,1026,5,22.9,114.5,False,PayPal,Positive,Gold
+954,Alice,67,Male,UK,2022-04-25,Clothing,1049,7,40.53,283.71000000000004,True,PayPal,Neutral,Gold
+955,David,28,Female,France,2022-10-25,Furniture,1528,8,47.22,377.76,False,Credit Card,Negative,Gold
+956,David,34,Male,Germany,2022-08-27,Clothing,1359,7,57.24,400.68,True,Cash,Negative,None
+957,David,57,Female,USA,2022-03-19,Groceries,1284,5,38.97,194.85,True,Bank Transfer,Neutral,None
+958,Alice,26,Male,Canada,2022-07-11,Electronics,1514,6,87.91,527.46,True,PayPal,Neutral,Silver
+959,David,62,Female,UK,2022-09-17,Groceries,1940,7,65.0,455.0,True,Cash,Neutral,None
+960,Charlie,33,Male,Germany,2022-06-26,Electronics,1264,2,36.74,73.48,True,Cash,Negative,Silver
+961,David,64,Female,Germany,2022-09-17,Books,1574,5,59.23,296.15,True,PayPal,Neutral,None
+962,David,60,Male,USA,2022-12-11,Clothing,1976,7,38.95,272.65000000000003,True,Cash,Positive,Bronze
+963,Bob,50,Female,France,2022-05-16,Furniture,1296,4,54.29,217.16,False,Bank Transfer,Neutral,Gold
+964,David,31,Female,UK,2022-07-26,Clothing,1374,9,34.47,310.23,True,Credit Card,Neutral,Bronze
+965,Bob,33,Male,USA,2022-02-25,Clothing,1762,7,13.51,94.57,True,Credit Card,Positive,Bronze
+966,Eve,27,Male,Canada,2022-05-14,Groceries,1333,1,69.46,69.46,True,Credit Card,Neutral,None
+967,David,50,Female,USA,2022-07-04,Groceries,1787,1,61.61,61.61,True,PayPal,Negative,Bronze
+968,Bob,27,Female,Germany,2022-10-08,Groceries,1292,7,45.22,316.53999999999996,True,Cash,Negative,Bronze
+969,Charlie,45,Male,Germany,2022-04-05,Groceries,1754,7,53.09,371.63,True,PayPal,Neutral,Gold
+970,Eve,67,Male,USA,2022-08-02,Furniture,1181,4,38.27,153.08,False,Credit Card,Neutral,Silver
+971,Alice,48,Female,France,2022-01-22,Clothing,1312,6,7.11,42.660000000000004,False,Cash,Negative,Gold
+972,Eve,54,Female,Germany,2022-03-23,Groceries,1141,5,64.91,324.54999999999995,False,Credit Card,Negative,Gold
+973,Eve,23,Male,Canada,2022-05-27,Furniture,1914,6,78.76,472.56000000000006,False,PayPal,Positive,None
+974,Alice,56,Female,Canada,2022-10-05,Clothing,1554,3,49.91,149.73,True,Bank Transfer,Negative,Gold
+975,Eve,42,Male,UK,2022-03-18,Clothing,1531,2,37.64,75.28,False,Cash,Neutral,Gold
+976,Eve,69,Male,USA,2022-03-03,Clothing,1759,9,6.74,60.660000000000004,False,Cash,Neutral,Bronze
+977,Eve,41,Female,Germany,2022-01-06,Furniture,1052,2,79.35,158.7,True,Credit Card,Negative,Bronze
+978,Eve,51,Male,Canada,2022-09-27,Electronics,1088,2,33.28,66.56,True,Cash,Positive,Bronze
+979,Alice,46,Male,Germany,2022-05-09,Electronics,1230,2,88.12,176.24,False,Cash,Neutral,Gold
+980,Bob,60,Male,Canada,2022-12-25,Electronics,1728,5,11.25,56.25,False,Credit Card,Positive,Silver
+981,Bob,26,Female,UK,2022-12-13,Groceries,1773,8,88.57,708.56,True,Credit Card,Neutral,Bronze
+982,Eve,18,Male,Canada,2022-07-18,Furniture,1738,4,68.51,274.04,True,Bank Transfer,Positive,None
+983,Charlie,23,Male,France,2022-01-09,Furniture,1463,8,11.17,89.36,True,Credit Card,Neutral,Silver
+984,Charlie,29,Male,USA,2022-09-07,Electronics,1094,1,52.57,52.57,True,Bank Transfer,Neutral,Gold
+985,Eve,23,Male,France,2022-05-22,Electronics,1591,2,98.09,196.18,False,Cash,Negative,Silver
+986,Alice,45,Female,Germany,2022-08-11,Books,1400,8,74.67,597.36,False,Credit Card,Negative,Silver
+987,Bob,50,Male,Germany,2022-10-08,Furniture,1196,2,80.72,161.44,True,Credit Card,Positive,None
+988,Charlie,58,Female,USA,2022-08-08,Furniture,1482,5,95.22,476.1,False,Bank Transfer,Neutral,Gold
+989,David,18,Female,Canada,2022-02-17,Clothing,1502,3,76.24,228.71999999999997,False,PayPal,Negative,None
+990,Bob,36,Male,Canada,2022-09-12,Groceries,1730,6,52.67,316.02,False,Cash,Neutral,Bronze
+991,Alice,33,Male,UK,2022-09-14,Groceries,1350,8,28.37,226.96,False,Credit Card,Negative,Bronze
+992,Alice,48,Female,UK,2022-03-23,Books,1241,5,63.42,317.1,True,Bank Transfer,Negative,Bronze
+993,Eve,44,Male,Canada,2022-05-28,Furniture,1321,2,84.59,169.18,True,Credit Card,Negative,Silver
+994,David,58,Female,UK,2022-02-05,Furniture,1788,6,48.81,292.86,False,Cash,Neutral,Gold
+995,Bob,19,Male,France,2022-12-01,Books,1443,9,95.06,855.54,True,Credit Card,Negative,Gold
+996,Eve,42,Male,Canada,2022-12-17,Books,1107,6,56.37,338.21999999999997,False,Bank Transfer,Negative,Gold
+997,Eve,44,Female,France,2022-05-12,Furniture,1168,4,99.52,398.08,True,Credit Card,Negative,None
+998,Alice,34,Female,France,2022-09-18,Groceries,1400,9,64.72,582.48,False,PayPal,Negative,Silver
+999,David,31,Female,UK,2022-11-27,Books,1769,7,5.52,38.64,True,Credit Card,Positive,Gold
+1000,Charlie,28,Male,UK,2022-05-15,Clothing,1704,2,30.85,61.7,True,Credit Card,Negative,Bronze

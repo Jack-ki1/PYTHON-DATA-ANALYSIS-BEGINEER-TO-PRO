@@ -1,0 +1,26 @@
+
+    /* Power BI inspired dashboard styling */
+    .css-1aumxhk, .css-1d391kg {
+      background-color: #f3f6fa !important;
+    }
+    .stApp {
+      background: linear-gradient(115deg, #e7edf4 0%, #cde2fa 100%);
+    }
+    .block-container {
+      padding-top: 2rem;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      color: #2b4b8b !important;
+    }
+    .stButton > button {
+      background-color: #2b4b8b !important;
+      color: white !important;
+      border-radius: 8px;
+      font-size: 18px;
+      padding: 4px 12px;
+    }
+    .stSelectbox, .stMultiSelect, .stDateInput {
+      background-color: #e2eafc !important;
+      border-radius: 8px;
+    }
+    

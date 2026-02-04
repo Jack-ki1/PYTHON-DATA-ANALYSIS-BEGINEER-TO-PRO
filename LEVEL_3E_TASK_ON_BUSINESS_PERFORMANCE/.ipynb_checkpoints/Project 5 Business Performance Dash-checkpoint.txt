@@ -1,0 +1,74 @@
+Project 5: Business Performance Dashboard (Multi-Source Data + AI Insights)
+Objective: Build an interactive dashboard combining sales, marketing, and customer data.
+
+Dataset:
+Sales Data: Sample Superstore
+
+Marketing Data: Google Ads Metrics
+
+Customer Sentiment: Scrape Twitter/Reddit (using tweepy or praw)
+
+Key Python Libraries:
+Data Merging: pandas, sqlite3 (for SQL-like operations)
+
+Visualizations:
+
+Static: matplotlib, seaborn
+
+Interactive: plotly, bokeh, altair
+
+Dashboards: Dash, Streamlit
+
+Machine Learning: scikit-learn (for predictive insights)
+
+Step-by-Step Questions:
+Beginner (Data Integration & Cleaning)
+Merge sales, marketing, and sentiment data into one DataFrame.
+
+Handle datetime conversions (e.g., Order Date vs. Campaign Date).
+
+# Calculate delivery time (days)
+
+Fix inconsistencies (e.g., "NY" vs. "New York" in Region).
+
+Intermediate (Advanced Visualizations)
+Plotly Express: Create a sunburst chart of Region > Category > Sales.
+
+Bokeh: Interactive line chart of sales trends with hover tooltips.
+
+Altair: Layered chart combining sales and customer sentiment.
+
+Folium: Geomap of high-value customers.
+
+Advanced (ML + Automated Reporting)
+Use scikit-learn to predict sales based on ad spend (linear regression).
+
+Apply NLP on customer sentiment (positive/negative/neutral).
+
+Build a Streamlit dashboard with:
+
+Dropdown filters (region, product category).
+
+Dynamic KPI cards (total revenue, ROI).
+
+Interactive scatter plot of Marketing Spend vs. Sales.
+
+Schedule automated weekly reports using PythonAnywhere.
+
+Visualization Techniques Covered Across Projects:
+Library	Use Case	Project
+Matplotlib	Basic bar/line charts	1, 2, 4
+Seaborn	Statistical plots (boxplot, heatmap)	2, 3, 5
+Plotly	Interactive dashboards	3, 4, 5
+Bokeh	Custom interactive plots	4, 5
+Altair	Declarative visualizations	5
+Folium	Geospatial mapping	4, 5
+WordCloud	Text data visualization	4
+Streamlit	Fast web dashboards	5
+Final Challenge:
+Combine Projects 4 & 5 into a single automated pipeline:
+
+Scrape data → Clean → Merge → Analyze → Visualize → Deploy (Streamlit/Dash).
+
+Add predictive analytics (e.g., "Next month’s sales forecast").
+

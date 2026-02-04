@@ -1,0 +1,701 @@
+Order_ID,Order_Date,Ship_Date,Ship_Mode,Customer_ID,Customer_Name,Segment,State,Region,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit
+ORD-6634-InT,2024-12-19,2025-04-20,Standard Class,CUST-5311,Thomas Mullins,Corporate,New York,South,Technology,Phones,Fundamental neutral focus group,1653.15,10.0,0.41,-104.64
+ORD-1359-mzc,2024-06-19,2025-04-20,,CUST-3882,Tammy Yoder,Home Office,Ohio,East,Technology,Copiers,Function-based value-added groupware,1562.44,6.0,0.17,617.14
+ORD-7066-WXd,2024-09-19,2025-04-20,Second Class,CUST-2056,Jose Miller,Home Office,California,South,Office Supplies,Binders,Quality-focused analyzing application,117.71,9.0,0.02,339.93
+ORD-8020-SiT,2024-12-23,2025-04-20,Second Class,CUST-3963,Brooke Moore,Consumer,California,South,Furniture,Bookcases,Streamlined explicit circuit,1942.37,10.0,0.29,-109.92
+ORD-3836-AKu,2024-12-28,2025-04-20,Same Day,CUST-2565,Michelle Steele,Consumer,New York,Central,Office Supplies,Pens,Fundamental 5thgeneration circuit,174.26,10.0,0.37,348.15
+ORD-5905-zFt,2025-02-11,2025-04-20,Same Day,CUST-8109,Melanie Mason,Home Office,Ohio,West,Office Supplies,Binders,Function-based asynchronous instruction set,1526.45,8.0,0.28,287.86
+ORD-2935-agQ,2025-03-21,2025-04-20,Second Class,CUST-1413,Brian Contreras,Consumer,Texas,Central,Technology,Accessories,Sharable executive toolset,1555.78,6.0,,376.02
+ORD-9463-DHX,2024-08-18,2025-04-20,Same Day,CUST-0068,Cody Mason,Corporate,Pennsylvania,West,Furniture,Furnishings,Multi-channeled attitude-oriented alliance,648.27,10.0,0.33,569.68
+ORD-7303-bdu,2025-01-24,2025-04-20,Same Day,CUST-2802,Jessica Robinson,Home Office,New York,South,Furniture,Bookcases,Monitored didactic info-mediaries,99.31,4.0,0.1,173.82
+ORD-6338-ACU,2024-11-20,2025-04-20,First Class,CUST-9682,Michael Shields,Home Office,California,West,Technology,Phones,Upgradable real-time matrix,1898.39,3.0,0.43,620.13
+ORD-2817-XQt,2024-04-24,2025-04-20,First Class,CUST-0960,Daniel Wilson DVM,Corporate,Georgia,South,Furniture,Bookcases,Future-proofed full-range monitoring,,4.0,0.37,11.88
+ORD-5854-BHr,2024-08-14,2025-04-20,Same Day,CUST-7125,Mark Hines,,New York,East,Technology,Copiers,Up-sized background Local Area Network,759.45,9.0,0.02,-29.68
+ORD-4848-yDi,2024-11-29,2025-04-20,Standard Class,CUST-6812,Nicole Maldonado,Consumer,Georgia,East,Office Supplies,Paper,Organized regional approach,142.53,5.0,0.33,712.87
+ORD-5531-KIY,2024-04-27,2025-04-20,First Class,CUST-7705,James French,Corporate,Ohio,West,Office Supplies,Binders,Up-sized maximized productivity,1959.79,9.0,0.49,-100.4
+ORD-9564-mSF,2024-11-23,2025-04-20,First Class,CUST-3367,Kelly Chapman,Consumer,Florida,South,Office Supplies,Labels,Advanced content-based hierarchy,1125.77,1.0,0.02,722.27
+ORD-4902-eFn,2024-05-19,,Same Day,CUST-5270,Taylor Matthews,Corporate,New York,East,Office Supplies,Pens,Digitized 4thgeneration hub,700.09,6.0,0.18,102.33
+ORD-2487-GaE,2024-09-06,2025-04-20,First Class,CUST-6765,Maria David,Home Office,Illinois,South,Technology,Copiers,Front-line uniform neural-net,1781.9,1.0,0.47,749.12
+ORD-5883-FyF,2024-10-12,2025-04-20,Standard Class,CUST-1197,Nicole Levine,Corporate,New York,East,Furniture,Tables,Public-key even-keeled middleware,1462.48,9.0,0.48,412.45
+ORD-3482-Jqj,2024-10-29,2025-04-20,Same Day,CUST-4914,Jessica Martinez,Consumer,New York,South,Technology,Accessories,Persevering fault-tolerant hardware,1941.37,10.0,0.16,342.23
+ORD-6891-jSr,2025-01-18,2025-04-20,Second Class,CUST-5308,Tammy Flores,Consumer,Illinois,West,Furniture,Tables,Configurable cohesive methodology,865.83,3.0,0.33,364.84
+ORD-7846-wrk,2024-12-15,2025-04-20,First Class,CUST-2059,Christina King,Home Office,Texas,West,Furniture,Bookcases,Operative attitude-oriented framework,642.02,3.0,0.36,565.44
+ORD-4546-Pxl,2025-02-23,2025-04-20,Standard Class,CUST-9944,Elizabeth Drake,Corporate,Illinois,West,Office Supplies,Labels,Enterprise-wide interactive pricing structure,1560.42,2.0,0.07,-173.8
+ORD-1911-TtJ,2024-08-07,2025-04-20,Second Class,CUST-2755,Andrew Mathis,Home Office,Florida,West,Technology,Copiers,Decentralized logistical groupware,1377.88,6.0,0.04,579.83
+ORD-4693-jWS,2024-09-23,2025-04-20,Standard Class,CUST-5555,Miguel Smith,Consumer,Ohio,South,Furniture,Furnishings,Fundamental heuristic function,952.96,3.0,0.1,-167.77
+ORD-9529-KTi,2024-05-22,2025-04-20,Same Day,CUST-8086,Nicole Morse,Consumer,Florida,West,Furniture,Bookcases,Automated zero administration attitude,141.61,8.0,0.43,289.94
+ORD-5542-fBs,2024-08-23,2025-04-20,Second Class,CUST-8094,Katherine Cannon,Corporate,Ohio,East,Office Supplies,Labels,Progressive heuristic extranet,1219.78,7.0,0.36,194.15
+ORD-5461-Rqs,2024-11-20,2025-04-20,First Class,CUST-6020,Alicia Kelly,Corporate,Georgia,East,Technology,Phones,Monitored 3rdgeneration instruction set,1756.78,4.0,0.26,195.61
+ORD-7438-CKF,2024-11-22,2025-04-20,Same Day,CUST-8441,Trevor Johnson,Home Office,California,West,Technology,Phones,Cloned bandwidth-monitored archive,589.45,7.0,0.44,573.68
+ORD-8469-dha,2024-07-26,2025-04-20,Second Class,CUST-7225,Charles Decker,Corporate,Illinois,East,Office Supplies,Labels,Digitized fresh-thinking budgetary management,1383.01,3.0,0.23,446.1
+ORD-7212-TeU,2025-03-14,2025-04-20,Second Class,CUST-5190,Laura Gaines,Home Office,New York,South,Furniture,Chairs,Implemented solution-oriented superstructure,832.98,8.0,0.01,253.68
+ORD-8886-QDa,2025-03-19,2025-04-20,Same Day,CUST-8110,Lauren Nunez,Consumer,Illinois,Central,Technology,,Business-focused background data-warehouse,1386.52,3.0,0.36,-76.46
+ORD-7071-aQI,2024-10-22,2025-04-20,Standard Class,CUST-1096,Sharon Brock,Consumer,Ohio,West,Furniture,Furnishings,Open-architected asynchronous toolset,763.57,7.0,0.02,-29.12
+ORD-5480-ahQ,2024-06-24,2025-04-20,Second Class,CUST-7568,Tonya Howard,Consumer,New York,West,Office Supplies,Storage,Reactive next generation function,1540.62,1.0,0.21,109.52
+ORD-6272-Zxw,2024-07-11,2025-04-20,Second Class,CUST-8177,Jessica Rodriguez,Consumer,New York,West,Office Supplies,Pens,Expanded background instruction set,17.03,5.0,0.01,297.63
+ORD-1239-XYw,2025-04-16,2025-04-20,First Class,CUST-0555,Barry Williams,Home Office,Georgia,West,Office Supplies,Storage,Multi-layered full-range migration,441.58,8.0,0.23,241.88
+ORD-8220-Pur,2024-07-13,2025-04-20,Second Class,CUST-1188,Andrew Stewart,Home Office,Illinois,West,Technology,Phones,Balanced methodical circuit,107.35,3.0,0.03,149.02
+ORD-5805-CGl,2025-01-14,2025-04-20,Standard Class,CUST-1317,Timothy Ellison,Corporate,Texas,East,Furniture,Chairs,Focused logistical matrices,226.69,3.0,0.08,84.38
+ORD-7236-kew,2025-02-23,2025-04-20,Same Day,CUST-8326,Edward Mcintyre,Home Office,Pennsylvania,East,Technology,Accessories,Extended intermediate application,195.32,5.0,0.16,697.53
+ORD-7141-uMf,2024-05-22,2025-04-20,First Class,,Jordan Lee III,Corporate,Georgia,West,Furniture,Furnishings,Advanced stable alliance,252.83,5.0,0.16,213.76
+ORD-0486-ryv,2024-10-26,2025-04-20,First Class,CUST-8595,Brad Conley,,Texas,South,Furniture,Tables,Progressive incremental hierarchy,1450.91,10.0,0.47,786.28
+ORD-2833-OPn,2024-12-01,2025-04-20,Standard Class,CUST-7365,Phillip Ramos,Corporate,Pennsylvania,West,Office Supplies,Labels,Grass-roots motivating time-frame,1232.44,8.0,0.26,431.86
+ORD-2365-Flk,,2025-04-20,Second Class,CUST-2821,Marilyn Bryant DVM,Home Office,Illinois,West,Office Supplies,Paper,Implemented uniform encryption,13.15,1.0,0.23,596.73
+ORD-0344-eYp,2024-05-03,2025-04-20,Same Day,CUST-0742,Courtney Davis,Corporate,California,Central,Technology,Accessories,Multi-layered hybrid Internet solution,705.8,4.0,0.01,1.19
+ORD-5791-HlT,2024-09-01,2025-04-20,First Class,CUST-6463,Lisa Lawson,Corporate,Illinois,Central,Office Supplies,Pens,Innovative 24hour hub,1536.39,2.0,0.34,141.36
+ORD-2542-aIy,2025-01-04,2025-04-20,Second Class,CUST-9414,Alexander Winters,Consumer,Pennsylvania,Central,Technology,Phones,Ameliorated optimizing forecast,1845.34,8.0,0.46,597.25
+ORD-2195-yXs,2024-07-12,2025-04-20,Same Day,CUST-5404,,Consumer,Georgia,Central,Technology,Accessories,Multi-layered maximized capacity,930.32,7.0,0.46,-143.98
+ORD-8201-Bwz,2025-01-04,2025-04-20,Standard Class,CUST-2590,Madison Turner,Home Office,California,West,Technology,Copiers,Expanded zero administration solution,1159.02,6.0,0.4,688.03
+ORD-0917-XOs,2025-03-23,2025-04-20,Second Class,CUST-5546,Paul Jones,Corporate,California,Central,Office Supplies,Binders,Decentralized homogeneous toolset,1967.4,9.0,0.42,370.98
+ORD-9665-VPZ,2025-01-27,2025-04-20,First Class,CUST-9157,Curtis Young,,Pennsylvania,,Office Supplies,Paper,Compatible full-range frame,550.28,2.0,0.25,37.64
+ORD-6297-cne,2024-07-17,2025-04-20,Second Class,CUST-9291,Diana Li,Home Office,Illinois,West,Office Supplies,Pens,Enhanced cohesive ability,233.34,1.0,0.39,713.35
+ORD-5769-sYe,2024-09-13,2025-04-20,First Class,CUST-7010,Lori Jones,Corporate,New York,West,Office Supplies,Storage,Multi-tiered contextually-based paradigm,686.83,8.0,0.37,323.63
+ORD-8368-fUt,2025-02-06,2025-04-20,First Class,CUST-9423,Donald Whitehead,Home Office,New York,West,Office Supplies,Paper,Virtual attitude-oriented Local Area Network,1451.9,8.0,0.19,664.81
+ORD-2538-AVk,2025-03-26,2025-04-20,Standard Class,CUST-7342,Ms. Kimberly Evans,Consumer,Texas,Central,Furniture,Chairs,Upgradable zero administration paradigm,939.08,1.0,0.05,566.18
+ORD-9596-ouC,2025-03-27,2025-04-20,First Class,CUST-7189,Derek Wright,,Illinois,West,Technology,Copiers,Profit-focused neutral flexibility,648.55,4.0,0.14,332.28
+ORD-1480-wPF,2024-06-28,2025-04-20,Standard Class,CUST-5909,Corey Welch,Consumer,New York,Central,Office Supplies,Binders,Persevering solution-oriented architecture,237.78,10.0,0.28,-97.62
+ORD-4328-aKx,2024-04-25,2025-04-20,Standard Class,CUST-7209,Travis Joyce,Corporate,New York,Central,Technology,Copiers,Operative leadingedge installation,1152.43,3.0,0.04,413.26
+ORD-5027-EJL,2024-08-17,2025-04-20,Same Day,CUST-2146,Heather Brooks DDS,Consumer,New York,East,Office Supplies,Storage,Cross-group asynchronous benchmark,946.76,1.0,0.05,-146.2
+ORD-1202-wMj,2024-05-07,2025-04-20,Second Class,CUST-5793,Christopher Jackson,Home Office,Georgia,Central,Office Supplies,Labels,Persistent logistical concept,631.76,4.0,0.36,470.87
+ORD-1316-nvw,2024-06-25,2025-04-20,Same Day,CUST-7878,Angela Bell,Home Office,New York,East,Technology,Phones,Public-key explicit Internet solution,1627.57,8.0,0.05,110.39
+ORD-9506-zUE,2024-09-28,2025-04-20,Same Day,CUST-2244,Marie Bell,Consumer,Florida,West,Technology,Machines,User-centric national analyzer,1723.58,10.0,0.13,163.45
+ORD-4498-VAR,2024-08-31,2025-04-20,Standard Class,CUST-0070,Nancy Coleman,Corporate,Georgia,East,Furniture,Bookcases,Persistent foreground orchestration,140.08,2.0,0.18,261.24
+ORD-5285-VLk,2024-10-27,2025-04-20,Standard Class,CUST-8204,Cory Galloway,Home Office,New York,East,Furniture,Bookcases,Extended secondary parallelism,817.32,2.0,0.16,449.45
+ORD-5955-YMS,2024-05-31,2025-04-20,Same Day,CUST-5286,Jesse Wilson,Corporate,Ohio,West,Office Supplies,Storage,Automated intangible intranet,1245.54,9.0,0.08,282.37
+ORD-8753-cni,2024-12-07,2025-04-20,Second Class,CUST-4119,Jennifer Carter,Home Office,Ohio,South,Furniture,Bookcases,Multi-tiered client-driven product,1138.75,6.0,0.27,36.15
+ORD-1227-Udf,2025-04-05,2025-04-20,Same Day,CUST-4240,Autumn Sanders,Consumer,Georgia,Central,Technology,Phones,Horizontal executive access,1114.62,8.0,0.09,755.88
+ORD-4807-nXo,2025-03-01,2025-04-20,Same Day,CUST-4365,Heidi Garcia,Corporate,Georgia,East,Furniture,Chairs,Function-based reciprocal definition,190.16,3.0,0.44,703.26
+ORD-3028-beV,2024-12-25,2025-04-20,,CUST-5981,Mark Peters,Home Office,New York,South,Technology,Phones,Object-based upward-trending frame,1067.2,7.0,0.31,247.16
+ORD-7008-aic,2024-07-25,2025-04-20,Standard Class,CUST-6595,Patrick Chang,Home Office,Illinois,South,Furniture,Bookcases,Open-architected directional Local Area Network,1438.4,6.0,0.5,382.73
+ORD-0322-vGk,2025-04-15,2025-04-20,Second Class,CUST-2174,Lindsey Lawson,Corporate,California,Central,Technology,Machines,Persevering 24/7 pricing structure,1803.14,1.0,0.0,360.03
+ORD-9080-aRA,2025-02-16,2025-04-20,Standard Class,CUST-1240,Caleb Sosa,Consumer,Florida,South,Office Supplies,Binders,Stand-alone upward-trending instruction set,1407.42,7.0,0.31,511.77
+ORD-7180-vBy,2024-06-08,2025-04-20,Same Day,CUST-7730,Christopher Montes,Home Office,Florida,West,Office Supplies,Labels,Persevering high-level info-mediaries,954.99,4.0,0.28,643.33
+ORD-9134-Pwj,2024-10-20,2025-04-20,Second Class,CUST-9811,Brenda Porter,Corporate,New York,West,Office Supplies,Labels,Visionary radical pricing structure,33.09,1.0,,684.89
+ORD-6825-TGg,2025-03-02,2025-04-20,,CUST-4625,Tracey Schmidt,Consumer,New York,South,Technology,Machines,Streamlined tangible framework,1721.7,10.0,0.47,423.25
+ORD-5350-qjj,2025-01-03,2025-04-20,Same Day,CUST-9548,Jason Smith,Home Office,Georgia,South,Office Supplies,Storage,Versatile secondary concept,717.06,3.0,0.21,-192.57
+ORD-3809-uik,2024-07-27,2025-04-20,Standard Class,CUST-6431,William Wang,Corporate,Pennsylvania,East,Office Supplies,Paper,Object-based foreground neural-net,1956.68,10.0,0.24,168.58
+ORD-7033-dou,2025-04-09,2025-04-20,First Class,CUST-8281,Louis Sanders,Consumer,Illinois,South,Technology,Machines,,1038.73,9.0,0.44,-111.55
+ORD-1934-gFi,2024-05-09,2025-04-20,Standard Class,CUST-4114,Cody Edwards,Home Office,California,Central,Office Supplies,Binders,Customer-focused multi-state challenge,1074.72,1.0,0.23,312.66
+ORD-9893-tja,2024-07-25,2025-04-20,Standard Class,CUST-8806,Miss Sylvia Armstrong,Corporate,Pennsylvania,Central,Office Supplies,Storage,Profound exuding instruction set,585.52,1.0,0.35,397.64
+ORD-9779-oaI,2024-08-06,2025-04-20,Standard Class,CUST-3518,Heather Brown,Consumer,Georgia,West,Office Supplies,Storage,Centralized uniform moratorium,1149.99,5.0,0.4,424.32
+ORD-7371-Amd,2024-07-29,2025-04-20,First Class,CUST-8215,Nicholas Copeland,Consumer,Texas,Central,Office Supplies,Labels,Ameliorated attitude-oriented pricing structure,511.58,10.0,0.14,657.86
+ORD-2453-Mtw,2024-06-03,2025-04-20,Second Class,CUST-4028,Alexander Mcclure,Home Office,New York,South,Furniture,Chairs,Profound bandwidth-monitored budgetary management,745.84,3.0,0.13,500.77
+ORD-8372-cEZ,2024-09-02,2025-04-20,First Class,CUST-4953,Lynn Jackson,Corporate,Texas,West,Office Supplies,Paper,Triple-buffered hybrid benchmark,1195.13,3.0,0.42,552.76
+ORD-4203-Rpp,2025-04-20,2025-04-20,Second Class,CUST-6692,Michael Taylor,Home Office,Georgia,West,Office Supplies,Labels,Assimilated bifurcated Graphic Interface,429.6,6.0,0.03,64.4
+ORD-5265-xVi,2024-08-29,2025-04-20,Second Class,CUST-5599,Frederick Scott,Corporate,Ohio,South,Furniture,Chairs,Reactive logistical model,609.72,9.0,0.12,483.51
+ORD-1178-RTr,2024-06-26,2025-04-20,Standard Class,CUST-0407,Anna Brown,Consumer,Ohio,East,Office Supplies,Labels,User-friendly impactful info-mediaries,584.7,8.0,0.19,115.69
+ORD-9969-daM,2024-10-20,2025-04-20,First Class,CUST-0687,Allen Lamb,Home Office,Pennsylvania,South,Technology,Phones,Adaptive bifurcated database,1224.87,5.0,0.17,67.09
+ORD-9320-TTf,2024-08-24,2025-04-20,Same Day,CUST-5631,Christina Herring,Corporate,Florida,West,Furniture,Bookcases,Optimized actuating utilization,1044.71,3.0,0.16,-189.42
+ORD-5605-LEq,2025-03-05,2025-04-20,First Class,CUST-7072,Brandon Johnson,Corporate,Texas,East,Furniture,Chairs,Secured explicit instruction set,1374.14,6.0,0.11,83.3
+ORD-0227-BEj,2024-10-03,2025-04-20,First Class,CUST-9619,Christopher Roberts,Home Office,Texas,East,Furniture,Chairs,Cross-group tangible access,1877.63,4.0,0.48,438.08
+ORD-7018-Uxu,2024-08-02,2025-04-20,First Class,CUST-7759,Kenneth Rodriguez,Home Office,New York,South,Technology,Phones,Polarized tertiary encoding,1316.23,10.0,0.4,-15.23
+ORD-7230-ZYq,2024-04-26,2025-04-20,Standard Class,CUST-1337,Alex Ramirez,Corporate,Georgia,East,Furniture,Tables,Down-sized full-range hub,1281.17,5.0,0.38,492.22
+ORD-9407-NcJ,2024-11-25,2025-04-20,Standard Class,CUST-3039,Caroline Perez,Consumer,Texas,Central,Technology,Copiers,Focused 3rdgeneration focus group,1556.44,7.0,0.19,795.96
+ORD-0278-Gcy,2025-03-11,2025-04-20,Second Class,CUST-0022,Carol Rojas,Corporate,,South,Office Supplies,Pens,Stand-alone actuating interface,1959.05,4.0,0.31,-21.56
+ORD-9925-ofq,2024-08-02,2025-04-20,Second Class,CUST-6215,Jennifer Mooney,Home Office,Ohio,West,Office Supplies,Binders,Programmable upward-trending array,1231.79,2.0,0.46,515.4
+ORD-0680-rXB,2025-04-19,2025-04-20,First Class,CUST-6198,Steven Hogan,Consumer,Illinois,South,Furniture,Chairs,Function-based incremental array,47.34,8.0,0.07,440.34
+ORD-1158-ryX,2024-08-22,2025-04-20,Standard Class,CUST-4828,Jeffrey Morgan,Consumer,Pennsylvania,South,Furniture,Furnishings,Re-contextualized demand-driven focus group,1153.53,9.0,0.35,570.99
+ORD-5432-WwH,2024-09-21,2025-04-20,Same Day,CUST-7177,Devin Murray,Home Office,Texas,West,Office Supplies,Labels,Vision-oriented full-range migration,16.58,8.0,0.06,335.3
+ORD-8101-iOU,2025-04-13,2025-04-20,Standard Class,CUST-6059,Jeremy Perry,Corporate,California,East,Office Supplies,Pens,Total motivating circuit,737.06,6.0,0.04,259.64
+ORD-6737-ZCh,2024-12-01,2025-04-20,Second Class,CUST-6178,Rebecca Ward,Home Office,California,South,Office Supplies,Paper,Reverse-engineered fault-tolerant superstructure,1324.86,5.0,0.35,696.46
+,2025-01-05,2025-04-20,Same Day,CUST-3550,John Beck,Consumer,Georgia,West,Technology,Copiers,Synchronized attitude-oriented application,288.49,4.0,0.01,796.38
+ORD-4222-SAu,2024-07-03,2025-04-20,Same Day,CUST-4707,Jennifer Clark,Consumer,Illinois,South,Furniture,Furnishings,Down-sized leadingedge capacity,1072.54,8.0,0.48,-183.58
+ORD-8373-ZUf,2025-02-28,2025-04-20,Standard Class,CUST-3422,Amy Jones,Home Office,California,South,Office Supplies,Binders,Ameliorated well-modulated extranet,245.19,9.0,0.23,478.08
+ORD-7806-Gbo,2024-12-15,2025-04-20,,CUST-1453,John Perez,Consumer,California,West,Technology,Accessories,Versatile transitional matrix,982.9,1.0,0.24,718.02
+ORD-8561-MvM,2024-12-07,2025-04-20,Second Class,CUST-0969,James Holland,Consumer,New York,East,Furniture,Tables,Fully-configurable coherent data-warehouse,1810.28,2.0,0.23,-29.31
+ORD-1045-Sid,2025-04-11,2025-04-20,First Class,CUST-3250,Mark Williams,Consumer,Georgia,West,Technology,Phones,Front-line dedicated contingency,135.59,4.0,0.21,611.52
+ORD-2657-tTE,2024-08-10,2025-04-20,Standard Class,CUST-3130,Michelle Walker,Consumer,New York,Central,Technology,Machines,Streamlined solution-oriented customer loyalty,1674.49,4.0,0.38,393.09
+ORD-2665-CGs,2025-02-16,2025-04-20,First Class,CUST-1808,Jeremy Henry,Corporate,New York,South,Office Supplies,Binders,Ameliorated disintermediate help-desk,344.42,6.0,0.28,238.66
+ORD-4059-zRs,2024-11-19,2025-04-20,Second Class,CUST-8602,,Consumer,Ohio,West,Technology,Phones,Ameliorated stable conglomeration,41.1,8.0,0.04,-192.78
+ORD-0577-vyg,2024-05-21,2025-04-20,Same Day,CUST-9699,Megan Levine,Home Office,Georgia,West,Furniture,Bookcases,Open-source web-enabled implementation,420.26,5.0,0.26,212.03
+ORD-4102-dLK,2025-04-20,2025-04-20,Second Class,CUST-9076,Sean Tapia,Home Office,Georgia,East,Furniture,Chairs,Extended zero tolerance concept,1258.11,5.0,0.17,-195.43
+ORD-9852-XPM,2024-12-29,2025-04-20,First Class,CUST-6230,Michael Keller,Home Office,Texas,Central,Furniture,Tables,Customizable needs-based open architecture,1726.83,9.0,0.25,264.22
+ORD-9970-IlD,2024-12-23,2025-04-20,Standard Class,CUST-7251,Patricia Patel,Consumer,Florida,East,Technology,Accessories,Persistent 3rdgeneration frame,1595.26,8.0,0.25,-40.24
+ORD-0319-EiM,2025-04-06,2025-04-20,Standard Class,CUST-9514,Patricia Smith,Corporate,Florida,South,Furniture,Chairs,Operative 6thgeneration standardization,510.25,10.0,0.4,558.41
+ORD-9539-iWP,2024-06-04,2025-04-20,First Class,CUST-5585,Tony Fowler,Home Office,New York,West,Furniture,Chairs,Networked systemic alliance,1573.13,8.0,0.26,-129.14
+ORD-6864-RwE,2024-06-19,2025-04-20,Standard Class,CUST-8636,Kelly Williams,Corporate,Florida,Central,,Furnishings,Inverse value-added initiative,467.83,2.0,0.16,-101.94
+ORD-9783-GOK,2024-07-22,2025-04-20,Second Class,CUST-8440,Karen Martinez,Corporate,Florida,East,Technology,Machines,Customizable transitional approach,947.27,8.0,0.03,235.87
+ORD-3728-ewm,2025-03-11,2025-04-20,,CUST-3089,Mr. Matthew Brown,Corporate,Pennsylvania,West,Furniture,Furnishings,Phased well-modulated projection,920.9,4.0,0.32,775.56
+ORD-2370-xHV,2024-06-11,2025-04-20,Second Class,CUST-3709,Sherry Kelly,Consumer,California,Central,,Bookcases,Persevering radical policy,281.64,8.0,0.23,-28.8
+ORD-4964-Dzy,2024-09-23,2025-04-20,Standard Class,CUST-5961,Robert Morris,Home Office,New York,West,Office Supplies,Paper,Visionary 24/7 application,1160.46,9.0,0.43,-113.53
+ORD-5453-GSM,2024-11-03,2025-04-20,Second Class,CUST-6148,Austin Schneider,Home Office,Georgia,South,Technology,Machines,Compatible intermediate extranet,565.55,7.0,0.37,46.65
+ORD-6952-itD,2024-10-09,2025-04-20,Second Class,CUST-2086,Jason Schwartz,Home Office,New York,East,Office Supplies,Labels,Self-enabling tangible attitude,841.37,1.0,0.02,270.65
+ORD-8269-luq,2024-09-26,2025-04-20,Same Day,,Nancy Larsen,Home Office,Ohio,South,Technology,Phones,Innovative bottom-line archive,1621.34,2.0,0.23,40.51
+ORD-9052-ers,2024-06-09,2025-04-20,Same Day,CUST-9299,Elizabeth Morgan,Consumer,New York,Central,Technology,Phones,Universal executive Internet solution,598.62,2.0,0.01,469.04
+ORD-2103-cXI,2024-11-09,2025-04-20,First Class,CUST-6638,Sherri Harris,Corporate,Georgia,West,Furniture,Furnishings,Streamlined coherent open system,1749.66,7.0,0.09,671.55
+ORD-2945-Xww,2025-01-27,2025-04-20,First Class,CUST-1179,Maria Gill,Home Office,Texas,South,Technology,Machines,Reduced didactic installation,1787.93,6.0,0.27,96.59
+ORD-7694-GyI,2024-07-30,2025-04-20,Second Class,CUST-5943,Christopher Sutton,Home Office,Texas,Central,Office Supplies,Storage,Multi-tiered content-based intranet,1474.16,1.0,0.26,710.0
+ORD-5025-geN,2024-10-14,2025-04-20,First Class,CUST-7666,Linda Maldonado,Corporate,Pennsylvania,South,Office Supplies,Binders,Balanced non-volatile monitoring,1242.08,6.0,0.18,448.17
+ORD-4791-fsY,2025-01-24,2025-04-20,Second Class,CUST-5093,Jessica Bowers,Consumer,Pennsylvania,West,Technology,Phones,User-centric bi-directional open system,1083.87,8.0,0.37,552.28
+ORD-3917-xTj,2024-08-01,2025-04-20,Second Class,CUST-5569,Cindy Meza,Corporate,Pennsylvania,Central,Technology,Accessories,Enterprise-wide upward-trending synergy,1012.1,7.0,0.14,-136.63
+ORD-9019-nRJ,2024-07-09,2025-04-20,Same Day,CUST-8174,Christopher Mcgee,Home Office,Texas,South,Office Supplies,Labels,Advanced impactful success,1422.55,9.0,0.45,251.98
+ORD-6132-nHX,2024-10-22,2025-04-20,Second Class,CUST-3894,Brianna Fisher,Corporate,Texas,East,Office Supplies,Binders,Horizontal didactic throughput,787.46,3.0,0.14,756.63
+ORD-3149-uFb,2024-10-20,2025-04-20,Standard Class,CUST-8097,Kendra Murray,Consumer,New York,South,Furniture,Tables,Proactive dedicated solution,309.49,4.0,0.26,427.28
+ORD-1045-hII,2024-08-28,,Second Class,CUST-1400,Katherine Dixon,Corporate,Pennsylvania,South,Office Supplies,Labels,Digitized 4thgeneration analyzer,893.28,1.0,0.15,-137.05
+ORD-8946-qJq,2024-04-27,2025-04-20,Same Day,CUST-2473,Abigail Hoover,Home Office,Pennsylvania,Central,Furniture,Bookcases,Front-line national focus group,977.44,9.0,0.42,245.26
+ORD-9496-kvi,2025-02-12,2025-04-20,Second Class,CUST-4922,Christopher Richards,Corporate,New York,Central,Office Supplies,Storage,Digitized fault-tolerant projection,461.3,6.0,0.49,569.75
+ORD-1735-oOg,2024-05-06,2025-04-20,Standard Class,CUST-9261,Lisa Hernandez,Corporate,Georgia,West,Furniture,Tables,Managed radical help-desk,1241.07,3.0,0.36,85.25
+ORD-4605-BqP,2025-02-15,2025-04-20,Second Class,CUST-5538,Travis Campos,Consumer,Texas,East,Furniture,Tables,Organic multi-tasking process improvement,1987.61,10.0,0.06,60.41
+ORD-5893-vVl,2024-07-17,2025-04-20,First Class,CUST-3259,Kenneth Braun,Home Office,Pennsylvania,Central,Furniture,Tables,Mandatory interactive framework,304.41,8.0,0.27,-37.4
+ORD-1468-BbZ,2024-06-06,2025-04-20,First Class,CUST-6519,James Chambers,Corporate,Georgia,West,Office Supplies,Binders,Seamless fresh-thinking solution,1896.1,6.0,0.08,770.15
+ORD-4513-SVS,2025-03-11,2025-04-20,Standard Class,CUST-0364,Donald Reilly,Corporate,Illinois,West,Technology,Copiers,Configurable grid-enabled system engine,1601.16,8.0,0.17,-87.68
+ORD-6777-TGt,2024-09-09,2025-04-20,Second Class,CUST-5440,Robin Kelly,Home Office,Texas,Central,Office Supplies,Binders,Right-sized web-enabled methodology,59.34,10.0,0.42,245.97
+ORD-7947-iJt,2024-09-23,2025-04-20,First Class,CUST-6857,Joseph Garcia,Home Office,Florida,West,Furniture,Bookcases,Multi-channeled 5thgeneration function,1564.75,5.0,0.1,-116.41
+ORD-0818-xxf,2024-10-02,2025-04-20,Same Day,CUST-1997,Erin White,Consumer,,Central,Office Supplies,Binders,Customer-focused multi-state software,1210.31,9.0,0.47,708.45
+ORD-7194-akM,2024-10-13,2025-04-20,Second Class,CUST-7269,Amy Evans,Home Office,Ohio,Central,Office Supplies,Labels,Intuitive content-based knowledge user,778.36,1.0,0.14,151.36
+ORD-7725-oFd,2024-05-04,2025-04-20,First Class,CUST-9627,,Consumer,Georgia,South,Office Supplies,Storage,Re-contextualized neutral hub,1609.33,5.0,0.08,528.0
+ORD-6426-Npk,2025-02-05,2025-04-20,Second Class,CUST-7874,Jessica Rich,Home Office,Texas,West,Office Supplies,Labels,Total multi-state projection,423.49,8.0,0.49,325.3
+ORD-6977-RmP,2024-12-31,2025-04-20,Same Day,CUST-8125,Michael Taylor,Consumer,California,South,Office Supplies,Binders,Ameliorated directional customer loyalty,1281.22,5.0,0.21,355.81
+ORD-8826-TdC,2024-10-26,2025-04-20,Second Class,CUST-2038,John Johnson,Consumer,Ohio,Central,Technology,Accessories,Extended user-facing leverage,1112.2,1.0,0.41,101.99
+ORD-6186-Vxx,2024-07-05,2025-04-20,Same Day,CUST-3844,Edward Barker,Home Office,Georgia,West,Technology,Copiers,Team-oriented needs-based matrices,63.41,1.0,0.08,100.17
+ORD-0561-FbM,2024-06-12,2025-04-20,First Class,CUST-3612,Kathleen Schneider,Home Office,Illinois,South,Technology,Machines,,366.95,4.0,0.01,564.72
+ORD-2018-FuM,2024-09-21,2025-04-20,Standard Class,CUST-3072,Richard Brown,Home Office,Georgia,South,Office Supplies,Binders,Managed stable encoding,1738.01,8.0,0.49,618.28
+ORD-3658-Bif,2024-07-21,,First Class,CUST-0473,Sarah Jones,Corporate,New York,East,Office Supplies,Storage,Progressive system-worthy access,300.81,8.0,0.44,-64.5
+ORD-4006-MAs,2025-03-12,2025-04-20,Standard Class,CUST-1484,Jessica Davila,Corporate,Ohio,Central,Furniture,Chairs,Face-to-face bifurcated matrices,106.94,5.0,0.26,736.32
+ORD-2892-atT,2024-09-25,2025-04-20,Second Class,CUST-8931,Jeffrey Savage,Consumer,New York,Central,Technology,Accessories,Persistent asynchronous functionalities,1746.16,5.0,0.14,497.97
+ORD-6194-ICe,2024-07-30,2025-04-20,Standard Class,CUST-0754,Juan Carrillo,Consumer,California,West,Office Supplies,Binders,Distributed object-oriented secured line,1041.16,6.0,0.39,211.99
+ORD-3955-KaN,2025-01-14,2025-04-20,Second Class,CUST-8220,Sean Torres,Consumer,Florida,West,Furniture,Chairs,Ergonomic transitional instruction set,1592.26,9.0,0.31,631.42
+ORD-1145-DQq,2025-04-09,2025-04-20,Same Day,CUST-7240,Douglas Patterson,Corporate,Texas,East,Technology,Phones,Managed multimedia utilization,1639.5,1.0,0.24,111.57
+ORD-6594-AAt,2024-09-25,2025-04-20,Same Day,CUST-1451,Jerry Hernandez,Home Office,Pennsylvania,West,Office Supplies,Paper,Object-based secondary open architecture,1422.69,1.0,0.37,-81.4
+ORD-5528-MuA,2025-01-30,2025-04-20,Second Class,CUST-7310,Christopher Jackson,Corporate,New York,West,Furniture,Tables,Innovative needs-based methodology,269.13,2.0,0.21,563.02
+ORD-7379-kEx,2025-01-24,2025-04-20,First Class,CUST-4156,Daniel Santiago,Corporate,Ohio,East,Furniture,Chairs,Persevering logistical groupware,400.74,1.0,0.4,313.48
+ORD-2615-WZu,2024-11-09,2025-04-20,First Class,CUST-5056,Kayla Lewis,Corporate,California,East,Furniture,Furnishings,Secured regional matrix,610.28,1.0,0.38,582.37
+ORD-9865-Xgh,2024-10-29,2025-04-20,Second Class,CUST-7788,Joel Larson,Consumer,Pennsylvania,East,Technology,Accessories,Multi-channeled upward-trending service-desk,190.65,5.0,0.47,147.84
+ORD-9081-Uzs,2024-06-11,2025-04-20,First Class,CUST-6343,Jennifer Kelly,Consumer,California,West,Furniture,Tables,Focused needs-based definition,1434.47,5.0,0.09,554.02
+ORD-7711-XWh,2025-02-08,2025-04-20,Second Class,CUST-6012,Matthew Gonzales,Home Office,Georgia,Central,Furniture,Chairs,Configurable background strategy,1399.28,3.0,0.22,757.75
+ORD-0680-Qro,2024-12-25,2025-04-20,Same Day,CUST-6512,,Corporate,Florida,West,Furniture,Bookcases,Synergistic non-volatile utilization,821.08,6.0,0.06,-89.68
+ORD-8735-bjA,2024-05-23,2025-04-20,Standard Class,CUST-1376,Joseph Holt,Home Office,Illinois,East,Furniture,Furnishings,Seamless zero-defect pricing structure,173.67,8.0,0.06,83.61
+ORD-2641-gjN,2024-10-10,2025-04-20,Same Day,CUST-0491,Jennifer Bryant,Consumer,Ohio,Central,Technology,Copiers,Object-based bi-directional website,1970.08,7.0,0.09,-130.39
+ORD-0579-csv,2025-03-31,2025-04-20,Second Class,CUST-4130,Anthony Terry,Consumer,Georgia,East,Office Supplies,Pens,Optional bottom-line model,798.78,9.0,0.33,-114.99
+ORD-1185-foV,2024-11-19,2025-04-20,Same Day,CUST-0101,Jeffery Contreras,Home Office,Texas,West,Furniture,Furnishings,Profit-focused composite pricing structure,138.77,4.0,0.17,394.96
+ORD-1179-iNy,2025-01-09,2025-04-20,Second Class,CUST-9472,David Koch,Corporate,Georgia,Central,Office Supplies,Binders,Synergistic directional core,1531.99,10.0,0.3,556.3
+ORD-9591-JGp,2024-06-17,2025-04-20,Standard Class,CUST-4446,Dr. Lawrence Harris,Corporate,Ohio,South,Technology,Machines,Polarized logistical model,1027.71,3.0,0.38,-91.96
+ORD-3950-pqy,2024-07-13,2025-04-20,Same Day,CUST-9493,Debbie Winters,Consumer,New York,East,Office Supplies,Labels,Switchable grid-enabled projection,208.21,1.0,0.42,298.13
+ORD-4820-xOI,2024-11-09,2025-04-20,Same Day,CUST-4632,Brittany Harrison,Home Office,Pennsylvania,West,Furniture,Tables,Stand-alone zero-defect function,612.48,10.0,0.05,-123.48
+ORD-6601-zou,2024-12-25,2025-04-20,Same Day,CUST-2601,Ryan Cunningham,Consumer,Illinois,South,Technology,Machines,Stand-alone asymmetric open system,985.6,5.0,0.27,609.48
+ORD-6479-yUg,2025-01-08,2025-04-20,First Class,CUST-7130,Kathleen Kelley,Corporate,Texas,South,Technology,Phones,User-friendly eco-centric hardware,905.73,7.0,0.22,-164.02
+ORD-3951-mXf,2024-09-03,2025-04-20,Second Class,CUST-4822,Michael Gonzales,Corporate,Ohio,West,Furniture,Bookcases,,631.79,7.0,0.24,-90.62
+ORD-9199-KrG,2025-03-26,2025-04-20,Same Day,CUST-0035,Alex Conner,Corporate,New York,East,Technology,Machines,Diverse non-volatile collaboration,788.86,8.0,0.3,177.8
+ORD-0773-GOB,2024-07-04,2025-04-20,Standard Class,CUST-5114,Joseph Wong,Corporate,California,East,Technology,Copiers,Expanded tertiary moderator,1185.02,3.0,0.42,148.88
+ORD-1874-egO,2025-02-16,2025-04-20,Standard Class,CUST-8249,Jennifer Schultz,Corporate,Texas,South,Technology,Phones,Progressive directional matrices,696.83,6.0,0.21,-143.55
+ORD-1034-eVd,2024-12-02,2025-04-20,Second Class,CUST-1503,Caroline Mccarthy,Home Office,Illinois,East,Furniture,Tables,Future-proofed real-time moratorium,1821.67,2.0,0.43,-85.53
+ORD-0502-xqQ,2024-10-25,2025-04-20,Standard Class,CUST-8388,Brittney Fletcher,Consumer,Georgia,South,Furniture,Chairs,Stand-alone 4thgeneration hub,1140.42,7.0,0.13,495.96
+ORD-6956-VeC,2025-04-18,2025-04-20,Standard Class,CUST-4413,Chelsea Roberts,Corporate,Ohio,Central,Technology,Phones,Cross-group real-time software,1149.35,,0.05,475.11
+ORD-6989-DwH,2024-09-12,2025-04-20,Standard Class,CUST-2363,Linda York,Consumer,Illinois,Central,Office Supplies,Labels,Profit-focused high-level project,1939.16,4.0,0.25,647.33
+ORD-7589-JkL,2024-09-21,2025-04-20,Standard Class,CUST-8546,Rebecca Thomas,Corporate,California,Central,Furniture,Tables,Seamless full-range success,1992.49,7.0,0.4,424.57
+ORD-8517-kBF,2024-06-26,2025-04-20,Standard Class,CUST-0330,Nicolas Myers,Corporate,Texas,South,Furniture,Chairs,Cross-group next generation intranet,859.94,6.0,0.4,451.54
+ORD-5140-mJb,2025-02-12,2025-04-20,Standard Class,CUST-8729,Briana Wilcox,Corporate,Pennsylvania,West,Office Supplies,Storage,Exclusive dedicated complexity,834.49,5.0,0.31,253.23
+ORD-3311-NZy,2024-10-17,2025-04-20,First Class,CUST-6944,Dr. Joseph Myers,Home Office,New York,South,Technology,Accessories,Mandatory regional archive,433.78,8.0,0.13,437.93
+ORD-1654-tJm,2025-04-19,2025-04-20,First Class,CUST-0263,Cynthia Jackson,Home Office,Florida,Central,Technology,Machines,Visionary foreground support,930.35,4.0,0.08,485.31
+ORD-5415-eNu,2024-12-09,2025-04-20,Same Day,CUST-8566,Brandi Moore,Corporate,Texas,West,Office Supplies,Labels,Persistent background definition,1693.47,5.0,0.41,446.04
+ORD-1092-Cur,2025-03-02,2025-04-20,Second Class,CUST-9839,James Foley,Corporate,Florida,East,Office Supplies,Storage,Down-sized coherent archive,308.42,1.0,0.12,627.23
+ORD-5394-Frw,2024-07-11,2025-04-20,Same Day,CUST-5240,Heather Williams,Corporate,California,West,Office Supplies,Labels,Vision-oriented directional migration,327.12,3.0,0.01,589.67
+ORD-9694-lMn,2024-08-06,2025-04-20,Second Class,CUST-0403,Mike Ferguson,Home Office,California,South,Office Supplies,Storage,Proactive non-volatile hierarchy,1566.65,1.0,0.43,-116.07
+ORD-8049-uhk,2025-01-19,2025-04-20,First Class,CUST-0009,Henry Edwards,Corporate,Pennsylvania,East,Technology,Copiers,Stand-alone value-added core,799.82,3.0,,370.97
+ORD-1506-XYr,2024-07-07,2025-04-20,Standard Class,CUST-1116,Adam Lee,Corporate,Texas,West,Technology,Phones,Re-engineered full-range emulation,1203.64,6.0,0.16,384.33
+ORD-5371-Nxd,2025-01-03,2025-04-20,Same Day,CUST-0821,Nicholas Miller,Consumer,New York,East,Office Supplies,Paper,Object-based object-oriented capacity,358.56,5.0,0.22,54.31
+ORD-4603-BIf,2025-04-13,2025-04-20,Same Day,CUST-0637,Nicole Villanueva,Home Office,Pennsylvania,East,Technology,Phones,Organic mobile circuit,639.81,7.0,0.24,46.35
+ORD-3638-hcO,2024-10-29,2025-04-20,Standard Class,CUST-6779,Reginald Walters,Corporate,Pennsylvania,Central,Office Supplies,Paper,Down-sized 24/7 benchmark,51.94,10.0,0.02,539.45
+ORD-8121-ZQE,2024-07-11,2025-04-20,Standard Class,CUST-5671,Kevin Durham,Home Office,Ohio,Central,Furniture,Tables,Reduced context-sensitive methodology,1281.51,6.0,0.45,485.25
+ORD-7495-qyv,2025-01-19,2025-04-20,Same Day,CUST-1423,Nicholas Jefferson,Corporate,California,South,Technology,Accessories,Inverse modular knowledge user,1855.74,5.0,0.15,736.32
+ORD-0709-yFr,2024-08-09,2025-04-20,Second Class,CUST-4087,Erin Oliver,Consumer,Georgia,Central,Furniture,Bookcases,Ameliorated eco-centric neural-net,1760.14,7.0,0.39,74.04
+ORD-6755-ahd,2024-09-28,2025-04-20,Same Day,CUST-9358,Aaron Mitchell,Home Office,Ohio,Central,Furniture,Furnishings,Vision-oriented neutral function,1437.6,2.0,0.41,498.48
+ORD-3359-xvn,2024-07-30,2025-04-20,Standard Class,CUST-4799,Jason Taylor,Corporate,Pennsylvania,South,Technology,Phones,Synergistic system-worthy Graphic Interface,1393.47,1.0,0.32,-16.26
+ORD-1403-oXu,2024-12-31,2025-04-20,First Class,CUST-4759,Adam Garrison,Corporate,Florida,Central,Office Supplies,Paper,Customer-focused multi-state array,634.31,2.0,0.06,49.6
+ORD-4299-AbQ,2025-03-05,2025-04-20,Same Day,CUST-1518,Kevin Smith,Corporate,Georgia,South,Technology,Accessories,Synergized system-worthy core,1748.28,3.0,0.13,487.47
+ORD-4348-kSP,2024-08-24,2025-04-20,Second Class,CUST-8322,David Manning,Consumer,Ohio,Central,Office Supplies,Pens,Digitized systematic monitoring,371.96,7.0,0.47,684.34
+ORD-1065-MUa,2024-11-14,2025-04-20,First Class,CUST-1296,Mrs. Cheyenne Thompson DDS,Home Office,Florida,East,Furniture,Chairs,Upgradable national initiative,1948.51,4.0,0.13,651.83
+ORD-5747-Zvh,2025-03-08,2025-04-20,Same Day,CUST-5191,Ruth Herman,Home Office,Illinois,West,Furniture,Furnishings,Right-sized needs-based archive,187.23,6.0,0.09,367.24
+ORD-0475-akA,2024-09-26,2025-04-20,Same Day,CUST-3276,Jennifer King,Home Office,Georgia,East,Furniture,Furnishings,Progressive regional initiative,456.72,4.0,0.1,661.94
+ORD-6130-VkZ,2024-10-19,2025-04-20,Same Day,CUST-8224,Gregory Powell,Corporate,New York,South,Office Supplies,Pens,Multi-layered tangible initiative,1714.11,10.0,0.11,624.09
+ORD-2947-xPS,2024-06-15,2025-04-20,Same Day,CUST-4449,Darrell Smith,Consumer,Ohio,West,Technology,Accessories,Ameliorated methodical interface,67.26,5.0,0.12,250.98
+ORD-1011-xLn,2025-02-12,2025-04-20,Same Day,CUST-1196,Derrick Marshall,Consumer,California,South,Furniture,Bookcases,Centralized zero administration contingency,275.08,6.0,0.49,197.55
+ORD-1287-jlj,2024-06-19,2025-04-20,Same Day,CUST-7412,Jessica Drake DDS,Home Office,Illinois,East,Furniture,,Multi-tiered heuristic database,199.61,1.0,0.03,731.06
+ORD-3609-gtm,2025-03-28,2025-04-20,First Class,CUST-5625,Bryan Adams,Consumer,Illinois,South,Office Supplies,Pens,Operative well-modulated array,611.99,7.0,0.34,-67.76
+ORD-1680-LkH,2024-07-03,2025-04-20,Second Class,CUST-2277,Susan Booth,Corporate,New York,South,Technology,Phones,Monitored leadingedge moderator,1861.35,8.0,0.07,117.32
+ORD-6088-FUC,2024-07-28,2025-04-20,Second Class,CUST-3423,William Washington,Corporate,Texas,Central,Technology,Machines,Synergized clear-thinking task-force,97.88,3.0,0.25,773.37
+ORD-9865-TED,2025-03-04,2025-04-20,Same Day,CUST-3959,Sharon Cook,Corporate,Illinois,Central,Office Supplies,Pens,Operative needs-based info-mediaries,1038.78,7.0,0.45,115.54
+ORD-0076-VpJ,2024-12-14,2025-04-20,Same Day,CUST-0274,Russell Green,Consumer,Florida,West,Office Supplies,Paper,Adaptive dedicated help-desk,118.59,3.0,0.02,60.22
+ORD-1926-jgo,2024-08-01,2025-04-20,Same Day,CUST-8649,Julia Harris,Consumer,Georgia,East,Technology,Machines,Synergistic zero-defect help-desk,888.62,9.0,0.24,292.99
+ORD-6356-QoZ,2024-10-31,2025-04-20,First Class,CUST-2745,Tiffany Martinez,Corporate,Texas,West,Technology,Accessories,Customizable full-range intranet,1737.66,3.0,0.42,549.94
+ORD-3366-HFL,2024-10-17,2025-04-20,Second Class,CUST-3656,Dr. Steve Hawkins,Home Office,California,West,Office Supplies,Storage,Implemented eco-centric open system,838.67,2.0,0.12,298.11
+ORD-8468-Csz,2024-10-30,2025-04-20,First Class,CUST-8456,Joel Jones,Corporate,Texas,South,Furniture,Bookcases,Versatile bifurcated collaboration,753.38,2.0,0.42,-46.22
+,2024-10-26,2025-04-20,Same Day,CUST-0367,Jimmy Cox,Corporate,Illinois,East,Furniture,Furnishings,Public-key 6thgeneration function,665.56,1.0,0.33,750.9
+ORD-3538-TBZ,2024-09-28,2025-04-20,Second Class,CUST-6742,Karen Miller,Consumer,California,Central,Office Supplies,Storage,Multi-layered tertiary paradigm,653.11,1.0,0.37,347.16
+ORD-2204-kKU,2024-08-06,2025-04-20,First Class,CUST-0681,Charles Fields,Corporate,Illinois,West,Technology,Machines,Synergistic tertiary capability,487.76,7.0,0.04,652.35
+ORD-5331-Mkw,2024-05-13,2025-04-20,Same Day,CUST-0662,Jennifer Cherry,Corporate,New York,East,Furniture,Furnishings,User-friendly executive model,604.11,7.0,0.37,721.7
+ORD-3615-dyg,2024-07-02,2025-04-20,Standard Class,CUST-7542,Erin Smith,Home Office,Texas,Central,Technology,Accessories,Enhanced non-volatile throughput,1030.18,8.0,0.22,188.09
+ORD-6397-bMZ,2024-10-24,2025-04-20,Same Day,CUST-4687,Pam Guzman,Consumer,Ohio,Central,Office Supplies,Storage,Synergized 24/7 neural-net,1231.6,7.0,0.32,-107.05
+ORD-9134-jHY,2024-09-23,2025-04-20,Same Day,CUST-4118,Evelyn Smith,Home Office,Florida,West,Technology,Copiers,Re-contextualized disintermediate frame,1862.03,9.0,0.31,324.68
+ORD-2156-fuV,2024-12-06,2025-04-20,Same Day,CUST-6457,John Hicks,Consumer,Georgia,Central,Office Supplies,Labels,Adaptive real-time standardization,305.73,3.0,0.34,100.41
+ORD-6495-Xdj,2024-06-19,2025-04-20,Standard Class,CUST-7748,Steven Stanton,Home Office,California,East,Furniture,Furnishings,Devolved exuding hierarchy,1835.43,9.0,0.05,224.91
+ORD-7633-vZB,2024-08-16,2025-04-20,Standard Class,CUST-5993,Shawn Kane,Corporate,Illinois,East,Furniture,Furnishings,Business-focused full-range throughput,1539.61,1.0,0.06,
+ORD-8497-xhw,2024-09-15,2025-04-20,Same Day,CUST-2203,Sean Davenport,Consumer,Texas,South,Furniture,Tables,Public-key bandwidth-monitored ability,1754.74,5.0,0.16,524.09
+ORD-3728-hHp,2024-07-13,2025-04-20,Standard Class,CUST-0945,Michael Webb,Corporate,New York,West,Technology,Machines,Automated 24hour interface,378.32,10.0,0.13,473.41
+ORD-6867-juu,2024-12-17,2025-04-20,First Class,CUST-1594,Susan Martin,Consumer,Ohio,East,Office Supplies,Storage,Upgradable upward-trending knowledge user,36.48,8.0,0.23,205.09
+ORD-5801-eim,2025-02-02,2025-04-20,Standard Class,CUST-2343,Colleen Smith,Home Office,Pennsylvania,South,Technology,Machines,Focused scalable infrastructure,1611.24,2.0,0.06,-186.12
+ORD-6990-pmH,2024-05-14,2025-04-20,Second Class,CUST-4139,Christine Haas,Consumer,Florida,South,Furniture,Chairs,Ergonomic zero-defect benchmark,1300.76,4.0,0.22,426.06
+ORD-8671-Qln,2024-05-07,2025-04-20,First Class,CUST-3964,Julia Payne,Corporate,Georgia,West,Technology,Accessories,Re-contextualized incremental moderator,953.24,1.0,0.06,702.42
+ORD-7994-cfo,2024-08-28,2025-04-20,Same Day,CUST-2194,Kristen Bryant,Corporate,California,South,Technology,Machines,Reactive upward-trending time-frame,1174.6,4.0,0.15,629.45
+ORD-6533-CkC,2024-11-14,2025-04-20,Standard Class,CUST-7483,Heather White,Consumer,Texas,South,Office Supplies,Binders,Open-source 24/7 capability,1959.18,8.0,0.37,395.84
+ORD-0182-Sxi,2025-01-16,2025-04-20,First Class,CUST-0110,Joel Williams,Corporate,Ohio,South,Technology,Copiers,Customer-focused reciprocal monitoring,1031.58,10.0,0.47,705.07
+ORD-2315-Gmx,2024-09-01,2025-04-20,First Class,CUST-4865,Alex Ware,Home Office,California,South,Office Supplies,Paper,Exclusive high-level analyzer,1157.04,9.0,0.03,692.88
+ORD-6527-vWL,2025-01-21,2025-04-20,First Class,CUST-2024,Rebecca Calhoun,Corporate,Pennsylvania,South,Office Supplies,,Adaptive interactive extranet,1398.05,1.0,0.08,526.21
+ORD-4892-NLE,2024-07-12,2025-04-20,Same Day,CUST-9975,Aaron Booth,Consumer,Florida,Central,Office Supplies,Pens,Persevering asymmetric groupware,1844.25,8.0,0.07,93.39
+ORD-6192-ZtY,2025-02-17,2025-04-20,Same Day,CUST-5756,Laura Abbott,Home Office,Pennsylvania,South,Technology,Machines,Realigned optimizing monitoring,1601.51,3.0,0.31,82.46
+ORD-1603-EzA,2024-06-29,2025-04-20,Same Day,CUST-2412,Sarah Lewis,Consumer,New York,West,Technology,Phones,Function-based high-level application,321.07,8.0,0.05,215.98
+ORD-0391-Myy,2024-07-01,2025-04-20,Second Class,CUST-7065,Joe Jackson,Consumer,California,East,Office Supplies,Pens,Enhanced modular core,723.99,5.0,0.18,-41.39
+ORD-8117-VPS,2025-01-25,2025-04-20,First Class,CUST-4249,Brian Frey,Corporate,Ohio,East,Technology,Phones,Multi-lateral responsive neural-net,1238.95,2.0,0.28,
+ORD-9802-KlF,2024-05-15,2025-04-20,,CUST-2372,Elizabeth Smith,Home Office,Illinois,West,Office Supplies,Pens,Pre-emptive explicit open architecture,1708.28,9.0,0.3,-95.86
+ORD-1080-eiA,2024-05-07,2025-04-20,Same Day,CUST-6024,Eileen Nguyen,Consumer,Texas,East,Furniture,Furnishings,Networked homogeneous customer loyalty,1648.98,1.0,0.25,-32.95
+ORD-6560-KdY,2024-05-11,2025-04-20,Standard Class,CUST-1854,Howard Smith,Consumer,Illinois,South,Furniture,Tables,Profit-focused reciprocal encoding,1526.31,8.0,0.37,
+ORD-1320-fLl,2024-05-02,2025-04-20,Standard Class,CUST-4218,Tommy Pena,Consumer,Texas,West,Technology,Copiers,Persistent bottom-line hardware,883.83,7.0,0.38,-193.41
+ORD-5978-pbt,2024-09-12,2025-04-20,Standard Class,CUST-4154,Sonya Santana,Home Office,New York,East,Office Supplies,Pens,Face-to-face incremental array,539.37,,0.18,465.0
+ORD-7444-Fol,2025-04-02,2025-04-20,Second Class,CUST-2515,Kristina Griffith,Consumer,Ohio,South,Furniture,Furnishings,Cross-group user-facing workforce,1836.86,8.0,0.48,316.16
+ORD-5908-THn,2024-07-15,2025-04-20,First Class,CUST-9406,Amanda Little,Corporate,New York,East,Technology,Copiers,Intuitive clear-thinking project,1438.08,9.0,0.47,-115.22
+ORD-0938-gZl,2025-03-27,2025-04-20,Second Class,CUST-4400,Timothy House,Corporate,California,South,Office Supplies,Labels,Integrated 3rdgeneration interface,1520.79,3.0,0.45,-142.19
+ORD-6954-rll,2024-07-29,2025-04-20,Same Day,CUST-7867,Daniel Morton,Corporate,Illinois,Central,Technology,Copiers,Public-key disintermediate neural-net,,1.0,0.41,700.21
+ORD-9982-cbb,2024-05-04,2025-04-20,Same Day,CUST-5979,Robert Walls,Corporate,Florida,South,Technology,Accessories,Fundamental bottom-line alliance,1397.97,7.0,0.39,680.97
+ORD-3026-XRh,2024-07-18,2025-04-20,Standard Class,CUST-5527,Roberto Woodward,Corporate,New York,Central,Furniture,Chairs,Open-architected fault-tolerant secured line,435.33,9.0,0.28,321.34
+ORD-8897-Akz,2024-08-24,2025-04-20,First Class,CUST-5473,Joanna Ortiz,Consumer,Illinois,West,Technology,Accessories,Profound web-enabled process improvement,1666.14,5.0,0.36,786.95
+ORD-8311-Rcn,2024-12-30,2025-04-20,Standard Class,CUST-3470,Thomas Mercer,Corporate,Pennsylvania,East,Furniture,Chairs,Self-enabling encompassing hierarchy,104.99,2.0,0.22,372.44
+ORD-2493-WRq,2024-11-21,2025-04-20,Standard Class,CUST-3629,Kyle Martinez,Consumer,Florida,Central,Furniture,Furnishings,Persistent value-added leverage,605.41,10.0,0.34,514.35
+ORD-1619-MrT,2024-07-16,2025-04-20,First Class,CUST-4741,Christina Medina,Corporate,Florida,Central,Technology,Accessories,Cross-group optimizing task-force,914.08,3.0,0.36,628.44
+ORD-7534-FYs,2025-02-10,2025-04-20,First Class,CUST-2503,Antonio Gardner,Corporate,New York,South,Furniture,Chairs,Horizontal content-based hierarchy,437.42,2.0,0.18,326.26
+ORD-8636-eza,2024-06-15,2025-04-20,Standard Class,CUST-7865,Elaine Chavez,Home Office,Georgia,South,Technology,Machines,Integrated hybrid migration,1993.06,8.0,0.37,216.92
+ORD-3523-VeQ,2024-05-11,2025-04-20,Second Class,CUST-7941,Marcus Lynn,Corporate,Georgia,West,Furniture,Tables,Function-based zero-defect monitoring,1936.38,9.0,0.43,-81.94
+ORD-8176-QcP,2024-06-25,2025-04-20,Same Day,CUST-4160,Jennifer Wilson,Consumer,New York,Central,Furniture,Furnishings,Self-enabling 5thgeneration hub,1844.18,2.0,,208.62
+ORD-9941-sap,2025-04-01,2025-04-20,Standard Class,CUST-2395,Ann Arnold,Consumer,New York,,Furniture,Bookcases,Realigned attitude-oriented algorithm,749.22,6.0,0.15,285.93
+ORD-8266-yIX,2025-03-21,2025-04-20,Same Day,CUST-8976,Caitlin Vance,,Illinois,Central,Furniture,Tables,Optional neutral alliance,439.01,8.0,0.0,347.54
+ORD-9949-daX,2024-10-24,2025-04-20,Same Day,CUST-3114,Sarah Strickland,Corporate,Illinois,South,Furniture,Chairs,Profound explicit capacity,1801.57,7.0,0.24,520.03
+ORD-6646-OHI,2024-07-21,2025-04-20,Second Class,CUST-3967,David Burch,Home Office,Georgia,South,Technology,Accessories,Enhanced fresh-thinking forecast,1337.77,3.0,0.43,125.22
+ORD-0949-fqH,2025-03-06,2025-04-20,Same Day,CUST-2355,Richard Ayala,Consumer,Ohio,Central,Technology,Machines,Innovative discrete open system,1086.58,8.0,0.37,445.92
+ORD-4139-AlD,2024-05-18,2025-04-20,Standard Class,CUST-8147,Robert Romero,Home Office,Texas,East,Furniture,Chairs,Proactive regional interface,392.93,10.0,0.27,557.62
+ORD-7610-YQH,2024-06-18,2025-04-20,Same Day,CUST-0292,Jeremy Lloyd,Home Office,California,East,Technology,Accessories,Configurable asynchronous hardware,1319.93,9.0,0.09,-181.03
+ORD-6156-uuv,2024-09-22,2025-04-20,Same Day,CUST-9669,Laura Blackwell,Consumer,Pennsylvania,South,Furniture,Tables,Synchronized exuding approach,1181.9,8.0,0.43,-176.74
+ORD-9652-Pso,2024-08-26,2025-04-20,Same Day,CUST-1133,Stacy Smith,Consumer,Pennsylvania,South,Office Supplies,Paper,Stand-alone encompassing standardization,521.78,2.0,0.49,341.78
+ORD-9038-rrZ,2024-11-12,2025-04-20,Second Class,CUST-4279,Jessica Russell,Corporate,Texas,West,Office Supplies,Paper,Synchronized context-sensitive help-desk,620.52,7.0,0.34,-141.09
+ORD-9414-ejO,2024-12-30,2025-04-20,First Class,CUST-9321,Natasha Thomas,Home Office,California,Central,Office Supplies,Paper,Pre-emptive even-keeled orchestration,785.98,6.0,0.07,693.01
+ORD-3346-FCh,2025-03-27,2025-04-20,First Class,CUST-3170,Emily Hoffman,Consumer,Florida,West,Office Supplies,Labels,Customer-focused multi-state time-frame,1506.75,10.0,0.12,308.62
+ORD-0657-emD,2025-03-14,2025-04-20,First Class,CUST-1326,Kelly Rogers,Corporate,California,Central,Technology,Machines,Centralized demand-driven approach,935.0,7.0,0.03,-171.09
+ORD-8929-lqe,2025-01-16,2025-04-20,First Class,CUST-3589,Craig Martin,Corporate,Texas,West,Technology,Accessories,Cross-platform real-time protocol,1528.33,3.0,0.15,206.75
+ORD-3404-wZp,2024-10-29,2025-04-20,Second Class,CUST-2558,Evelyn Jenkins,Corporate,New York,West,Furniture,Tables,Exclusive impactful core,1079.7,7.0,0.48,355.15
+ORD-2619-ufp,2024-10-29,2025-04-20,Same Day,CUST-4785,April Gonzalez,Home Office,Illinois,West,Furniture,Chairs,Function-based zero tolerance structure,11.08,8.0,0.14,50.89
+ORD-5954-MFC,2024-12-10,2025-04-20,Standard Class,CUST-1695,Michael Young,Home Office,Florida,Central,Technology,Machines,Customizable mission-critical structure,100.51,9.0,0.28,100.64
+ORD-3840-tEv,2025-01-11,2025-04-20,Second Class,CUST-9606,Carolyn Wells DDS,Home Office,Illinois,South,Office Supplies,Binders,Horizontal 24hour instruction set,429.59,9.0,0.48,118.3
+ORD-7472-vuI,,2025-04-20,Standard Class,CUST-4325,Jackie Moreno,Home Office,Georgia,Central,Technology,Copiers,Multi-lateral mobile ability,499.4,6.0,0.17,259.8
+ORD-9467-Ihs,2024-12-09,2025-04-20,First Class,CUST-1511,Garrett Thompson,Home Office,New York,East,Technology,Copiers,Synergistic bi-directional paradigm,1221.49,1.0,0.45,472.71
+ORD-2920-tfZ,2024-10-10,2025-04-20,Same Day,CUST-2199,Courtney Wu,Corporate,Texas,East,Office Supplies,Storage,Re-engineered attitude-oriented Internet solution,1081.91,8.0,0.34,152.99
+ORD-1523-FHo,2025-04-18,2025-04-20,Standard Class,CUST-2209,Donna Aguilar,Corporate,New York,,Office Supplies,Storage,Synergistic client-server open architecture,258.28,6.0,0.47,244.58
+ORD-0658-abt,2025-03-07,2025-04-20,Standard Class,CUST-6713,Mark Allen,Home Office,Pennsylvania,West,Furniture,Chairs,Optimized 6thgeneration portal,189.03,10.0,0.31,608.41
+ORD-0344-NSX,2024-05-18,2025-04-20,Same Day,CUST-1656,Sharon May,Corporate,California,Central,Furniture,Tables,Extended eco-centric access,990.75,10.0,0.1,-3.91
+,2025-03-17,2025-04-20,First Class,CUST-9554,Jacob Lynch,Corporate,Georgia,West,Technology,Machines,Centralized solution-oriented algorithm,1108.05,10.0,0.34,402.97
+ORD-6476-bMK,2024-06-10,2025-04-20,Second Class,CUST-2620,Carol Barker,Home Office,,West,Furniture,Chairs,Streamlined disintermediate initiative,526.65,10.0,0.43,681.0
+ORD-6441-aSL,2025-02-04,2025-04-20,Second Class,CUST-5684,Michele Graham,Home Office,California,Central,Technology,Copiers,Open-architected national utilization,1364.55,8.0,0.0,227.11
+ORD-3912-apg,2024-10-12,2025-04-20,Standard Class,CUST-6973,Heather Roach,Corporate,Ohio,Central,Technology,Phones,Optimized maximized system engine,252.22,9.0,0.23,161.47
+ORD-3116-OSM,2024-11-20,2025-04-20,First Class,CUST-7025,Devin Carter,Corporate,Ohio,South,Furniture,Tables,Synchronized system-worthy analyzer,639.32,7.0,0.1,-118.19
+ORD-2305-dbv,2024-08-13,2025-04-20,Second Class,CUST-7152,Eric Roth,Home Office,Ohio,East,Technology,Phones,Open-architected didactic strategy,1834.82,4.0,0.08,110.81
+ORD-1396-iWp,2024-07-20,2025-04-20,First Class,CUST-1173,Alyssa Brown,Corporate,Ohio,East,Technology,Phones,Switchable leadingedge encoding,1189.14,6.0,0.42,47.15
+ORD-0206-VCS,2024-10-14,2025-04-20,Standard Class,CUST-9928,James King,Consumer,Pennsylvania,West,Office Supplies,Paper,Enhanced tangible knowledge user,1887.66,10.0,0.31,564.1
+ORD-0597-wjp,2024-12-10,2025-04-20,First Class,CUST-6542,Eric Campos,Consumer,California,,Technology,Machines,Pre-emptive uniform open architecture,761.02,2.0,0.39,-138.0
+ORD-6911-Sms,2024-12-09,2025-04-20,Standard Class,CUST-4007,Jonathan Perez,Home Office,Ohio,East,Office Supplies,Binders,Sharable homogeneous implementation,212.64,1.0,0.28,94.92
+ORD-6504-Pbz,2025-02-06,2025-04-20,First Class,CUST-4215,Stephen Mckenzie,Home Office,Ohio,West,Office Supplies,Labels,Grass-roots 3rdgeneration Internet solution,1730.52,10.0,0.01,183.92
+ORD-1235-Bpe,2024-05-30,2025-04-20,First Class,CUST-8356,Stanley Sanchez,Corporate,California,South,Office Supplies,Storage,Focused exuding complexity,1039.25,10.0,0.1,-97.31
+ORD-6583-TpF,2025-03-22,2025-04-20,Second Class,CUST-1626,Linda Kelley,,New York,Central,Technology,Phones,Profound uniform alliance,717.23,8.0,0.36,244.62
+ORD-6555-pQM,2024-06-16,2025-04-20,First Class,CUST-9041,Tracy Garcia,Consumer,New York,Central,Furniture,Tables,Ergonomic encompassing policy,1173.2,9.0,0.48,554.37
+ORD-0616-JBJ,2025-01-16,2025-04-20,Second Class,CUST-2622,Cynthia Bowen,Consumer,Georgia,Central,Office Supplies,Storage,Virtual zero-defect ability,1210.63,5.0,0.18,
+ORD-3026-WFi,2025-01-31,2025-04-20,First Class,CUST-0896,Mr. James Guerra DDS,Consumer,California,South,Technology,Accessories,Total discrete service-desk,694.19,4.0,0.32,1.26
+ORD-9259-CvA,2024-11-20,2025-04-20,Second Class,CUST-7429,Bruce Allen,Home Office,Georgia,South,Furniture,Bookcases,Enterprise-wide motivating groupware,1203.53,6.0,0.43,366.1
+ORD-0177-uMK,2024-09-20,2025-04-20,Standard Class,CUST-9908,Jacqueline Wagner,Corporate,Pennsylvania,West,Office Supplies,Storage,Synchronized reciprocal model,218.65,1.0,0.25,719.95
+ORD-7237-QGO,2024-05-11,2025-04-20,Second Class,CUST-6249,Todd Navarro,Corporate,Florida,West,Technology,Accessories,Function-based secondary protocol,966.68,6.0,0.4,175.91
+ORD-5125-IXr,2024-06-08,2025-04-20,First Class,CUST-4095,Brett Coleman,Corporate,California,East,Office Supplies,Paper,Multi-channeled tertiary array,722.19,9.0,0.06,90.58
+ORD-3297-Nkb,2024-09-30,2025-04-20,First Class,CUST-9896,Michael Mayer,Consumer,Florida,West,Furniture,Bookcases,Team-oriented maximized methodology,575.36,4.0,0.44,518.84
+ORD-3630-qcE,2025-04-11,2025-04-20,Second Class,CUST-9880,Tammy Wright,Consumer,Florida,East,Office Supplies,Storage,Up-sized global hardware,360.39,5.0,0.46,-179.01
+ORD-6893-iFD,2025-04-08,2025-04-20,Same Day,CUST-8999,Sheryl Wolf,Home Office,Texas,Central,Technology,Accessories,Persistent actuating attitude,1872.87,5.0,0.23,169.64
+ORD-8740-frB,2024-07-14,2025-04-20,Same Day,CUST-7731,Michael Rush,Home Office,Texas,East,Office Supplies,Paper,Face-to-face motivating matrices,297.42,3.0,0.4,-8.32
+ORD-3713-ktA,2024-08-12,2025-04-20,Standard Class,CUST-0649,Rebecca Elliott,Home Office,Ohio,West,Office Supplies,Pens,Cross-platform solution-oriented initiative,1842.82,10.0,0.29,654.44
+ORD-3838-WLF,2024-11-28,2025-04-20,Standard Class,CUST-9929,Mike Gregory,Consumer,California,Central,Office Supplies,Paper,Universal high-level Internet solution,1746.97,9.0,0.48,685.83
+ORD-3144-CbY,2024-07-26,2025-04-20,Same Day,CUST-7333,Timothy Galvan,Home Office,Texas,West,Furniture,Chairs,Persistent clear-thinking extranet,1022.14,9.0,0.19,318.89
+ORD-0615-VFe,2024-08-08,2025-04-20,Standard Class,CUST-4839,Kristopher Dickson,Home Office,Georgia,South,Furniture,Bookcases,Function-based multi-state toolset,952.78,10.0,0.2,721.19
+ORD-6638-sgH,2025-04-10,2025-04-20,Second Class,CUST-9045,Diane Sanchez,Consumer,Florida,South,Technology,Phones,Open-source national open system,1727.7,7.0,0.11,225.02
+ORD-9318-BjF,2024-08-14,2025-04-20,Second Class,CUST-1687,Sara Ryan,Corporate,Illinois,East,Office Supplies,Storage,Realigned explicit interface,277.32,2.0,0.15,318.82
+ORD-4302-nkx,2025-04-02,2025-04-20,Same Day,CUST-5765,John Valdez,Home Office,Pennsylvania,South,Furniture,Chairs,Intuitive hybrid parallelism,907.79,7.0,0.2,604.5
+ORD-2394-xCc,2024-05-10,2025-04-20,Same Day,CUST-0734,Mrs. Wendy Gutierrez,Consumer,New York,South,Office Supplies,Pens,Public-key asynchronous Graphic Interface,475.24,2.0,0.18,-117.58
+ORD-0905-XBJ,2024-05-23,2025-04-20,Standard Class,CUST-6654,Sharon Nunez,Consumer,Texas,East,Technology,Phones,Balanced fresh-thinking conglomeration,151.98,1.0,0.27,133.76
+ORD-9034-AvU,2024-11-18,2025-04-20,Standard Class,CUST-4659,Carol Branch,Corporate,Illinois,West,Technology,Copiers,Multi-layered global monitoring,1414.23,3.0,0.5,552.38
+ORD-4051-Bof,2024-09-14,2025-04-20,First Class,CUST-0353,Jenna Ball,Corporate,Illinois,Central,Technology,Copiers,Front-line 4thgeneration software,1568.43,7.0,0.47,621.86
+ORD-6576-rDl,2025-04-20,2025-04-20,Same Day,CUST-8148,Shelley Anderson,Home Office,New York,South,,Phones,Fully-configurable exuding installation,462.88,4.0,0.24,315.83
+ORD-9516-UqT,2024-05-16,2025-04-20,Same Day,CUST-8404,Sydney Rodriguez,Corporate,Texas,Central,Technology,Machines,Persistent secondary Graphical User Interface,1693.15,7.0,0.39,497.94
+ORD-5682-DvA,2024-08-17,2025-04-20,Same Day,CUST-8873,Adam Bell,Home Office,California,Central,Furniture,Furnishings,Cross-platform explicit project,286.51,3.0,0.15,537.81
+ORD-1221-DxZ,2024-06-26,2025-04-20,Standard Class,CUST-1866,Michael Murphy,Consumer,Ohio,South,Office Supplies,Pens,Distributed impactful budgetary management,1374.67,7.0,0.38,490.52
+ORD-3192-MCJ,2024-05-12,2025-04-20,First Class,CUST-1815,Devin Moreno,Home Office,California,West,Office Supplies,Pens,Up-sized static approach,315.85,6.0,0.28,599.15
+ORD-4178-AUS,2025-03-15,2025-04-20,Same Day,CUST-0661,Bryan Jones,Consumer,Ohio,East,Technology,Machines,Exclusive zero administration product,1073.64,4.0,0.24,128.84
+ORD-3704-Mov,2024-07-15,2025-04-20,First Class,CUST-9716,Jasmine Wells,Consumer,Texas,West,Office Supplies,Pens,Multi-layered web-enabled matrix,73.8,10.0,0.24,-13.31
+ORD-1142-CMp,2025-03-20,2025-04-20,Standard Class,CUST-6416,April Gray,Consumer,Florida,Central,Furniture,Furnishings,Grass-roots reciprocal system engine,1322.54,2.0,0.23,168.65
+ORD-3650-IiF,2024-07-15,2025-04-20,Standard Class,CUST-3726,Roberta James,Corporate,Ohio,West,Furniture,Tables,Digitized system-worthy application,1979.29,3.0,0.27,278.25
+ORD-6636-xqT,2025-02-15,2025-04-20,Second Class,CUST-1251,Laura Mclean,Consumer,Florida,Central,Furniture,Furnishings,Up-sized intangible strategy,870.08,8.0,0.08,375.09
+ORD-2063-nQL,2024-08-15,2025-04-20,Second Class,CUST-4961,Cathy Miller,Home Office,Georgia,Central,Office Supplies,Storage,Networked 6thgeneration open architecture,411.39,3.0,0.22,624.58
+ORD-9253-xxi,2024-07-13,2025-04-20,Standard Class,CUST-6772,Brianna Evans,Home Office,Georgia,South,Technology,Accessories,Implemented national Internet solution,930.76,1.0,0.37,87.91
+ORD-1885-uHy,2024-06-28,2025-04-20,Standard Class,CUST-2058,Emily Henry,Corporate,New York,South,Office Supplies,Pens,Progressive upward-trending neural-net,505.78,10.0,0.37,257.83
+ORD-7143-peh,2024-05-21,2025-04-20,First Class,CUST-9837,Janice Brown,Corporate,California,West,Technology,Accessories,Multi-lateral secondary system engine,1772.23,3.0,0.14,428.08
+ORD-3819-RWb,2024-10-05,2025-04-20,Second Class,CUST-2172,Carl Lopez,Corporate,Ohio,East,Office Supplies,Binders,Centralized optimal archive,1990.68,2.0,0.38,304.39
+ORD-9988-vXQ,2024-06-26,2025-04-20,Same Day,CUST-9691,Laura Young,Consumer,Illinois,West,Office Supplies,Labels,Vision-oriented bottom-line forecast,,8.0,0.01,438.87
+ORD-6491-Rui,2024-09-14,2025-04-20,Same Day,CUST-7825,Renee Davies,Corporate,Ohio,West,Technology,Machines,Inverse uniform strategy,799.38,1.0,0.13,509.1
+ORD-6318-DsD,2024-10-20,2025-04-20,Same Day,CUST-4603,Dawn Stephens,Corporate,Georgia,East,Furniture,Bookcases,Balanced bifurcated superstructure,174.27,4.0,0.36,237.72
+ORD-7704-MBS,2024-11-03,2025-04-20,Second Class,CUST-4402,Christopher Stewart,Consumer,California,East,Office Supplies,Pens,Persevering well-modulated project,362.7,2.0,0.27,190.85
+,2024-10-01,2025-04-20,Standard Class,CUST-0507,,Consumer,Georgia,Central,Furniture,Chairs,Synchronized actuating process improvement,364.1,1.0,0.45,332.3
+ORD-1551-DwG,2024-11-01,2025-04-20,First Class,CUST-0579,Ricky Gray,Corporate,Illinois,South,Office Supplies,Binders,Future-proofed multi-tasking collaboration,114.31,1.0,0.02,177.4
+ORD-1772-SCE,2024-09-08,2025-04-20,Standard Class,CUST-8426,Bradley Harris,Consumer,Florida,East,Furniture,Tables,Profit-focused next generation definition,41.92,1.0,0.49,137.12
+ORD-1578-XEF,2025-02-16,2025-04-20,Second Class,CUST-5334,Jonathan Coleman,Consumer,New York,West,Furniture,Chairs,Fundamental solution-oriented access,97.58,9.0,0.05,127.14
+ORD-9301-FrD,2024-06-11,2025-04-20,Second Class,CUST-1543,Stephanie Rogers,Home Office,Ohio,South,Technology,Accessories,Intuitive didactic capacity,250.4,4.0,0.05,123.37
+ORD-9294-wgg,2024-09-27,2025-04-20,Standard Class,CUST-0154,Kaitlyn Salazar,Consumer,Ohio,West,Furniture,Furnishings,Organic uniform adapter,922.96,2.0,0.33,78.46
+ORD-4202-mDU,2024-08-10,2025-04-20,First Class,CUST-7188,Ellen Perez,Consumer,Florida,South,Technology,Copiers,Public-key fault-tolerant knowledge user,610.05,10.0,0.25,790.47
+ORD-8214-xeV,2025-03-08,2025-04-20,Standard Class,CUST-4378,Erin Obrien,Consumer,Pennsylvania,South,Technology,Accessories,Customer-focused discrete functionalities,1359.02,3.0,0.17,435.35
+ORD-9048-wsa,2024-08-12,2025-04-20,Same Day,CUST-5019,Joshua Scott,Consumer,Pennsylvania,East,Technology,Copiers,Programmable systematic approach,1220.98,10.0,0.22,311.03
+,2024-06-19,2025-04-20,First Class,CUST-4954,John Mullins,Consumer,California,East,Technology,Accessories,User-friendly intermediate secured line,624.61,7.0,0.38,419.77
+ORD-5439-oMH,2024-09-05,2025-04-20,Standard Class,CUST-5182,Justin Patton,Corporate,Illinois,West,Furniture,Tables,Vision-oriented interactive infrastructure,311.82,4.0,0.32,38.06
+ORD-0492-Qrh,2024-09-14,2025-04-20,Standard Class,CUST-1230,Mrs. Crystal Lara MD,Consumer,Illinois,Central,Technology,Machines,Multi-lateral reciprocal neural-net,1290.77,1.0,0.26,777.57
+ORD-6606-yMj,2024-07-13,2025-04-20,First Class,CUST-1336,Charles Adams,Consumer,Pennsylvania,Central,Technology,Copiers,Grass-roots user-facing capacity,492.08,9.0,0.03,717.68
+ORD-2159-Gpp,2024-12-01,2025-04-20,Same Day,CUST-0756,Chad Mathews,Home Office,Pennsylvania,West,Furniture,Tables,Persevering value-added synergy,890.3,1.0,0.03,291.64
+ORD-1921-XDq,2024-07-21,2025-04-20,Second Class,CUST-3378,Allen Hutchinson MD,Consumer,New York,East,Furniture,Chairs,Down-sized real-time framework,355.61,9.0,0.42,731.81
+ORD-3488-cTp,2024-07-12,2025-04-20,Same Day,CUST-0996,Laura Robinson,Home Office,Georgia,Central,Furniture,Chairs,Innovative holistic utilization,336.68,4.0,0.12,-23.56
+ORD-7556-ZlT,2024-09-18,2025-04-20,Standard Class,CUST-0241,Eric Phillips,Home Office,Georgia,West,Furniture,Bookcases,Reduced hybrid protocol,551.0,8.0,0.04,772.56
+ORD-7599-TvB,2024-09-25,2025-04-20,Second Class,CUST-3815,Sarah Miller,Corporate,Georgia,South,Office Supplies,Labels,Managed cohesive complexity,1015.53,7.0,0.38,619.6
+ORD-0013-lxl,2024-07-19,2025-04-20,Same Day,CUST-7693,Tammy Lawson,Corporate,Texas,Central,Office Supplies,Binders,Fully-configurable fault-tolerant emulation,1194.41,3.0,0.28,-24.3
+ORD-8495-HSU,2024-05-17,2025-04-20,Standard Class,CUST-7385,Jessica Fox,Corporate,Illinois,South,Office Supplies,Labels,Integrated incremental instruction set,1128.66,8.0,0.04,-63.34
+ORD-6904-ZqM,2024-08-17,2025-04-20,Second Class,CUST-6883,Christopher Martin,Consumer,California,East,Office Supplies,Paper,Versatile explicit core,1724.69,6.0,0.25,725.69
+ORD-2995-Vrh,2025-02-19,2025-04-20,Same Day,CUST-2767,Alicia Bishop,Corporate,Illinois,East,Office Supplies,Pens,Devolved scalable application,823.49,1.0,0.5,-75.52
+ORD-9870-yCJ,2025-02-05,2025-04-20,Second Class,CUST-6407,,Corporate,Illinois,Central,Technology,Accessories,Extended 5thgeneration synergy,1024.12,8.0,0.32,168.18
+ORD-6804-YrW,2024-07-27,2025-04-20,Same Day,CUST-9049,William Floyd,Home Office,Florida,West,Furniture,Furnishings,Advanced regional database,960.67,6.0,0.32,476.43
+ORD-6695-rLa,2024-08-19,2025-04-20,Standard Class,CUST-7441,Peter Lane,Home Office,Georgia,West,Technology,Accessories,Seamless needs-based challenge,516.03,10.0,0.29,462.6
+ORD-8137-dqv,2025-02-07,2025-04-20,First Class,CUST-4089,Zachary Robinson,Consumer,Ohio,South,Furniture,Chairs,Intuitive contextually-based interface,1415.08,2.0,0.26,-11.18
+ORD-0223-AGV,2025-04-06,2025-04-20,Same Day,CUST-5698,Wendy Howell,Corporate,Illinois,South,Office Supplies,Paper,Persevering even-keeled circuit,1176.3,7.0,0.38,724.32
+ORD-0229-iCy,2024-09-11,2025-04-20,Standard Class,CUST-7245,Jill Burton,Consumer,Illinois,West,Furniture,Chairs,User-centric object-oriented task-force,1860.73,7.0,0.35,-193.58
+ORD-0858-upp,2024-05-17,2025-04-20,First Class,CUST-8704,Joshua Wade,Consumer,Texas,South,Furniture,Furnishings,Balanced directional leverage,1054.67,5.0,0.37,-29.37
+ORD-9770-Vzg,2025-04-06,2025-04-20,Second Class,CUST-6937,Kristina Collins,Consumer,Georgia,West,Office Supplies,Paper,Quality-focused maximized project,1010.2,2.0,0.23,614.37
+ORD-4321-vzB,2024-10-04,2025-04-20,First Class,CUST-1908,Stephanie Gonzalez,Home Office,New York,West,Furniture,Tables,Down-sized next generation knowledgebase,526.11,7.0,0.22,712.97
+ORD-7434-CgP,2024-05-15,2025-04-20,First Class,CUST-4933,Nancy Moore,Corporate,Texas,South,Furniture,Tables,Self-enabling client-server open architecture,258.12,2.0,0.17,385.65
+ORD-3034-Phv,2024-04-25,2025-04-20,First Class,CUST-3931,Patricia Harris,Consumer,California,Central,Office Supplies,Labels,Vision-oriented scalable encryption,1506.08,1.0,0.33,589.21
+ORD-8325-ARr,2024-07-15,2025-04-20,Second Class,CUST-0123,Diana Hernandez,Home Office,California,South,Furniture,Chairs,Multi-layered holistic data-warehouse,1209.94,5.0,0.47,273.23
+ORD-3498-nyg,2024-06-10,2025-04-20,Same Day,CUST-1955,Jacob Andrews,Corporate,Pennsylvania,Central,Office Supplies,Storage,Multi-layered content-based intranet,1998.9,4.0,0.47,465.08
+ORD-9540-Hbz,2025-03-01,2025-04-20,First Class,CUST-9259,Tina Lopez,Corporate,Pennsylvania,East,Office Supplies,Storage,Re-engineered non-volatile intranet,16.14,7.0,0.36,687.97
+ORD-0262-HZD,2024-06-19,2025-04-20,First Class,CUST-4178,Lisa Morton,Home Office,Illinois,West,Furniture,Chairs,Upgradable coherent function,743.18,10.0,0.34,669.85
+ORD-6424-KUH,2024-04-24,2025-04-20,Second Class,CUST-1882,Shane Molina,Consumer,Pennsylvania,East,Technology,Machines,Ergonomic homogeneous moderator,1271.22,1.0,0.48,535.81
+ORD-8760-qdK,2025-04-06,2025-04-20,Second Class,CUST-3324,Stephanie Barber,Home Office,Georgia,South,Technology,Machines,Reverse-engineered tangible utilization,1481.02,2.0,0.17,739.08
+ORD-6016-UBo,2024-07-19,2025-04-20,Same Day,CUST-3198,William Kirby,Corporate,Florida,West,Office Supplies,Binders,Upgradable 24hour service-desk,1741.02,10.0,0.39,516.67
+ORD-4736-ShL,2024-10-29,2025-04-20,Same Day,CUST-6682,Kevin Garrett,Consumer,Illinois,South,Furniture,Tables,Virtual client-driven implementation,344.43,8.0,0.48,282.17
+ORD-0672-hOW,2025-03-10,2025-04-20,Second Class,CUST-0918,Gary Brown,Consumer,New York,East,Technology,,Decentralized radical capability,219.88,1.0,0.08,728.97
+ORD-8443-GfH,2024-09-30,2025-04-20,Second Class,CUST-9364,John Flynn,Home Office,Illinois,South,Office Supplies,Pens,Devolved 5thgeneration knowledgebase,1903.49,2.0,0.33,722.74
+ORD-9653-VQE,2025-03-12,2025-04-20,First Class,CUST-5856,Christina Nielsen,Home Office,Pennsylvania,West,Technology,Machines,Digitized multi-tasking moderator,1864.24,10.0,0.03,143.23
+ORD-0965-nUl,2025-03-25,2025-04-20,Same Day,CUST-7400,Joshua Johnson,Consumer,Florida,Central,Technology,Machines,Decentralized intermediate budgetary management,240.22,2.0,0.06,140.24
+ORD-3441-OsP,2025-02-02,2025-04-20,First Class,CUST-3669,Sheila Osborn,Home Office,Pennsylvania,West,Technology,Accessories,Mandatory local instruction set,1708.13,7.0,0.29,-198.32
+ORD-1397-vOS,2025-01-04,2025-04-20,Same Day,,Cheryl Cruz,Corporate,Pennsylvania,Central,Furniture,Tables,Persistent secondary access,1597.06,3.0,0.26,401.62
+ORD-6781-FYe,2025-03-06,2025-04-20,Same Day,CUST-7397,Jeffery George,Consumer,Georgia,Central,Furniture,Chairs,Organic tertiary middleware,297.95,5.0,0.42,299.83
+ORD-7853-rhM,2024-06-22,2025-04-20,Standard Class,CUST-9649,Shawn Hampton,Consumer,California,Central,Office Supplies,Paper,Visionary hybrid project,,2.0,0.14,647.67
+ORD-4977-HJR,2025-04-18,2025-04-20,Second Class,CUST-8693,Brenda Ferrell,Corporate,Illinois,South,Technology,Machines,Switchable incremental data-warehouse,127.04,6.0,0.08,516.77
+ORD-5442-Xiy,2024-09-13,2025-04-20,First Class,CUST-0598,Jeffrey Rodriguez,Consumer,Georgia,South,Technology,Accessories,Upgradable leadingedge Internet solution,605.21,3.0,0.5,347.94
+ORD-1128-rCL,2024-11-07,2025-04-20,Same Day,CUST-8493,Christopher Gill,Corporate,Ohio,South,Office Supplies,Labels,Innovative homogeneous projection,152.93,5.0,0.14,723.06
+ORD-4911-Rcl,2025-04-15,2025-04-20,First Class,CUST-2181,Mrs. Lisa Smith,Consumer,Pennsylvania,East,Technology,Machines,Optional explicit functionalities,1701.12,5.0,0.23,-36.31
+ORD-9654-LxT,2024-05-15,2025-04-20,Same Day,CUST-7136,Chelsea Strong,Corporate,New York,West,Furniture,Furnishings,Profit-focused 24hour hardware,444.09,4.0,0.37,-190.87
+ORD-0548-GKJ,2024-08-01,2025-04-20,Second Class,CUST-4121,Mr. Richard Burke,Corporate,Ohio,West,Technology,Phones,Switchable non-volatile success,1852.71,2.0,0.18,273.88
+ORD-7753-OYy,2024-12-17,2025-04-20,Standard Class,CUST-6978,Sheila Sharp,Home Office,Ohio,West,Furniture,Chairs,Upgradable multi-state encryption,1257.68,7.0,0.12,-81.2
+ORD-1400-SKz,2024-07-25,2025-04-20,Standard Class,CUST-6193,Nicole Stein,Home Office,New York,South,Office Supplies,Labels,Re-engineered 24/7 strategy,1553.94,2.0,0.39,664.9
+ORD-4842-XiT,2024-10-05,2025-04-20,Standard Class,CUST-9633,Joseph Moore,Home Office,Georgia,Central,Technology,Machines,Operative motivating structure,33.09,2.0,0.04,289.22
+,2024-12-18,2025-04-20,First Class,CUST-1063,Terri Mason,Home Office,Georgia,Central,Technology,Accessories,Cloned foreground focus group,1390.51,2.0,0.4,
+ORD-7144-JzC,2024-06-06,2025-04-20,Standard Class,CUST-8610,Amy Gregory,Home Office,New York,East,Office Supplies,Labels,Robust secondary neural-net,657.21,9.0,0.09,612.87
+ORD-4556-lvt,2025-04-12,2025-04-20,Same Day,CUST-0545,Tyler Rodriguez,Consumer,Texas,West,Furniture,Furnishings,Configurable fresh-thinking algorithm,1931.71,2.0,0.09,399.1
+ORD-1012-nDo,2025-01-20,2025-04-20,Same Day,CUST-1583,Patrick Gillespie,Corporate,Texas,East,Furniture,,Networked hybrid matrix,266.34,4.0,0.33,-112.18
+ORD-0904-zCg,2025-03-22,2025-04-20,First Class,CUST-8817,Molly Warren,Consumer,Illinois,Central,Office Supplies,Binders,Synergized analyzing task-force,1932.89,3.0,0.21,745.23
+ORD-7946-WLT,2024-10-13,2025-04-20,Standard Class,CUST-4967,Amber Smith,Consumer,Illinois,South,Furniture,Tables,Down-sized multimedia open system,288.31,8.0,0.35,322.67
+ORD-1986-WCa,2024-05-28,2025-04-20,Second Class,CUST-9249,Jeremy Lewis,Home Office,Texas,East,Office Supplies,Storage,Secured well-modulated access,481.83,4.0,0.07,656.09
+ORD-7734-YUv,2024-05-12,2025-04-20,Second Class,CUST-0151,Larry Smith,Home Office,Pennsylvania,Central,Furniture,Tables,Optimized discrete benchmark,265.7,10.0,0.21,349.85
+ORD-3738-djU,2025-04-07,2025-04-20,Second Class,CUST-1399,Jacob Conrad,Corporate,Georgia,East,Office Supplies,Labels,Profound context-sensitive time-frame,1890.03,7.0,0.47,-56.76
+ORD-1307-uZR,2024-11-14,2025-04-20,Standard Class,CUST-2920,Sarah Miller,Home Office,Florida,Central,Furniture,Chairs,Polarized bi-directional middleware,1131.65,9.0,0.3,219.69
+ORD-2897-LYK,2025-01-17,2025-04-20,Same Day,CUST-2653,Daniel Davis,Corporate,California,West,Furniture,Bookcases,Team-oriented cohesive installation,164.27,2.0,0.27,483.98
+ORD-2472-qll,2025-04-09,2025-04-20,Standard Class,CUST-1519,Benjamin Williams,Home Office,Texas,Central,Office Supplies,Binders,Optional well-modulated frame,1819.4,5.0,0.07,598.1
+ORD-4384-wOE,2025-01-07,2025-04-20,First Class,CUST-4505,Michael Morgan DDS,Corporate,Florida,South,Office Supplies,Binders,Synchronized secondary moratorium,1904.05,2.0,0.09,528.33
+ORD-5057-ZZr,2025-01-07,2025-04-20,Same Day,CUST-3036,Stacey Winters,Consumer,Pennsylvania,Central,Office Supplies,Storage,Quality-focused executive website,1107.57,10.0,0.05,-152.04
+ORD-2880-coL,2025-01-07,2025-04-20,Second Class,CUST-8077,Michelle Floyd,Corporate,Ohio,South,Office Supplies,Labels,Focused zero-defect data-warehouse,1188.7,5.0,0.0,313.57
+ORD-1228-yui,2025-03-19,2025-04-20,Second Class,CUST-1390,Andre Russell,Corporate,Illinois,East,Furniture,Tables,Phased disintermediate service-desk,1837.7,6.0,0.35,49.11
+ORD-6958-MbP,2024-07-02,2025-04-20,Same Day,CUST-9112,Daniel Robinson,Consumer,Georgia,Central,Technology,Machines,Profit-focused methodical approach,1598.95,,0.14,752.62
+ORD-7872-iXb,2024-12-11,2025-04-20,Standard Class,CUST-2123,Tim Warner,Home Office,Texas,Central,Technology,Accessories,Ergonomic 24hour interface,818.96,6.0,0.42,434.68
+ORD-4355-jLQ,2024-10-23,2025-04-20,First Class,CUST-0478,Carol Villarreal,Consumer,California,East,Furniture,Tables,Streamlined optimizing moderator,1489.38,9.0,0.46,608.35
+ORD-5274-qhE,2024-11-01,2025-04-20,Second Class,CUST-4124,Stephen Gill,Corporate,Georgia,East,,Furnishings,Secured solution-oriented superstructure,816.89,10.0,0.1,631.4
+ORD-9401-HOn,2024-07-29,2025-04-20,Standard Class,CUST-6300,Gina Lane,Consumer,California,South,Furniture,Furnishings,Organic well-modulated budgetary management,1929.65,9.0,0.45,-25.19
+ORD-1914-Abp,2025-02-06,2025-04-20,Standard Class,CUST-9202,Cheryl Parker,Consumer,Ohio,South,Office Supplies,Paper,Visionary global success,764.4,6.0,0.48,137.96
+ORD-5294-hkd,2024-12-27,2025-04-20,First Class,CUST-6414,Dale Reed,Corporate,Illinois,South,Technology,Accessories,Pre-emptive composite challenge,594.15,4.0,0.0,431.18
+ORD-7632-vfT,2024-11-25,2025-04-20,Standard Class,CUST-9172,Isabella Whitney,Home Office,California,South,Office Supplies,Paper,Extended 6thgeneration algorithm,1786.06,,0.03,-194.11
+ORD-2416-rLu,2024-12-13,2025-04-20,Standard Class,CUST-4651,Victoria Wright,Corporate,Texas,East,Office Supplies,Pens,Operative reciprocal product,705.95,3.0,0.2,-191.14
+ORD-2348-JUQ,2024-05-10,2025-04-20,Second Class,CUST-3368,Jeremy Johnson,Consumer,New York,South,Office Supplies,Labels,Upgradable radical firmware,256.45,8.0,0.0,569.45
+ORD-9017-lMb,2024-05-20,2025-04-20,Same Day,CUST-3029,Michael Flores,Corporate,Pennsylvania,Central,Office Supplies,Paper,Realigned needs-based info-mediaries,735.35,3.0,0.27,69.48
+ORD-2839-eQw,2025-02-08,2025-04-20,Second Class,CUST-6655,David Price,Consumer,Pennsylvania,South,Office Supplies,Labels,Triple-buffered human-resource Internet solution,21.56,4.0,0.06,84.9
+ORD-1629-RaY,2024-05-25,2025-04-20,Same Day,CUST-4582,Lisa Glass,Home Office,Pennsylvania,East,Furniture,Furnishings,Exclusive systemic customer loyalty,329.02,4.0,0.47,759.7
+ORD-1654-QeB,,2025-04-20,Same Day,CUST-7578,Anthony Hill,Corporate,Georgia,West,Office Supplies,Binders,Advanced even-keeled strategy,656.53,7.0,0.25,723.56
+ORD-6582-DFN,2024-11-18,2025-04-20,First Class,CUST-1466,Michael Keith,Consumer,California,,Office Supplies,Paper,Total 6thgeneration groupware,319.53,9.0,0.01,484.44
+ORD-0793-CiH,2025-03-19,2025-04-20,Same Day,CUST-1899,Raymond Murphy,Home Office,California,South,Furniture,Bookcases,Implemented fault-tolerant core,965.58,5.0,0.24,560.9
+ORD-0956-VZc,2024-08-21,2025-04-20,Second Class,CUST-4565,Alejandro Collins,Consumer,Illinois,East,Furniture,Tables,Horizontal discrete help-desk,1729.69,4.0,0.33,229.16
+ORD-2617-sWi,2024-05-04,2025-04-20,Second Class,CUST-9273,Linda Blevins,Consumer,New York,West,Office Supplies,Binders,Pre-emptive multimedia toolset,249.72,7.0,0.02,790.4
+ORD-6458-bCk,2024-06-23,2025-04-20,First Class,CUST-5753,Mark Nguyen,Home Office,Florida,East,Furniture,Furnishings,Future-proofed even-keeled orchestration,1730.06,7.0,0.2,106.45
+ORD-5392-Jed,2025-03-20,2025-04-20,Second Class,CUST-5244,James Gillespie,Corporate,Ohio,South,Technology,Accessories,Focused tangible framework,132.09,7.0,0.32,104.29
+ORD-3854-IiQ,2024-05-09,2025-04-20,Standard Class,CUST-7288,Zachary Brandt,Corporate,Ohio,West,Office Supplies,Pens,Horizontal clear-thinking website,646.48,1.0,0.09,-199.46
+ORD-4188-lxs,2024-12-31,2025-04-20,Second Class,CUST-2617,Laura Lewis,Corporate,Georgia,Central,Technology,Copiers,Multi-channeled cohesive infrastructure,1817.88,2.0,0.22,52.26
+ORD-9920-aQV,2025-01-31,2025-04-20,Standard Class,CUST-4391,Alexandria Robinson,Corporate,Texas,East,Office Supplies,Pens,Future-proofed asynchronous installation,1341.21,9.0,0.39,-69.69
+ORD-5293-gfV,2024-10-02,2025-04-20,Standard Class,CUST-3181,Mark Day,Consumer,Illinois,West,Office Supplies,Pens,Multi-tiered high-level initiative,1172.81,2.0,0.44,-69.51
+ORD-4627-hHr,2024-11-22,2025-04-20,First Class,CUST-8528,Leslie Smith,Home Office,Florida,West,Technology,Phones,Balanced content-based open system,1412.27,2.0,0.04,346.58
+ORD-1316-IrG,2024-06-14,2025-04-20,Same Day,CUST-3429,Jordan Brown,Consumer,New York,East,Office Supplies,Pens,Synergized solution-oriented product,264.39,7.0,0.28,52.53
+ORD-2028-uQN,2025-03-25,2025-04-20,Standard Class,CUST-2115,Allison Tanner,Corporate,Texas,South,Technology,Copiers,Reactive impactful concept,144.74,7.0,0.26,752.44
+ORD-0046-JYh,2024-09-15,2025-04-20,Standard Class,CUST-4531,Tammy Matthews,Home Office,New York,Central,Furniture,Tables,Extended demand-driven installation,100.44,10.0,0.03,772.47
+ORD-4028-rud,2024-06-09,2025-04-20,Same Day,CUST-6508,Laura Barker,Home Office,Texas,West,Furniture,Furnishings,Operative scalable matrices,881.11,9.0,0.19,579.37
+ORD-6212-Yxi,2025-02-17,2025-04-20,Standard Class,CUST-5523,Shannon Blanchard,Consumer,New York,East,Office Supplies,Storage,Future-proofed multimedia Graphic Interface,328.41,4.0,0.3,-191.14
+ORD-3078-srA,2025-04-15,2025-04-20,Standard Class,CUST-9390,Eugene Marshall,Corporate,Florida,Central,Technology,Machines,Ameliorated impactful concept,1419.43,9.0,0.06,23.93
+ORD-2722-Mff,2024-06-12,2025-04-20,Standard Class,CUST-3441,Natalie Miller,Consumer,New York,Central,Technology,Accessories,Centralized 6thgeneration migration,,5.0,0.44,-148.48
+ORD-3634-hCJ,2025-02-17,2025-04-20,First Class,CUST-7011,Justin Welch,Consumer,Pennsylvania,Central,,Tables,Mandatory bifurcated forecast,655.88,9.0,0.13,-66.39
+ORD-0898-FhR,2025-04-04,2025-04-20,Standard Class,CUST-0127,Gina Garcia,Consumer,California,Central,Technology,Copiers,Self-enabling cohesive encoding,446.37,5.0,0.09,771.6
+ORD-2302-bNy,2024-05-09,2025-04-20,Same Day,CUST-2886,Jessica Rasmussen,Home Office,Illinois,West,Technology,Phones,Diverse secondary Graphical User Interface,1635.53,4.0,0.16,3.92
+ORD-9130-Yhf,2025-03-31,2025-04-20,Second Class,CUST-1793,Brian Hardin,Corporate,Florida,South,Technology,Machines,Synchronized bi-directional standardization,743.59,8.0,0.05,-18.49
+ORD-5189-aWd,2025-04-15,2025-04-20,Second Class,CUST-2428,Bianca Morgan,Home Office,Georgia,West,Furniture,Tables,Cross-platform dedicated Graphical User Interface,1298.65,1.0,0.16,685.25
+ORD-6180-PLn,2024-12-28,2025-04-20,Second Class,CUST-6375,Matthew Roth,,New York,,Office Supplies,Storage,Organic 5thgeneration access,858.53,8.0,0.45,770.39
+ORD-8154-ZcH,2024-12-24,2025-04-20,First Class,CUST-1422,Miguel Freeman,Home Office,Texas,South,Furniture,Tables,Multi-channeled actuating migration,774.14,2.0,0.41,563.45
+ORD-2812-rdS,2024-11-13,2025-04-20,Second Class,CUST-4144,Dr. Jamie Webb,Consumer,Texas,Central,Technology,Phones,Visionary context-sensitive adapter,293.84,10.0,0.01,766.36
+ORD-3434-HQW,2025-03-01,2025-04-20,First Class,CUST-6833,Manuel Carlson Jr.,Consumer,New York,South,Furniture,Bookcases,Expanded eco-centric instruction set,1521.75,8.0,0.41,107.38
+ORD-1262-Rsk,2024-09-06,2025-04-20,Second Class,CUST-7892,Roger Reed,Consumer,Illinois,East,Office Supplies,Paper,Managed actuating conglomeration,52.2,1.0,0.05,96.74
+ORD-0623-msv,,2025-04-20,Second Class,CUST-0056,Carolyn Bell,Consumer,Florida,East,Technology,Machines,Synergistic value-added migration,461.08,7.0,0.07,455.36
+ORD-4615-ZDz,2025-02-07,2025-04-20,First Class,CUST-1282,Terry Garcia,Corporate,New York,East,Furniture,Furnishings,Progressive secondary adapter,456.8,5.0,0.18,415.7
+ORD-8924-nEg,2024-08-30,2025-04-20,First Class,CUST-3831,Christine Luna,Consumer,New York,West,Furniture,Bookcases,Cross-group methodical artificial intelligence,862.97,6.0,0.3,479.43
+ORD-6091-TDB,2025-04-12,2025-04-20,Standard Class,CUST-9070,Glen Thomas,Corporate,Texas,Central,Furniture,Bookcases,Operative uniform open architecture,1833.31,6.0,0.47,610.72
+ORD-8409-NOQ,2024-08-20,2025-04-20,First Class,CUST-3971,Christopher Rogers,Consumer,New York,Central,Technology,Phones,Future-proofed multi-state pricing structure,304.08,8.0,0.36,585.55
+ORD-3935-pnU,2024-07-10,2025-04-20,First Class,CUST-0836,Kristi Cherry,Home Office,Ohio,Central,Office Supplies,Binders,Exclusive zero administration structure,297.89,6.0,0.5,-18.13
+ORD-7010-lAt,2025-04-16,2025-04-20,Standard Class,CUST-2812,Erika Osborne,Corporate,Ohio,South,Office Supplies,Pens,Universal reciprocal system engine,1389.91,7.0,0.3,436.6
+ORD-6410-oEf,2025-03-23,2025-04-20,Same Day,CUST-8196,Daniel Mcguire,Corporate,Georgia,South,Furniture,Tables,Persistent multimedia parallelism,1069.62,4.0,0.19,380.96
+ORD-3080-Ksa,2025-03-11,2025-04-20,Second Class,CUST-7938,Andrew Rivas,Home Office,Texas,West,Office Supplies,Storage,Vision-oriented holistic support,729.8,4.0,0.5,-182.85
+ORD-1087-VQu,2025-02-15,,Second Class,CUST-3574,Danny Peterson,Consumer,California,Central,Technology,Machines,Re-contextualized non-volatile focus group,728.11,3.0,0.15,-55.86
+ORD-3875-Bho,2024-08-26,2025-04-20,Second Class,CUST-9197,Tina Flores,Consumer,Florida,East,Technology,Machines,Decentralized interactive customer loyalty,1496.52,2.0,0.48,503.96
+ORD-5670-ukE,2024-11-19,2025-04-20,Same Day,,Charlotte Ferguson,Corporate,California,East,Office Supplies,Binders,Diverse impactful Graphical User Interface,1328.87,2.0,0.24,393.93
+ORD-7683-hjT,2024-09-21,2025-04-20,Second Class,CUST-7821,Ryan Morales,Corporate,New York,East,Furniture,Chairs,Decentralized exuding functionalities,497.64,1.0,0.28,613.71
+ORD-7254-YvP,2025-03-31,2025-04-20,Same Day,CUST-2134,Wendy Drake,Home Office,New York,Central,Furniture,Tables,Re-contextualized dynamic task-force,945.67,6.0,0.22,444.85
+ORD-1041-uLZ,2025-03-05,2025-04-20,First Class,CUST-6228,Theresa Wagner,Consumer,California,East,Furniture,Bookcases,Innovative methodical access,1212.31,3.0,0.25,-189.13
+ORD-2490-jgg,2025-01-15,2025-04-20,Standard Class,CUST-2001,Kellie Pierce,Home Office,Illinois,West,Office Supplies,Labels,Multi-lateral local encoding,853.1,3.0,0.14,-108.06
+ORD-7197-uAz,2024-12-19,,Second Class,CUST-9815,Travis Contreras,Corporate,California,West,Office Supplies,Paper,Programmable local parallelism,790.66,9.0,0.3,-122.79
+ORD-4351-sRZ,2024-09-13,2025-04-20,Same Day,CUST-7872,Judith Krueger,Corporate,Ohio,South,Technology,Machines,Triple-buffered content-based moderator,338.0,6.0,0.32,-5.27
+ORD-0810-gqS,2024-05-31,2025-04-20,First Class,CUST-4560,Eric Bell,Corporate,Pennsylvania,East,Furniture,Chairs,Optimized clear-thinking software,486.66,3.0,0.27,-134.68
+ORD-1235-USs,2024-06-03,2025-04-20,Standard Class,CUST-5780,Samantha Johnson,Consumer,Florida,East,Technology,Phones,Mandatory national parallelism,488.27,2.0,0.49,364.8
+ORD-6712-cue,2024-08-31,2025-04-20,First Class,CUST-2516,James Flores,Consumer,Pennsylvania,East,Technology,Machines,Compatible non-volatile info-mediaries,1887.58,1.0,0.49,551.68
+ORD-1787-tUz,2024-07-13,2025-04-20,Second Class,CUST-7613,Robert Jones MD,Corporate,Ohio,Central,Office Supplies,Storage,Adaptive executive portal,1947.96,2.0,0.17,696.51
+ORD-7016-gBS,2024-06-01,2025-04-20,Second Class,CUST-8583,Joshua Walker,Consumer,Ohio,South,Technology,Phones,Optional upward-trending moderator,1176.85,1.0,0.15,-48.46
+ORD-6874-liy,2025-03-03,2025-04-20,First Class,CUST-6251,Donna Crawford,Home Office,Florida,West,Office Supplies,Binders,Reverse-engineered next generation focus group,1616.88,3.0,0.38,
+ORD-9359-dIe,2024-12-06,2025-04-20,Same Day,CUST-9511,Aaron Mitchell,Consumer,Pennsylvania,Central,Technology,Copiers,Proactive tangible Graphical User Interface,727.03,7.0,,512.76
+ORD-0683-DDD,2024-09-10,2025-04-20,Second Class,CUST-5982,Megan Garcia,Consumer,Texas,West,Technology,Machines,Seamless client-server structure,1138.13,8.0,0.05,-185.06
+ORD-4875-gOn,2024-05-30,2025-04-20,First Class,CUST-6061,Scott Donaldson,Corporate,Texas,South,Office Supplies,Storage,Synchronized encompassing synergy,634.3,5.0,0.08,80.12
+ORD-3481-EGI,2024-06-30,2025-04-20,First Class,CUST-7570,Gary Ayala,Consumer,New York,South,Office Supplies,Pens,Total 3rdgeneration hierarchy,523.31,8.0,0.49,563.15
+ORD-1110-piX,2024-06-27,2025-04-20,First Class,CUST-1733,Alex Reed,Home Office,Georgia,East,Office Supplies,Paper,Optimized heuristic frame,733.31,5.0,0.2,657.0
+ORD-9459-lzG,2024-07-15,2025-04-20,Same Day,CUST-0295,David Espinoza,Corporate,Pennsylvania,Central,Technology,Accessories,Integrated didactic archive,176.15,7.0,0.25,62.83
+ORD-4053-fZV,2024-09-01,2025-04-20,First Class,CUST-5935,Roger Flores,Home Office,Florida,East,Technology,Phones,User-friendly even-keeled moderator,317.58,2.0,0.15,-41.79
+ORD-9108-slS,2024-06-20,2025-04-20,Second Class,CUST-7547,Theodore Smith,Corporate,Georgia,East,Office Supplies,Binders,Grass-roots attitude-oriented frame,704.39,8.0,,700.13
+ORD-9143-NWf,2024-05-01,2025-04-20,First Class,,Angela Jones,Consumer,Texas,South,Office Supplies,Binders,Horizontal real-time core,1538.75,4.0,0.2,-135.53
+ORD-9415-tpn,,2025-04-20,Same Day,CUST-4578,Catherine Chavez,Consumer,Georgia,East,Office Supplies,Storage,De-engineered background framework,563.97,1.0,0.27,748.53
+ORD-4248-RIX,2024-05-27,2025-04-20,Standard Class,CUST-1353,Daniel Smith,Home Office,California,South,Furniture,Tables,,134.18,6.0,0.39,778.56
+ORD-9498-PeL,2024-09-05,2025-04-20,Second Class,CUST-4915,Antonio Howard,Consumer,Ohio,Central,Furniture,Chairs,Down-sized directional toolset,511.62,3.0,0.04,-130.74
+ORD-4560-ODB,2024-11-13,2025-04-20,Standard Class,CUST-4011,Dennis Reyes,Home Office,Georgia,South,Office Supplies,Binders,Managed background complexity,1054.31,5.0,0.09,-146.26
+ORD-4409-ghn,2024-11-28,2025-04-20,Standard Class,CUST-1062,Melvin Garcia,Consumer,Florida,Central,Office Supplies,Pens,User-friendly object-oriented throughput,1884.46,8.0,0.24,488.83
+ORD-3191-Abx,2024-07-23,2025-04-20,Standard Class,CUST-1659,Elizabeth Lewis,Home Office,Ohio,East,Furniture,Furnishings,Front-line homogeneous emulation,1126.21,10.0,0.1,522.72
+ORD-1697-YKv,2025-02-16,2025-04-20,Standard Class,,Kevin Pena,Home Office,Pennsylvania,East,Technology,Accessories,Profound grid-enabled neural-net,309.51,8.0,0.47,299.45
+ORD-2222-TUI,2024-08-01,,Same Day,CUST-3981,Michael Thompson,Corporate,California,South,Office Supplies,Binders,Exclusive optimizing time-frame,1887.21,3.0,0.32,438.92
+ORD-8282-NhT,2024-06-20,2025-04-20,First Class,CUST-6708,Larry Davis,Consumer,Florida,South,Technology,Phones,Synergized optimizing interface,1395.93,3.0,0.3,16.14
+ORD-7805-SJE,2024-05-07,2025-04-20,First Class,CUST-8123,Eric Manning,Corporate,Pennsylvania,East,Furniture,Tables,Multi-lateral radical model,610.87,5.0,0.25,667.76
+ORD-2246-lWX,2025-01-12,2025-04-20,Same Day,CUST-9899,Andrew Myers,Corporate,Ohio,Central,Technology,Machines,Diverse intangible open architecture,710.9,9.0,0.21,774.07
+ORD-8333-Nrh,2025-02-17,2025-04-20,Second Class,CUST-3906,Teresa Watkins,Corporate,Ohio,Central,Office Supplies,Binders,Function-based scalable initiative,362.02,10.0,0.08,235.88
+ORD-1845-UFh,2025-03-05,2025-04-20,Standard Class,CUST-7682,Christopher Willis,Home Office,Texas,East,Office Supplies,Labels,Adaptive impactful projection,1613.82,2.0,0.04,-183.57
+ORD-5259-IqP,2024-09-07,2025-04-20,Same Day,CUST-6895,Deborah Nolan,Home Office,Texas,South,Office Supplies,Binders,Cross-platform interactive installation,1011.69,1.0,0.33,651.71
+ORD-1534-HKm,2025-04-02,2025-04-20,Same Day,CUST-2230,Pamela Cervantes,Home Office,Ohio,East,Furniture,Tables,Horizontal stable intranet,399.16,8.0,0.48,150.61
+ORD-3146-XEs,2024-12-04,2025-04-20,Same Day,CUST-3670,Caroline Coleman,Consumer,Pennsylvania,West,Office Supplies,Labels,Enterprise-wide heuristic standardization,1020.05,5.0,0.44,64.5
+ORD-1904-hTK,2024-12-28,2025-04-20,First Class,CUST-3133,Stephanie Dunlap,Corporate,California,East,Office Supplies,Paper,Pre-emptive optimizing emulation,62.23,6.0,0.42,318.96
+ORD-4262-zaa,2024-11-10,2025-04-20,Standard Class,CUST-3447,Paula Butler,Consumer,Ohio,West,Technology,Copiers,Progressive regional capability,1115.92,7.0,0.1,444.43
+ORD-0155-GYZ,2025-01-25,2025-04-20,Second Class,CUST-7913,Laura Williams,Home Office,Ohio,West,Furniture,Furnishings,Synergized discrete orchestration,812.21,6.0,0.26,237.4
+ORD-9386-jFX,2025-04-13,2025-04-20,First Class,CUST-1762,Jason Ashley,Home Office,Ohio,Central,Furniture,Tables,Fully-configurable methodical emulation,1676.3,3.0,0.47,3.76
+ORD-2316-cvF,2024-09-29,2025-04-20,Same Day,CUST-8955,Cynthia Powell,Consumer,New York,East,Furniture,Chairs,Organized didactic access,1240.02,9.0,0.46,-121.23
+ORD-9331-qHZ,2024-08-08,2025-04-20,Second Class,CUST-0114,Curtis Jackson,Corporate,Pennsylvania,West,Office Supplies,Binders,Configurable tertiary strategy,487.05,4.0,0.15,335.42
+ORD-9476-tyt,2024-05-23,2025-04-20,Standard Class,CUST-4171,Seth Brewer,Home Office,California,Central,Furniture,Furnishings,Total 24hour framework,175.1,3.0,0.31,438.39
+ORD-3970-HJQ,2024-11-22,2025-04-20,First Class,CUST-3224,Nancy Bradley,Corporate,Texas,East,Technology,Phones,Advanced neutral circuit,292.25,5.0,0.45,-107.22
+ORD-0363-MNu,2024-12-17,2025-04-20,Second Class,CUST-6634,Antonio Rodriguez,Corporate,Texas,South,Office Supplies,Pens,Synergistic even-keeled support,1592.93,7.0,0.04,759.22
+ORD-6499-Hcw,2024-10-10,2025-04-20,Same Day,CUST-2459,Christy Richardson,Corporate,Pennsylvania,South,Furniture,Tables,Upgradable scalable budgetary management,1619.01,3.0,0.15,703.64
+ORD-4744-pJo,2024-05-17,2025-04-20,First Class,CUST-1093,Susan Hebert,Corporate,Pennsylvania,South,Technology,Phones,Networked stable website,1989.88,10.0,0.27,-41.61
+ORD-0059-GUV,2024-05-26,2025-04-20,First Class,CUST-6042,Mrs. Annette Griffin,Consumer,California,East,Technology,Copiers,User-friendly mobile adapter,1040.81,3.0,0.11,164.89
+ORD-7220-fxy,2024-12-28,2025-04-20,Standard Class,CUST-9879,Chelsea Gomez,Consumer,Florida,East,Furniture,Chairs,Versatile bifurcated system engine,1458.21,3.0,0.13,281.57
+ORD-4358-aJh,2024-08-06,2025-04-20,Standard Class,CUST-7566,Kathy Walker,Corporate,Georgia,South,Furniture,Bookcases,Multi-lateral real-time software,1030.19,7.0,0.46,50.09
+ORD-1308-EUs,2024-09-17,2025-04-20,Same Day,CUST-8537,Austin Schmitt,Consumer,Illinois,West,Furniture,Bookcases,Secured foreground methodology,1590.26,8.0,0.22,246.16
+ORD-6078-PiU,2024-05-18,2025-04-20,Standard Class,CUST-7554,Samuel Schneider,Home Office,Texas,South,Technology,Copiers,Multi-channeled real-time function,864.33,10.0,0.18,
+ORD-1398-ppo,2025-03-19,2025-04-20,Second Class,CUST-1378,Cory Fisher,Consumer,Illinois,South,Furniture,Furnishings,Balanced leadingedge hardware,594.01,9.0,0.18,-170.06
+ORD-8329-WQo,2024-11-05,2025-04-20,Same Day,CUST-4504,Erin Green,Consumer,Pennsylvania,West,Furniture,Bookcases,Profit-focused systemic firmware,154.55,6.0,0.19,579.51
+ORD-1206-Xrg,2024-07-18,2025-04-20,Standard Class,CUST-1496,Mr. Seth Smith,Home Office,California,Central,Furniture,Chairs,User-centric encompassing matrices,435.41,10.0,0.4,698.74
+ORD-4086-QJb,2024-09-17,2025-04-20,Same Day,CUST-3017,Joseph Wilson,Corporate,Florida,West,Technology,Phones,Multi-lateral explicit moratorium,214.81,5.0,0.36,746.27
+ORD-1477-rvK,2024-10-22,2025-04-20,Same Day,CUST-4125,Daniel Bradley,Home Office,Ohio,Central,Technology,Phones,Realigned fresh-thinking collaboration,1628.66,4.0,0.1,602.73
+ORD-6540-MPK,2024-10-29,2025-04-20,Standard Class,CUST-6876,Mary Baker,Corporate,Texas,East,Office Supplies,Binders,Adaptive asynchronous benchmark,911.04,10.0,0.16,182.86
+ORD-3001-uGZ,2024-12-15,2025-04-20,Standard Class,CUST-2666,Jennifer Robinson,Consumer,California,South,Technology,Phones,Up-sized cohesive Graphical User Interface,575.89,7.0,0.02,333.47
+ORD-1463-ddI,2025-02-09,2025-04-20,Standard Class,CUST-1429,Mr. Gabriel Terry DDS,Home Office,California,East,Technology,Phones,Face-to-face reciprocal product,945.09,7.0,0.36,74.67
+ORD-6420-LkD,2024-08-12,2025-04-20,First Class,CUST-4448,Geoffrey Wood,Home Office,Pennsylvania,South,Office Supplies,Labels,Operative encompassing definition,1228.52,7.0,0.15,783.97
+ORD-3541-aHI,2025-03-03,2025-04-20,Standard Class,CUST-6084,Emily Maddox,Home Office,Texas,East,Office Supplies,Binders,Cross-platform transitional help-desk,455.79,1.0,0.07,793.54
+ORD-6524-IVW,2024-08-12,2025-04-20,Second Class,CUST-9459,Susan Maynard,Consumer,Texas,West,Technology,Machines,Seamless logistical array,1450.97,6.0,0.41,337.56
+ORD-1666-gAh,2024-06-21,2025-04-20,Standard Class,CUST-7973,Michele Taylor,Consumer,Texas,East,Furniture,Chairs,Devolved bandwidth-monitored website,1894.82,2.0,0.13,487.92
+ORD-3299-txt,2025-02-16,2025-04-20,Second Class,CUST-0351,Tanya Pugh,Consumer,Georgia,East,Office Supplies,Pens,Object-based grid-enabled intranet,261.31,3.0,0.38,687.8
+ORD-1421-AQR,2024-04-28,2025-04-20,First Class,CUST-4962,Joanne Walker,Home Office,Florida,South,Office Supplies,Labels,Team-oriented empowering workforce,1325.93,5.0,0.16,530.86
+ORD-5868-Ekl,,2025-04-20,Standard Class,CUST-2719,Christopher Henry,Corporate,Texas,Central,Furniture,Chairs,User-centric composite moderator,1121.45,4.0,0.33,535.27
+ORD-2185-wrN,2024-05-01,2025-04-20,First Class,CUST-8296,William Daniels,Corporate,California,West,Furniture,Chairs,Upgradable asymmetric open architecture,36.12,4.0,0.23,185.06
+ORD-7439-mIJ,2024-05-15,2025-04-20,Standard Class,CUST-3980,Vicki Keller,Consumer,Pennsylvania,Central,Office Supplies,Binders,Visionary responsive adapter,1419.94,3.0,0.42,-94.34
+ORD-9089-jFI,2024-11-06,2025-04-20,Standard Class,CUST-3275,Jessica Davis,Corporate,Georgia,West,Furniture,Tables,Universal high-level time-frame,1562.24,4.0,0.03,223.09
+ORD-2532-HId,2024-11-25,2025-04-20,First Class,CUST-6358,Laura White,Consumer,Georgia,East,Technology,Copiers,Enhanced real-time parallelism,1492.6,4.0,0.01,260.85
+ORD-2866-CnF,2024-11-06,2025-04-20,Same Day,CUST-7701,Michael Thompson DDS,Home Office,Georgia,Central,Office Supplies,Binders,Quality-focused multi-state hierarchy,538.5,9.0,0.04,231.47
+ORD-0490-AHT,2024-10-08,2025-04-20,Same Day,CUST-4243,Wendy Kidd,Home Office,Pennsylvania,East,Furniture,Furnishings,User-friendly next generation middleware,888.27,6.0,0.05,448.62
+ORD-5832-vCG,2024-07-18,2025-04-20,Second Class,CUST-4672,Matthew Murphy,Corporate,Florida,South,Technology,Machines,Multi-channeled context-sensitive open architecture,361.52,5.0,0.26,293.62
+ORD-2593-nXH,2024-07-30,2025-04-20,First Class,CUST-9909,Darren Burns,Home Office,Florida,East,Office Supplies,Binders,Multi-layered radical knowledgebase,446.96,1.0,0.45,375.23
+ORD-2302-fRV,2024-07-04,2025-04-20,First Class,CUST-8131,Caitlyn Campbell,Corporate,Florida,South,Furniture,Chairs,,789.9,2.0,0.11,624.07
+ORD-2087-TkA,2024-09-05,2025-04-20,Same Day,CUST-5449,Alicia Williams,Consumer,New York,West,Technology,Copiers,Total grid-enabled utilization,701.79,5.0,0.35,87.98
+ORD-8613-hPR,2024-05-11,2025-04-20,Second Class,CUST-2266,Jerry Allen,Home Office,Georgia,Central,Furniture,,Optimized methodical adapter,1706.6,4.0,0.09,481.44
+ORD-4986-WgX,2024-07-24,2025-04-20,Standard Class,CUST-5600,Jessica Hodge,Corporate,New York,East,Furniture,Tables,Persevering well-modulated solution,1335.4,7.0,0.17,-22.48
+ORD-9564-byD,2025-01-12,2025-04-20,Second Class,CUST-5365,Kimberly Moore,Home Office,California,Central,Office Supplies,Binders,Synergistic encompassing implementation,1939.39,10.0,0.0,673.22
+ORD-9370-OQb,2025-03-07,2025-04-20,First Class,CUST-2456,Angela Jackson,Consumer,Illinois,West,Office Supplies,Binders,Exclusive bifurcated emulation,1055.29,3.0,0.38,575.26
+ORD-5055-zVV,2025-01-20,2025-04-20,Standard Class,CUST-6775,Laurie Harvey,Corporate,Georgia,Central,Furniture,Bookcases,,,5.0,0.33,53.54
+ORD-0276-reb,2025-02-19,2025-04-20,Standard Class,CUST-8487,Mrs. Gabrielle Patton,Corporate,Pennsylvania,South,Office Supplies,Binders,Compatible zero administration task-force,234.39,9.0,0.36,-179.27
+ORD-9733-jLr,2024-11-28,2025-04-20,Second Class,CUST-8944,Bill Mitchell,Corporate,Georgia,East,Office Supplies,Paper,Extended methodical open system,496.29,7.0,0.18,544.37
+ORD-2987-PkL,2025-01-10,2025-04-20,First Class,CUST-4563,Mark Harris,Corporate,Georgia,West,Furniture,Furnishings,Synergistic even-keeled software,537.97,6.0,0.44,191.03
+ORD-0541-mJB,2024-07-18,2025-04-20,Standard Class,CUST-8970,Sherri Bautista,Consumer,California,Central,Office Supplies,Pens,Public-key zero tolerance task-force,1670.0,2.0,0.22,255.03
+ORD-2718-fbF,2024-12-05,2025-04-20,First Class,CUST-0561,Amanda Valdez,Consumer,Georgia,West,Office Supplies,Pens,Organic background knowledgebase,937.97,3.0,0.26,89.78
+ORD-2859-Veg,2024-06-01,2025-04-20,Standard Class,CUST-1347,Amanda Andrade,Corporate,Illinois,East,Technology,Accessories,Cross-platform bifurcated task-force,1601.57,1.0,0.23,17.33
+ORD-1651-GGS,2024-09-24,2025-04-20,First Class,CUST-2207,Travis Robinson,Corporate,Illinois,East,Technology,Phones,Multi-layered national conglomeration,866.34,1.0,0.02,-62.28
+ORD-1762-cLk,2024-10-31,2025-04-20,Second Class,CUST-9595,Alexander Shaffer,Consumer,Illinois,West,Office Supplies,Storage,Phased cohesive ability,1991.87,4.0,0.22,718.26
+ORD-4542-VEN,2025-01-23,2025-04-20,First Class,CUST-0481,Emily Hicks,Corporate,Pennsylvania,West,Office Supplies,Paper,Operative stable framework,1625.3,7.0,0.21,766.91
+ORD-1744-VTZ,2024-06-09,2025-04-20,Standard Class,CUST-3580,Ryan Moore,Home Office,Illinois,West,Furniture,Bookcases,Right-sized national function,1132.18,6.0,0.4,-60.82
+ORD-4047-alP,2025-01-31,2025-04-20,Second Class,CUST-7698,Thomas Taylor,Corporate,Florida,Central,Furniture,Bookcases,Reactive solution-oriented capacity,616.94,5.0,0.28,428.32
+ORD-8946-MUp,2024-11-13,2025-04-20,Same Day,CUST-3688,Christopher Peterson,Corporate,Texas,West,Technology,Accessories,Customizable impactful framework,1057.88,6.0,0.25,485.16
+ORD-5030-ntP,2024-09-28,2025-04-20,Standard Class,CUST-5274,Isaac Barnes,Corporate,Georgia,South,Office Supplies,Labels,Customizable optimal success,1923.28,8.0,0.01,358.91
+ORD-0540-PIy,2025-02-23,2025-04-20,Second Class,CUST-6694,Shane Moore,Home Office,Illinois,West,Office Supplies,Binders,Diverse 5thgeneration firmware,1164.84,6.0,0.06,343.27
+ORD-6849-WSd,2024-09-14,2025-04-20,First Class,CUST-5368,Jodi Fisher,Corporate,New York,South,Technology,Copiers,Extended full-range firmware,1343.46,8.0,0.4,674.91
+ORD-8377-THg,2024-12-16,2025-04-20,First Class,CUST-7699,Heidi Phillips,Consumer,Illinois,East,Office Supplies,Binders,Seamless national extranet,673.63,2.0,0.41,365.44
+ORD-4974-UJi,2024-08-07,2025-04-20,First Class,CUST-2228,Johnathan Ellison,Consumer,California,West,Technology,Copiers,Adaptive clear-thinking hierarchy,1037.37,9.0,0.37,295.3
+ORD-5549-CgV,2024-09-21,2025-04-20,Standard Class,CUST-2204,Christopher Olsen,Home Office,Illinois,East,Furniture,Tables,Grass-roots zero tolerance standardization,1613.18,10.0,0.34,-85.29
+ORD-8338-Mqy,2025-01-26,2025-04-20,First Class,CUST-2413,Roger Snyder,Home Office,Texas,West,Furniture,Tables,Programmable non-volatile knowledgebase,416.54,8.0,0.01,305.8
+ORD-3567-Rft,2024-08-28,2025-04-20,First Class,CUST-9502,Aaron Myers,Corporate,Ohio,South,Office Supplies,Binders,Networked reciprocal strategy,1965.57,4.0,0.42,346.72
+ORD-0237-xdo,2024-11-04,2025-04-20,First Class,CUST-2522,Kathleen Armstrong,Corporate,New York,East,Technology,Machines,Customer-focused well-modulated hardware,377.77,4.0,0.09,541.66
+ORD-2989-cNz,2024-09-23,2025-04-20,Same Day,CUST-4626,Seth Liu,Corporate,Illinois,Central,Technology,Accessories,Decentralized disintermediate installation,1338.4,10.0,0.25,467.7
+ORD-9838-rYb,2024-11-03,2025-04-20,First Class,CUST-7094,Chelsea Kramer,Corporate,Ohio,South,Office Supplies,Labels,Object-based mission-critical functionalities,304.85,5.0,0.23,364.21
+ORD-6379-zCF,2025-02-24,2025-04-20,First Class,CUST-0547,Brian Joseph,Home Office,Georgia,East,Furniture,Bookcases,Switchable zero tolerance paradigm,1817.14,6.0,0.48,267.91
+ORD-1599-ELk,2024-06-05,2025-04-20,Standard Class,CUST-7140,Jeffrey Rodriguez,Consumer,New York,Central,Technology,Machines,Devolved zero-defect utilization,1006.27,9.0,0.11,702.55
+ORD-3701-UaA,2025-01-17,2025-04-20,First Class,CUST-8098,Stephen Vargas,Consumer,New York,Central,Technology,Machines,Intuitive optimizing attitude,1315.31,10.0,0.17,515.18
+ORD-3148-iKe,2025-01-10,2025-04-20,Standard Class,CUST-0542,Joshua Dalton,Corporate,Texas,South,Furniture,Bookcases,Multi-tiered actuating capacity,759.28,8.0,0.3,-19.63
+ORD-5337-uAh,2024-12-24,2025-04-20,Second Class,CUST-6053,Lisa Wagner,Home Office,Pennsylvania,Central,Technology,Copiers,Versatile contextually-based software,1173.14,7.0,0.03,-170.48
+ORD-6768-UhW,2024-12-02,2025-04-20,Second Class,CUST-1442,Angela Ross,Consumer,Texas,South,Technology,Accessories,Cross-group methodical strategy,1869.13,8.0,0.16,31.53
+ORD-6686-ojj,2024-12-14,2025-04-20,First Class,CUST-3402,Anthony Potter,Consumer,,South,,Accessories,Inverse uniform groupware,1845.53,1.0,0.31,-85.53
+ORD-6116-UbI,2024-08-23,2025-04-20,Same Day,CUST-0236,James Jensen,Corporate,California,West,Technology,Phones,Synchronized eco-centric secured line,649.11,8.0,0.19,788.87
+ORD-3223-Olv,2024-10-13,2025-04-20,Second Class,CUST-1636,Sara Baker DDS,Corporate,Georgia,South,Technology,Accessories,Automated client-driven monitoring,1360.91,4.0,0.1,-37.91
+ORD-4676-LZG,2025-03-16,2025-04-20,First Class,CUST-4216,Bobby Davis,Home Office,California,East,Technology,Accessories,Down-sized user-facing algorithm,415.04,3.0,0.45,159.56
+ORD-3321-qIe,2025-02-18,2025-04-20,First Class,CUST-1574,Steven Adams,Corporate,New York,South,Office Supplies,Storage,Adaptive neutral software,388.37,4.0,0.29,273.73
+ORD-7955-EoF,2024-05-25,2025-04-20,Second Class,CUST-6120,Daniel Jimenez,Consumer,Georgia,South,Office Supplies,Pens,Monitored executive secured line,1254.69,2.0,0.28,-72.81
+ORD-1059-ICR,2025-01-05,2025-04-20,First Class,CUST-3469,Jill Webb,Consumer,Georgia,West,Technology,Copiers,Virtual interactive initiative,112.44,9.0,0.17,24.02
+ORD-4546-CRc,2024-08-23,2025-04-20,Same Day,CUST-8915,Christina Townsend,Home Office,Pennsylvania,East,Office Supplies,Pens,Progressive logistical model,1746.16,3.0,0.48,-125.22
+ORD-9943-OJx,2024-09-19,2025-04-20,Standard Class,CUST-2374,Justin Riddle,Corporate,California,East,Technology,Accessories,Virtual modular firmware,1169.72,5.0,0.33,-167.73
+ORD-1669-QwL,2024-11-11,2025-04-20,Second Class,CUST-2280,Mikayla Sims,Corporate,California,West,Office Supplies,Pens,Organic impactful leverage,416.42,6.0,0.46,463.34
+ORD-6074-WPu,2025-01-30,2025-04-20,Same Day,CUST-7967,Douglas Hughes,Consumer,California,Central,Furniture,Tables,Implemented cohesive benchmark,1962.3,7.0,0.3,412.43
+ORD-4951-xOT,2025-01-31,2025-04-20,Second Class,CUST-2949,Patricia Munoz,Corporate,California,East,Furniture,Furnishings,Decentralized object-oriented software,80.84,9.0,0.11,150.26
+ORD-4725-TMr,2024-07-29,2025-04-20,Second Class,CUST-3577,Thomas Stewart,Consumer,,East,Office Supplies,Pens,Function-based solution-oriented strategy,1549.49,4.0,0.27,660.29
+ORD-9348-yVb,2025-01-06,2025-04-20,Same Day,CUST-1971,Jimmy Williams DVM,Consumer,Ohio,South,Technology,Phones,Public-key needs-based protocol,1393.93,7.0,0.35,349.54
+ORD-0255-jHZ,2025-03-27,2025-04-20,First Class,CUST-2946,Thomas Mccall,Home Office,Pennsylvania,Central,Furniture,Furnishings,Innovative non-volatile structure,395.35,7.0,0.46,38.17
+ORD-9104-xEX,2024-04-29,2025-04-20,Second Class,CUST-1443,Shannon Kemp,Corporate,California,East,Furniture,Chairs,Front-line multi-state product,1747.78,4.0,0.41,-123.39
+ORD-5770-YdS,2025-02-15,2025-04-20,Second Class,CUST-1558,Keith Clark,Corporate,California,Central,Furniture,Furnishings,Organized static benchmark,705.84,4.0,0.5,-70.28
+ORD-7659-uid,2024-07-08,2025-04-20,First Class,CUST-4415,Larry Murphy,Home Office,Texas,East,Office Supplies,Labels,Self-enabling optimizing focus group,507.9,9.0,0.1,505.26
+ORD-9094-yiy,2024-09-14,2025-04-20,Same Day,CUST-2754,Abigail Preston,Home Office,Illinois,Central,Office Supplies,Paper,Team-oriented empowering time-frame,1562.61,5.0,0.43,44.21
+ORD-9557-ADG,2025-03-31,2025-04-20,First Class,CUST-8102,Charles Lee,Consumer,Pennsylvania,South,Office Supplies,Pens,Open-architected eco-centric capability,1413.95,10.0,0.24,-121.55
+ORD-3425-jCZ,2025-03-11,2025-04-20,Standard Class,CUST-9216,Alvin Gonzalez,Home Office,Florida,East,Furniture,Tables,Synergized methodical Local Area Network,751.06,,0.02,35.11
+ORD-0773-DHc,2024-11-02,2025-04-20,First Class,CUST-6080,Francis Shannon,Consumer,Georgia,East,Office Supplies,Labels,,547.89,10.0,0.19,627.18
+ORD-6142-tnB,2024-10-09,2025-04-20,Standard Class,CUST-7946,Kathy Mccarthy,Home Office,Ohio,South,Furniture,Chairs,Robust dynamic architecture,47.51,7.0,0.19,-155.58
+ORD-7217-BRq,2025-02-15,2025-04-20,Second Class,CUST-5814,Bethany Bridges,Home Office,Ohio,East,Furniture,Furnishings,Enhanced foreground protocol,1324.2,1.0,0.27,147.8
+ORD-3386-MKk,2024-09-20,2025-04-20,Standard Class,CUST-8501,Jane Thomas,Home Office,Florida,East,Furniture,Bookcases,Organized eco-centric monitoring,688.48,10.0,0.22,227.55
+ORD-2942-xos,2024-08-11,2025-04-20,First Class,CUST-5119,Eugene Stewart,Home Office,Ohio,Central,Technology,Phones,Organized non-volatile Local Area Network,1718.44,9.0,0.23,372.6
+ORD-1144-xMw,2024-10-27,2025-04-20,Second Class,CUST-0647,David Garner,Corporate,Georgia,West,Technology,Copiers,Seamless 5thgeneration data-warehouse,272.43,1.0,0.14,482.6
+ORD-9562-Mtn,2024-05-04,2025-04-20,Second Class,CUST-5116,Stacy Clark,Home Office,Illinois,Central,Office Supplies,Binders,Reduced hybrid hub,1146.45,1.0,0.31,161.69
+ORD-7135-RLW,2024-10-04,2025-04-20,First Class,CUST-4678,Stephanie Chapman,Consumer,Illinois,Central,Technology,Copiers,Balanced cohesive array,1673.64,3.0,0.22,-182.73
+ORD-5040-gCx,2024-09-09,2025-04-20,First Class,CUST-1370,Michael Henry,Corporate,Georgia,West,Furniture,Furnishings,Synergized optimal utilization,,10.0,0.47,76.45
+ORD-5758-trv,2024-08-04,2025-04-20,First Class,CUST-0680,Christina Mccormick,Corporate,New York,Central,Technology,Copiers,Extended background leverage,1534.29,5.0,0.13,294.93
+ORD-1197-NAy,2025-01-02,2025-04-20,Second Class,CUST-2517,Tammy Cox,Home Office,California,West,Furniture,Tables,Universal dedicated moratorium,237.75,1.0,0.09,306.72
+ORD-2225-Nnl,2025-03-12,2025-04-20,Standard Class,CUST-0713,Lisa White,Consumer,Florida,East,Office Supplies,Storage,Cross-group content-based installation,1903.89,5.0,0.49,-183.88
+ORD-8767-sYr,2024-12-21,,First Class,CUST-3379,Bonnie Jenkins,Home Office,Florida,Central,Office Supplies,Storage,Universal multi-state help-desk,227.24,9.0,0.22,311.04
+ORD-0297-Rvu,2025-03-18,2025-04-20,Standard Class,CUST-5361,Steven King,Home Office,Pennsylvania,South,Furniture,Tables,Advanced holistic circuit,152.07,7.0,0.44,-56.92
+ORD-8811-ohY,2025-02-28,2025-04-20,Standard Class,CUST-2567,Angela Ramirez,Corporate,Ohio,Central,Office Supplies,Storage,Assimilated optimal superstructure,946.66,5.0,0.31,-39.69
+ORD-9821-hft,2024-09-06,2025-04-20,Second Class,CUST-7609,Erik Hayes,Home Office,California,East,Furniture,Bookcases,User-centric zero-defect interface,1221.99,6.0,0.26,580.87
+ORD-4245-YqB,2025-03-06,2025-04-20,Second Class,CUST-6323,John Burns,Corporate,California,West,Technology,Copiers,Stand-alone 5thgeneration core,768.37,2.0,0.48,758.63
+ORD-2001-mor,2024-07-25,2025-04-20,First Class,CUST-1489,Wayne Diaz,Home Office,California,South,Furniture,Furnishings,Reverse-engineered responsive flexibility,1321.8,9.0,0.22,69.18
+ORD-5180-TOm,2024-05-08,2025-04-20,Second Class,CUST-4849,Gary Thomas,Corporate,Florida,Central,Technology,Copiers,Face-to-face homogeneous standardization,469.47,6.0,0.37,-84.58
+ORD-0898-skj,2024-11-20,2025-04-20,Same Day,CUST-4255,Mary Scott,Corporate,Texas,Central,Furniture,Furnishings,Team-oriented secondary policy,1125.31,2.0,0.46,453.33
+ORD-6264-NgY,2024-11-22,2025-04-20,Same Day,CUST-8061,Dr. Joel Bartlett,Corporate,Florida,West,Technology,Accessories,Multi-channeled zero-defect hub,1852.18,4.0,0.39,207.62
+ORD-6386-Icf,2024-12-28,2025-04-20,Standard Class,CUST-0504,Ethan Padilla,Corporate,Pennsylvania,Central,Technology,Accessories,Customer-focused human-resource extranet,244.75,7.0,0.21,783.25
+ORD-8826-xUS,2024-06-26,2025-04-20,Second Class,CUST-1655,Kenneth Davidson,Consumer,Georgia,East,Technology,Machines,Vision-oriented full-range hardware,341.87,7.0,0.13,354.58
+ORD-0171-HVJ,2025-02-23,2025-04-20,Second Class,CUST-3426,Monica Rowe,Consumer,Ohio,East,Office Supplies,Binders,Persevering bandwidth-monitored policy,1383.19,2.0,0.07,666.88
+ORD-8965-MNK,2024-07-19,2025-04-20,Standard Class,CUST-2333,Charles Richmond,Consumer,Ohio,West,Office Supplies,Labels,Front-line asynchronous application,1426.85,2.0,0.17,624.72
+ORD-6493-CqV,2024-11-28,2025-04-20,First Class,CUST-7322,Brian Carter,Home Office,California,East,Office Supplies,Storage,Organic homogeneous open architecture,1480.11,6.0,0.47,710.67
+ORD-1686-Yxk,2024-08-26,2025-04-20,Same Day,CUST-5582,Allison Williams,Corporate,Georgia,West,Technology,Machines,Adaptive modular architecture,1469.55,10.0,0.46,736.62
+ORD-8797-JqD,2025-01-24,2025-04-20,First Class,CUST-4821,Sherri Ellis,Home Office,Pennsylvania,South,Furniture,Tables,Cross-platform web-enabled alliance,764.96,8.0,0.09,522.53
+ORD-8559-far,2025-03-28,2025-04-20,Second Class,CUST-5986,Kelly Thompson,Corporate,Georgia,Central,Office Supplies,Binders,Networked logistical success,106.09,9.0,0.45,379.83
+ORD-2250-QWM,2024-09-11,2025-04-20,Standard Class,CUST-4186,Connie King,Corporate,Pennsylvania,West,Office Supplies,Pens,Realigned holistic firmware,1907.49,1.0,0.41,534.63
+ORD-3067-DLG,2024-08-28,2025-04-20,Same Day,CUST-2299,Dawn White,Home Office,Illinois,Central,Technology,Accessories,Pre-emptive client-driven workforce,207.94,5.0,0.08,87.84
+ORD-7216-FRl,,2025-04-20,Second Class,,Dawn Frye,Consumer,Illinois,Central,Office Supplies,Labels,Expanded scalable analyzer,1977.72,2.0,0.46,466.43
+ORD-6395-okK,2024-10-25,2025-04-20,Second Class,CUST-8377,Jacqueline Lopez,Home Office,New York,East,Furniture,Chairs,Devolved contextually-based budgetary management,1200.8,,0.48,339.83
+ORD-3589-ulb,2024-09-03,2025-04-20,Same Day,CUST-7413,Lindsay Blackwell,Consumer,Pennsylvania,West,Furniture,Chairs,Re-engineered empowering website,570.86,10.0,0.21,244.82
+ORD-1780-pjN,2024-10-02,2025-04-20,Standard Class,CUST-3462,Diane Baldwin,Consumer,,South,Furniture,Furnishings,Balanced well-modulated benchmark,1778.87,8.0,0.13,664.5
+ORD-2546-zvO,2024-12-03,2025-04-20,Standard Class,CUST-2354,Rebecca Reed,Consumer,Florida,East,Office Supplies,Binders,Multi-tiered 24hour hierarchy,660.96,9.0,0.17,253.46
+ORD-3682-UvX,2024-06-07,2025-04-20,Standard Class,CUST-9263,Jennifer Jacobs DVM,Consumer,Ohio,East,Technology,Phones,Multi-layered background pricing structure,1865.41,9.0,0.16,641.43
+ORD-4121-ZgF,2025-03-08,2025-04-20,,CUST-0136,Peter Keith,Consumer,New York,,Technology,Phones,Programmable needs-based toolset,1745.51,4.0,0.34,65.29
+ORD-2175-qtz,2024-06-25,2025-04-20,Second Class,CUST-0188,Steven Williams,Home Office,Georgia,Central,Furniture,Furnishings,Extended high-level array,272.27,2.0,0.48,657.16
+ORD-9927-QnO,2024-09-05,2025-04-20,First Class,CUST-0536,Robert Deleon,Corporate,Texas,South,Technology,Accessories,Re-contextualized foreground artificial intelligence,1119.9,4.0,0.35,-161.19
+ORD-9246-TJe,2025-04-19,2025-04-20,Same Day,CUST-6454,Dorothy Dalton,Home Office,Florida,Central,Technology,Copiers,Team-oriented modular flexibility,973.62,3.0,0.44,640.69
+ORD-4215-iom,2024-12-02,2025-04-20,Same Day,CUST-8073,Deborah Lucas,Home Office,Ohio,Central,Office Supplies,Labels,Fundamental multi-state paradigm,1091.39,5.0,0.05,-87.63
+ORD-4603-xgZ,2024-07-06,2025-04-20,Same Day,CUST-4755,Lisa Romero,Corporate,Florida,South,Office Supplies,Labels,Implemented bottom-line neural-net,240.48,8.0,0.48,460.61
+ORD-6779-RDK,2025-04-15,2025-04-20,Second Class,CUST-0722,Robert Johnson,Corporate,Georgia,South,Office Supplies,Labels,Customizable bottom-line support,1377.57,1.0,0.15,307.49
+ORD-5963-pbt,2025-04-20,2025-04-20,Standard Class,CUST-2668,Chelsea Mcintosh,Corporate,Pennsylvania,South,Office Supplies,Binders,Re-contextualized impactful matrix,788.84,8.0,0.21,60.7
+ORD-6825-hGb,2025-04-10,2025-04-20,Same Day,CUST-0539,Brianna Cortez,Home Office,Florida,Central,Furniture,Bookcases,Digitized intermediate forecast,1276.17,1.0,0.15,209.81
+ORD-4054-mPj,2024-10-04,2025-04-20,Second Class,CUST-8339,,Home Office,Texas,Central,Technology,Accessories,Customer-focused object-oriented synergy,267.14,9.0,0.01,522.23
+ORD-0969-TNS,2024-06-26,2025-04-20,Standard Class,CUST-4429,Maria White,Corporate,Texas,East,Office Supplies,Binders,Automated global complexity,1042.11,6.0,0.27,785.22
+ORD-3179-iGS,2024-09-28,2025-04-20,Second Class,CUST-2809,Natalie Brown,Corporate,New York,Central,Technology,Machines,Balanced impactful instruction set,669.69,4.0,0.28,48.7
+ORD-1327-bqs,2024-05-17,2025-04-20,First Class,CUST-3727,Ann Jordan,Home Office,Texas,South,Furniture,Chairs,Universal human-resource database,1584.77,1.0,0.08,101.47
+ORD-7788-aRy,2024-11-20,2025-04-20,First Class,CUST-5475,Edward Shaw,Corporate,Texas,South,Furniture,Tables,Team-oriented foreground process improvement,1314.0,3.0,0.41,676.62
+ORD-8841-RrX,2024-07-20,2025-04-20,First Class,CUST-7564,Johnny Crosby,Home Office,Ohio,East,Furniture,Chairs,Realigned scalable infrastructure,39.34,9.0,0.3,-48.15
+ORD-2863-edE,2025-01-03,2025-04-20,Second Class,CUST-9168,Joshua Kim,Home Office,Illinois,Central,Technology,Machines,Open-architected eco-centric contingency,856.05,1.0,0.15,258.91
+ORD-0397-haD,2025-02-13,2025-04-20,Same Day,CUST-5039,Drew Wheeler,Corporate,Illinois,South,Furniture,Bookcases,Customizable motivating adapter,195.19,7.0,0.28,283.35
+ORD-7389-rBy,2024-08-10,2025-04-20,Same Day,CUST-4925,Todd Brown,Consumer,Georgia,South,Technology,Accessories,Object-based cohesive framework,1903.4,9.0,0.36,252.27
+ORD-9848-OkW,2025-02-06,2025-04-20,Same Day,CUST-3799,Amy Gomez,Consumer,Georgia,Central,Technology,Phones,Managed object-oriented forecast,958.84,2.0,0.32,132.44
+ORD-3893-KtF,2024-11-19,2025-04-20,First Class,CUST-5300,Paul Berry,Home Office,New York,West,Technology,Phones,Re-contextualized composite analyzer,1731.01,8.0,0.3,-116.11
+ORD-9481-Wuu,2024-12-26,2025-04-20,Same Day,CUST-9925,William Smith,Home Office,Florida,East,Office Supplies,Storage,Expanded attitude-oriented success,1537.14,5.0,0.21,540.51
+ORD-4353-vdV,2024-07-29,2025-04-20,Standard Class,CUST-3514,Kevin Campbell,Home Office,Ohio,East,Furniture,Chairs,Mandatory system-worthy website,543.61,4.0,0.38,594.7
+ORD-9575-wpC,2024-09-03,2025-04-20,Standard Class,CUST-3081,Eugene Brooks,Home Office,Florida,Central,Technology,Machines,Multi-lateral 5thgeneration flexibility,928.13,8.0,0.26,658.65
+ORD-2977-PUe,2024-12-17,2025-04-20,First Class,CUST-4649,Tyler Burke,Corporate,Texas,South,Technology,Phones,Organic dedicated concept,263.29,1.0,0.08,548.15
+ORD-8237-vxW,2024-10-28,2025-04-20,Same Day,CUST-4515,Caitlin Williams,Consumer,California,South,Furniture,Tables,Profit-focused explicit groupware,995.42,9.0,0.24,548.99
+ORD-5912-jZw,2024-06-02,2025-04-20,Same Day,CUST-0775,Charlene Porter,Consumer,Illinois,East,Technology,,Monitored zero-defect Graphical User Interface,876.6,5.0,0.36,680.23
+ORD-2710-AeW,2024-06-23,2025-04-20,Standard Class,CUST-2128,John Washington,Home Office,Pennsylvania,West,Office Supplies,Storage,Function-based logistical challenge,291.62,9.0,0.34,602.81
+ORD-9964-bDs,2025-04-08,2025-04-20,Standard Class,CUST-2322,Craig Hill,Corporate,Georgia,West,Technology,Copiers,Business-focused bifurcated service-desk,1873.04,3.0,0.08,515.08
+ORD-7829-NRM,2025-02-28,2025-04-20,Standard Class,CUST-3241,Catherine Roth,Corporate,New York,West,Office Supplies,Binders,Persevering analyzing Graphic Interface,946.28,1.0,0.16,-12.33
+ORD-7738-HbH,2024-12-15,2025-04-20,Same Day,CUST-8888,Sarah Cardenas,Corporate,Texas,East,Technology,Phones,Integrated national hub,1253.7,10.0,0.08,150.45
+ORD-0910-fFH,2024-10-06,2025-04-20,Standard Class,CUST-0994,Scott Thompson,Home Office,California,West,Technology,Accessories,Progressive hybrid parallelism,556.42,7.0,0.29,105.75
+ORD-4888-rAa,2024-07-31,2025-04-20,Standard Class,CUST-4354,Joseph Graham,Home Office,Florida,East,Technology,Machines,Self-enabling empowering matrices,1189.35,2.0,0.37,79.99
+ORD-0433-lSU,2025-04-09,2025-04-20,First Class,CUST-2057,Darrell Leonard,Consumer,Ohio,Central,Office Supplies,Storage,Realigned client-driven neural-net,1155.55,10.0,0.3,766.66
+ORD-3753-bTl,2024-07-12,2025-04-20,Second Class,CUST-7503,Shelly Sullivan,Consumer,California,West,Technology,Machines,Customer-focused client-driven moderator,1978.28,2.0,0.46,414.92
+ORD-1176-PCs,2024-09-17,2025-04-20,Same Day,CUST-0306,Cynthia Oneill,Consumer,Pennsylvania,East,Furniture,Tables,Centralized global algorithm,1792.95,1.0,0.07,607.23
+ORD-8369-dWh,2024-12-02,2025-04-20,Standard Class,CUST-2281,Kylie Smith,Corporate,,West,Office Supplies,Labels,Operative asymmetric core,1124.69,,0.39,506.24
+ORD-7138-WSQ,2024-10-11,2025-04-20,Standard Class,CUST-5301,Sarah Graves,Home Office,Texas,West,Office Supplies,Pens,Enhanced scalable benchmark,1911.17,5.0,0.36,639.88
+ORD-0188-WDc,2025-02-18,2025-04-20,Same Day,CUST-3828,John Davis,Home Office,Illinois,East,Technology,Machines,Seamless discrete attitude,1120.23,7.0,0.33,-21.99
+ORD-7514-VNt,2024-10-21,2025-04-20,Standard Class,CUST-7478,Claire Gutierrez,Home Office,Ohio,West,Office Supplies,Labels,Distributed tangible migration,1237.78,4.0,0.19,-20.99
+ORD-2884-wqZ,2024-12-05,2025-04-20,Second Class,CUST-8684,Michelle Frank,Corporate,Pennsylvania,West,Technology,Phones,Secured human-resource project,21.17,5.0,0.16,711.04
+ORD-7680-IEp,2024-05-16,2025-04-20,First Class,CUST-4421,Sara Whitehead,Home Office,Illinois,East,Office Supplies,Storage,Progressive discrete synergy,1297.96,8.0,0.2,795.74
+ORD-7584-old,2025-02-08,2025-04-20,Standard Class,CUST-8263,Randy Rios,Home Office,California,East,Technology,Copiers,Virtual global installation,1727.74,8.0,0.5,432.24
+ORD-4527-IRx,2025-02-12,2025-04-20,Same Day,CUST-4385,Carla Brooks,Home Office,Texas,East,Office Supplies,Paper,Pre-emptive well-modulated open architecture,745.37,10.0,0.45,-46.81
+ORD-0471-Jha,2024-05-31,2025-04-20,Second Class,CUST-9986,Gregory Bartlett,Consumer,Ohio,East,Technology,Accessories,Synergistic value-added middleware,121.54,1.0,0.16,657.89
+,2025-02-24,2025-04-20,First Class,CUST-1424,Heather Wright,Corporate,Pennsylvania,West,,Paper,Realigned real-time structure,1812.39,10.0,0.36,166.26
+ORD-4979-KgR,2024-11-12,2025-04-20,Same Day,CUST-4952,Grant Martin,Home Office,California,East,Furniture,Furnishings,Open-architected impactful toolset,393.95,9.0,0.07,66.64
+ORD-8481-HGN,2024-05-29,2025-04-20,First Class,CUST-5641,Michelle Barrett,Corporate,Florida,South,Furniture,Furnishings,Stand-alone leadingedge help-desk,354.21,1.0,0.16,360.56
+ORD-6266-AqH,2025-02-04,2025-04-20,Same Day,CUST-9970,Melissa Hernandez,Home Office,Texas,South,Furniture,Bookcases,Cloned coherent open system,185.44,2.0,0.09,-113.58
+ORD-1610-Mpc,2024-08-10,2025-04-20,First Class,CUST-3860,Nathan Smith,Consumer,California,West,Office Supplies,Storage,Secured dynamic process improvement,1279.51,8.0,0.04,524.28
+ORD-9902-xFn,2024-05-08,2025-04-20,Second Class,CUST-7781,Jillian Rivera,Home Office,New York,Central,Furniture,Bookcases,Upgradable eco-centric application,116.14,5.0,0.09,-59.57
+ORD-4995-AiI,2024-11-23,2025-04-20,Second Class,CUST-4742,Hannah Palmer,Consumer,Illinois,West,Office Supplies,Labels,Fundamental value-added utilization,362.45,5.0,0.13,239.6
+ORD-1085-xGw,2025-04-20,2025-04-20,Standard Class,CUST-5841,Jessica Cameron,Home Office,Pennsylvania,Central,Furniture,Furnishings,Multi-layered dynamic model,1547.02,9.0,,431.03
+ORD-1425-nUu,2025-02-21,2025-04-20,Same Day,CUST-2114,William Avila MD,Consumer,Florida,South,Furniture,Chairs,Assimilated context-sensitive open architecture,700.37,5.0,0.1,499.65
+ORD-0443-juH,2025-01-02,2025-04-20,First Class,CUST-0061,Tyler Stark,Home Office,Florida,Central,Technology,Copiers,Front-line responsive frame,444.33,5.0,0.02,-84.7
+ORD-4627-HYD,2024-09-02,2025-04-20,Same Day,CUST-1276,Aaron Hayes,Consumer,Georgia,Central,Technology,Accessories,Quality-focused content-based flexibility,750.84,7.0,0.33,701.27
+ORD-2510-pGK,2024-06-16,2025-04-20,Standard Class,CUST-3414,Kathleen Marshall,Consumer,New York,South,Office Supplies,Binders,Customizable modular architecture,956.24,6.0,0.32,-99.79
+ORD-1904-KLV,2024-09-13,2025-04-20,Second Class,CUST-7969,Pedro Dunn,Corporate,New York,East,Office Supplies,Pens,Grass-roots client-driven process improvement,883.63,10.0,0.23,375.97
+ORD-3943-WDH,2024-11-07,2025-04-20,Same Day,CUST-1288,Amanda Myers,Consumer,Illinois,Central,Office Supplies,Labels,Automated empowering knowledgebase,1205.87,8.0,0.34,100.17

@@ -1,0 +1,44 @@
+Project 2: Financial Data Analysis (Stocks/Expenses)
+Objective: Analyze stock market trends or personal finance data.
+
+Dataset:
+Use Yahoo Finance (AAPL Stock) or generate synthetic expense data with columns:
+
+Date, Description, Category, Amount, Payment_Method
+
+Step-by-Step Questions:
+Beginner (Data Cleaning & Aggregation)
+Load and inspect the dataset.
+
+Handle missing values (if any) and duplicates.
+
+Convert Date to datetime format.
+
+
+Calculate total spending per category.
+
+Find the average transaction amount.
+
+Intermediate (Time Series & Visualization)
+Plot a line chart of daily closing prices (for stocks).
+
+Calculate moving averages (7-day and 30-day).
+
+Identify the day with the highest trading volume.
+
+Compute monthly spending trends.
+
+Use seaborn to plot a distribution of expenses.
+
+Advanced (Predictive & Automation)
+Calculate daily returns (for stocks).
+
+Use statsmodels to detect seasonality.
+
+Build a simple expense forecasting model (linear regression).
+
+Automate a monthly expense report.
+
+Detect anomalies using Z-score.
+
+

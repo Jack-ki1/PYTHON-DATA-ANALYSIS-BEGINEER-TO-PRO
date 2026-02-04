@@ -1,0 +1,32 @@
+Project 3: Customer Survey Insights (Sentiment Analysis)
+Objective: Analyze customer feedback data.
+
+Dataset:
+Use Kaggle’s Customer Reviews or generate synthetic survey data with:
+
+Response_ID, Rating (1-5), Feedback_Text, Age, Gender, Region
+
+Step-by-Step Questions:
+Beginner (Data Wrangling)
+Load and clean the dataset.
+
+Check for missing Feedback_Text entries.
+
+Convert Rating into categories (Poor, Fair, Good, Excellent).
+# Visualize rating distribution
+
+Intermediate (Text & Sentiment Analysis)
+Perform sentiment analysis using TextBlob.
+Visualize sentiment distribution.
+
+Find the most common words using WordCloud.
+
+Compare ratings by Gender or Region.
+
+Advanced (NLP & Automation)
+Use NLTK to remove stopwords.
+
+Apply TF-IDF to extract key themes.
+
+Build a simple sentiment classifier.
+
