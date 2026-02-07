@@ -31,8 +31,6 @@ Welcome to the Python Data Analysis Beginner to Pro course! This repository cont
     - [Files Included:](#files-included-9)
   - [Level 3F: Task on Simple Sales Analysis](#level-3f-task-on-simple-sales-analysis)
     - [Files Included:](#files-included-10)
-  - [Level 3G: Global Superstore Project](#level-3g-global-superstore-project)
-    - [Files Included:](#files-included-11)
   - [Level 3H: Dashboard Max](#level-3h-dashboard-max)
     - [File Included:](#file-included)
   - [Quick Reference Guide](#quick-reference-guide)
@@ -149,17 +147,6 @@ This section focuses on sales data analysis, covering trends, forecasting, and s
 - **data_for_P001.csv**: Sales dataset used for the analysis.
 - **Project_Basic_Sales_Report_Analysis_quiz.txt**: Quiz material to test understanding of sales analysis concepts.
 
-## Level 3G: Global Superstore Project
-
-This capstone project integrates all previously learned techniques in a comprehensive analysis of global retail data.
-
-### Files Included:
-- **GLOBALSUPERSTORE_FINAL.ipynb**: Final comprehensive analysis of global superstore data.
-- **GLOBALSUPERSTORE_INITIAL.ipynb**: Initial exploratory analysis of the same dataset.
-- **GLOBALSUPERSTORE_DATA.csv**: Primary dataset containing global superstore transaction records.
-- **GLOBALSUPERSTORE_DATA -DUPLICATE1.csv**: Duplicate of the dataset for backup or alternative analysis.
-- **GLOBALSUPERSTORE_QUIZ.pdf**: Quiz in PDF format to assess understanding of the project.
-- **GLOBALSUPERSTORE_PB.pbix**: Power BI file potentially containing visualizations related to the project.
   
 ## Level 3H: Dashboard Max
 
